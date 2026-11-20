@@ -1,5 +1,7 @@
 # Sekoia: one set of Finance numbers everyone can trust
 
+**[Report (PDF)](https://albt-france.github.io/sekoia-finance-data-case-study/report/Sekoia_Finance_Data_CaseStudy.pdf) · [Interactive dashboard](https://albt-france.github.io/sekoia-finance-data-case-study/dashboard/finance_data_dashboard.html)**
+
 **Mapping, reconciling and explaining the data of a cybersecurity SaaS.** An independent case study for the *Finance Data Analyst - SaaS*
 role posted by Sekoia (19 Nov 2026).
 
