@@ -1,0 +1,14 @@
+# raw public responses and the planted truth are never published
+data/raw/
+data/_hidden_truth.csv
+data/finance.duckdb
+data/finance.duckdb.wal
+# working files
+DECISIONS.md
+HANDOFF*.md
+.env
+__pycache__/
+.ipynb_checkpoints/
+report/_print.pdf
+*.tmp
+report/report.html

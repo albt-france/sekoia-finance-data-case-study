@@ -1,0 +1,241 @@
+month,line_group,budget_line,gl_account,budget_eur,aws_list_cost_usd,aws_discount_rate,usd_per_eur,headcount,department
+2026-01,Revenue,SaaS subscriptions,706000,1826913.0,,,,,
+2026-01,Revenue,Professional services,706100,60000.0,,,,,
+2026-01,COGS,Cloud hosting - Azure,604200,8677.0,,,,,
+2026-01,COGS,Cloud hosting - OVHcloud,604300,11698.0,,,,,
+2026-01,COGS,Threat-intel feeds and production tools,604500,26600.0,,,,,
+2026-01,Opex,Travel and expenses,625100,124562.0,,,,,
+2026-01,Opex,Internal software,651000,86400.0,,,,,
+2026-01,Opex,Marketing and events,623000,330000.0,,,,,
+2026-01,Opex,Rent,613200,78000.0,,,,,
+2026-01,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-01,Opex,Other G&A,628000,150000.0,,,,,
+2026-01,COGS,Cloud hosting - AWS,604100,171287.0,235772.0,0.15,1.17,,
+2026-01,Payroll,Payroll - Engineering,641000+645000,285030.0,,,,37.0,Engineering
+2026-01,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-01,Payroll,Payroll - Threat Research,641000+645000,96915.0,,,,13.0,Threat Research
+2026-01,Payroll,Payroll - SOC Operations & Support,641000+645000,134314.0,,,,23.0,SOC Operations & Support
+2026-01,Payroll,Payroll - Customer Success,641000+645000,74550.0,,,,12.0,Customer Success
+2026-01,Payroll,Payroll - Sales,641000+645000,243219.0,,,,27.0,Sales
+2026-01,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-01,Payroll,Payroll - G&A,641000+645000,123008.0,,,,18.0,G&A
+2026-02,Revenue,SaaS subscriptions,706000,1865278.0,,,,,
+2026-02,Revenue,Professional services,706100,60000.0,,,,,
+2026-02,COGS,Cloud hosting - Azure,604200,8851.0,,,,,
+2026-02,COGS,Cloud hosting - OVHcloud,604300,11990.0,,,,,
+2026-02,COGS,Threat-intel feeds and production tools,604500,26900.0,,,,,
+2026-02,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-02,Opex,Internal software,651000,87100.0,,,,,
+2026-02,Opex,Marketing and events,623000,330000.0,,,,,
+2026-02,Opex,Rent,613200,78000.0,,,,,
+2026-02,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-02,Opex,Other G&A,628000,150000.0,,,,,
+2026-02,COGS,Cloud hosting - AWS,604100,175569.0,241666.0,0.15,1.17,,
+2026-02,Payroll,Payroll - Engineering,641000+645000,285030.0,,,,37.0,Engineering
+2026-02,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-02,Payroll,Payroll - Threat Research,641000+645000,96915.0,,,,13.0,Threat Research
+2026-02,Payroll,Payroll - SOC Operations & Support,641000+645000,134314.0,,,,23.0,SOC Operations & Support
+2026-02,Payroll,Payroll - Customer Success,641000+645000,74550.0,,,,12.0,Customer Success
+2026-02,Payroll,Payroll - Sales,641000+645000,243219.0,,,,27.0,Sales
+2026-02,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-02,Payroll,Payroll - G&A,641000+645000,123008.0,,,,18.0,G&A
+2026-03,Revenue,SaaS subscriptions,706000,1904449.0,,,,,
+2026-03,Revenue,Professional services,706100,60000.0,,,,,
+2026-03,COGS,Cloud hosting - Azure,604200,9028.0,,,,,
+2026-03,COGS,Cloud hosting - OVHcloud,604300,12290.0,,,,,
+2026-03,COGS,Threat-intel feeds and production tools,604500,27200.0,,,,,
+2026-03,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-03,Opex,Internal software,651000,87800.0,,,,,
+2026-03,Opex,Marketing and events,623000,528000.0,,,,,
+2026-03,Opex,Rent,613200,78000.0,,,,,
+2026-03,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-03,Opex,Other G&A,628000,150000.0,,,,,
+2026-03,COGS,Cloud hosting - AWS,604100,179958.0,247708.0,0.15,1.17,,
+2026-03,Payroll,Payroll - Engineering,641000+645000,493464.0,,,,38.0,Engineering
+2026-03,Payroll,Payroll - Product,641000+645000,122528.0,,,,9.0,Product
+2026-03,Payroll,Payroll - Threat Research,641000+645000,175938.0,,,,14.0,Threat Research
+2026-03,Payroll,Payroll - SOC Operations & Support,641000+645000,236260.0,,,,24.0,SOC Operations & Support
+2026-03,Payroll,Payroll - Customer Success,641000+645000,125670.0,,,,12.0,Customer Success
+2026-03,Payroll,Payroll - Sales,641000+645000,376643.0,,,,27.0,Sales
+2026-03,Payroll,Payroll - Marketing,641000+645000,119805.0,,,,11.0,Marketing
+2026-03,Payroll,Payroll - G&A,641000+645000,207356.0,,,,18.0,G&A
+2026-04,Revenue,SaaS subscriptions,706000,1944442.0,,,,,
+2026-04,Revenue,Professional services,706100,60000.0,,,,,
+2026-04,COGS,Cloud hosting - Azure,604200,9209.0,,,,,
+2026-04,COGS,Cloud hosting - OVHcloud,604300,12597.0,,,,,
+2026-04,COGS,Threat-intel feeds and production tools,604500,27500.0,,,,,
+2026-04,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-04,Opex,Internal software,651000,88500.0,,,,,
+2026-04,Opex,Marketing and events,623000,330000.0,,,,,
+2026-04,Opex,Rent,613200,78000.0,,,,,
+2026-04,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-04,Opex,Other G&A,628000,150000.0,,,,,
+2026-04,COGS,Cloud hosting - AWS,604100,184457.0,253900.0,0.15,1.17,,
+2026-04,Payroll,Payroll - Engineering,641000+645000,292733.0,,,,38.0,Engineering
+2026-04,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-04,Payroll,Payroll - Threat Research,641000+645000,104370.0,,,,14.0,Threat Research
+2026-04,Payroll,Payroll - SOC Operations & Support,641000+645000,140154.0,,,,24.0,SOC Operations & Support
+2026-04,Payroll,Payroll - Customer Success,641000+645000,74550.0,,,,12.0,Customer Success
+2026-04,Payroll,Payroll - Sales,641000+645000,252228.0,,,,28.0,Sales
+2026-04,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-04,Payroll,Payroll - G&A,641000+645000,123008.0,,,,18.0,G&A
+2026-05,Revenue,SaaS subscriptions,706000,1985275.0,,,,,
+2026-05,Revenue,Professional services,706100,60000.0,,,,,
+2026-05,COGS,Cloud hosting - Azure,604200,9393.0,,,,,
+2026-05,COGS,Cloud hosting - OVHcloud,604300,12912.0,,,,,
+2026-05,COGS,Threat-intel feeds and production tools,604500,27800.0,,,,,
+2026-05,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-05,Opex,Internal software,651000,89200.0,,,,,
+2026-05,Opex,Marketing and events,623000,330000.0,,,,,
+2026-05,Opex,Rent,613200,78000.0,,,,,
+2026-05,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-05,Opex,Other G&A,628000,150000.0,,,,,
+2026-05,COGS,Cloud hosting - AWS,604100,189069.0,260248.0,0.15,1.17,,
+2026-05,Payroll,Payroll - Engineering,641000+645000,300436.0,,,,39.0,Engineering
+2026-05,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-05,Payroll,Payroll - Threat Research,641000+645000,104370.0,,,,14.0,Threat Research
+2026-05,Payroll,Payroll - SOC Operations & Support,641000+645000,140154.0,,,,24.0,SOC Operations & Support
+2026-05,Payroll,Payroll - Customer Success,641000+645000,80762.0,,,,13.0,Customer Success
+2026-05,Payroll,Payroll - Sales,641000+645000,252228.0,,,,28.0,Sales
+2026-05,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-05,Payroll,Payroll - G&A,641000+645000,129841.0,,,,19.0,G&A
+2026-06,Revenue,SaaS subscriptions,706000,2026966.0,,,,,
+2026-06,Revenue,Professional services,706100,60000.0,,,,,
+2026-06,COGS,Cloud hosting - Azure,604200,9581.0,,,,,
+2026-06,COGS,Cloud hosting - OVHcloud,604300,13235.0,,,,,
+2026-06,COGS,Threat-intel feeds and production tools,604500,28100.0,,,,,
+2026-06,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-06,Opex,Internal software,651000,89900.0,,,,,
+2026-06,Opex,Marketing and events,623000,330000.0,,,,,
+2026-06,Opex,Rent,613200,78000.0,,,,,
+2026-06,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-06,Opex,Other G&A,628000,150000.0,,,,,
+2026-06,COGS,Cloud hosting - AWS,604100,193796.0,266754.0,0.15,1.17,,
+2026-06,Payroll,Payroll - Engineering,641000+645000,300436.0,,,,39.0,Engineering
+2026-06,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-06,Payroll,Payroll - Threat Research,641000+645000,104370.0,,,,14.0,Threat Research
+2026-06,Payroll,Payroll - SOC Operations & Support,641000+645000,145994.0,,,,25.0,SOC Operations & Support
+2026-06,Payroll,Payroll - Customer Success,641000+645000,80762.0,,,,13.0,Customer Success
+2026-06,Payroll,Payroll - Sales,641000+645000,252228.0,,,,28.0,Sales
+2026-06,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-06,Payroll,Payroll - G&A,641000+645000,129841.0,,,,19.0,G&A
+2026-07,Revenue,SaaS subscriptions,706000,2069532.0,,,,,
+2026-07,Revenue,Professional services,706100,60000.0,,,,,
+2026-07,COGS,Cloud hosting - Azure,604200,9772.0,,,,,
+2026-07,COGS,Cloud hosting - OVHcloud,604300,13566.0,,,,,
+2026-07,COGS,Threat-intel feeds and production tools,604500,28400.0,,,,,
+2026-07,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-07,Opex,Internal software,651000,90600.0,,,,,
+2026-07,Opex,Marketing and events,623000,330000.0,,,,,
+2026-07,Opex,Rent,613200,78000.0,,,,,
+2026-07,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-07,Opex,Other G&A,628000,150000.0,,,,,
+2026-07,COGS,Cloud hosting - AWS,604100,198640.0,273423.0,0.15,1.17,,
+2026-07,Payroll,Payroll - Engineering,641000+645000,300436.0,,,,39.0,Engineering
+2026-07,Payroll,Payroll - Product,641000+645000,72686.0,,,,9.0,Product
+2026-07,Payroll,Payroll - Threat Research,641000+645000,104370.0,,,,14.0,Threat Research
+2026-07,Payroll,Payroll - SOC Operations & Support,641000+645000,145994.0,,,,25.0,SOC Operations & Support
+2026-07,Payroll,Payroll - Customer Success,641000+645000,80762.0,,,,13.0,Customer Success
+2026-07,Payroll,Payroll - Sales,641000+645000,261236.0,,,,29.0,Sales
+2026-07,Payroll,Payroll - Marketing,641000+645000,71071.0,,,,11.0,Marketing
+2026-07,Payroll,Payroll - G&A,641000+645000,129841.0,,,,19.0,G&A
+2026-08,Revenue,SaaS subscriptions,706000,2112993.0,,,,,
+2026-08,Revenue,Professional services,706100,60000.0,,,,,
+2026-08,COGS,Cloud hosting - Azure,604200,9968.0,,,,,
+2026-08,COGS,Cloud hosting - OVHcloud,604300,13905.0,,,,,
+2026-08,COGS,Threat-intel feeds and production tools,604500,28700.0,,,,,
+2026-08,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-08,Opex,Internal software,651000,91300.0,,,,,
+2026-08,Opex,Marketing and events,623000,330000.0,,,,,
+2026-08,Opex,Rent,613200,78000.0,,,,,
+2026-08,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-08,Opex,Other G&A,628000,150000.0,,,,,
+2026-08,COGS,Cloud hosting - AWS,604100,203606.0,280258.0,0.15,1.17,,
+2026-08,Payroll,Payroll - Engineering,641000+645000,308140.0,,,,40.0,Engineering
+2026-08,Payroll,Payroll - Product,641000+645000,80762.0,,,,10.0,Product
+2026-08,Payroll,Payroll - Threat Research,641000+645000,104370.0,,,,14.0,Threat Research
+2026-08,Payroll,Payroll - SOC Operations & Support,641000+645000,151834.0,,,,26.0,SOC Operations & Support
+2026-08,Payroll,Payroll - Customer Success,641000+645000,80762.0,,,,13.0,Customer Success
+2026-08,Payroll,Payroll - Sales,641000+645000,261236.0,,,,29.0,Sales
+2026-08,Payroll,Payroll - Marketing,641000+645000,77532.0,,,,12.0,Marketing
+2026-08,Payroll,Payroll - G&A,641000+645000,129841.0,,,,19.0,G&A
+2026-09,Revenue,SaaS subscriptions,706000,2157365.0,,,,,
+2026-09,Revenue,Professional services,706100,60000.0,,,,,
+2026-09,COGS,Cloud hosting - Azure,604200,10167.0,,,,,
+2026-09,COGS,Cloud hosting - OVHcloud,604300,14253.0,,,,,
+2026-09,COGS,Threat-intel feeds and production tools,604500,29000.0,,,,,
+2026-09,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-09,Opex,Internal software,651000,92000.0,,,,,
+2026-09,Opex,Marketing and events,623000,330000.0,,,,,
+2026-09,Opex,Rent,613200,78000.0,,,,,
+2026-09,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-09,Opex,Other G&A,628000,150000.0,,,,,
+2026-09,COGS,Cloud hosting - AWS,604100,208697.0,287265.0,0.15,1.17,,
+2026-09,Payroll,Payroll - Engineering,641000+645000,308140.0,,,,40.0,Engineering
+2026-09,Payroll,Payroll - Product,641000+645000,80762.0,,,,10.0,Product
+2026-09,Payroll,Payroll - Threat Research,641000+645000,111825.0,,,,15.0,Threat Research
+2026-09,Payroll,Payroll - SOC Operations & Support,641000+645000,151834.0,,,,26.0,SOC Operations & Support
+2026-09,Payroll,Payroll - Customer Success,641000+645000,86975.0,,,,14.0,Customer Success
+2026-09,Payroll,Payroll - Sales,641000+645000,261236.0,,,,29.0,Sales
+2026-09,Payroll,Payroll - Marketing,641000+645000,77532.0,,,,12.0,Marketing
+2026-09,Payroll,Payroll - G&A,641000+645000,136675.0,,,,20.0,G&A
+2026-10,Revenue,SaaS subscriptions,706000,2202670.0,,,,,
+2026-10,Revenue,Professional services,706100,60000.0,,,,,
+2026-10,COGS,Cloud hosting - Azure,604200,10370.0,,,,,
+2026-10,COGS,Cloud hosting - OVHcloud,604300,14609.0,,,,,
+2026-10,COGS,Threat-intel feeds and production tools,604500,29300.0,,,,,
+2026-10,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-10,Opex,Internal software,651000,92700.0,,,,,
+2026-10,Opex,Marketing and events,623000,528000.0,,,,,
+2026-10,Opex,Rent,613200,78000.0,,,,,
+2026-10,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-10,Opex,Other G&A,628000,150000.0,,,,,
+2026-10,COGS,Cloud hosting - AWS,604100,213914.0,294446.0,0.15,1.17,,
+2026-10,Payroll,Payroll - Engineering,641000+645000,315844.0,,,,41.0,Engineering
+2026-10,Payroll,Payroll - Product,641000+645000,80762.0,,,,10.0,Product
+2026-10,Payroll,Payroll - Threat Research,641000+645000,111825.0,,,,15.0,Threat Research
+2026-10,Payroll,Payroll - SOC Operations & Support,641000+645000,157673.0,,,,27.0,SOC Operations & Support
+2026-10,Payroll,Payroll - Customer Success,641000+645000,86975.0,,,,14.0,Customer Success
+2026-10,Payroll,Payroll - Sales,641000+645000,270244.0,,,,30.0,Sales
+2026-10,Payroll,Payroll - Marketing,641000+645000,77532.0,,,,12.0,Marketing
+2026-10,Payroll,Payroll - G&A,641000+645000,136675.0,,,,20.0,G&A
+2026-11,Revenue,SaaS subscriptions,706000,2248926.0,,,,,
+2026-11,Revenue,Professional services,706100,60000.0,,,,,
+2026-11,COGS,Cloud hosting - Azure,604200,10578.0,,,,,
+2026-11,COGS,Cloud hosting - OVHcloud,604300,14974.0,,,,,
+2026-11,COGS,Threat-intel feeds and production tools,604500,29600.0,,,,,
+2026-11,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-11,Opex,Internal software,651000,93400.0,,,,,
+2026-11,Opex,Marketing and events,623000,330000.0,,,,,
+2026-11,Opex,Rent,613200,78000.0,,,,,
+2026-11,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-11,Opex,Other G&A,628000,150000.0,,,,,
+2026-11,COGS,Cloud hosting - AWS,604100,219262.0,301808.0,0.15,1.17,,
+2026-11,Payroll,Payroll - Engineering,641000+645000,315844.0,,,,41.0,Engineering
+2026-11,Payroll,Payroll - Product,641000+645000,80762.0,,,,10.0,Product
+2026-11,Payroll,Payroll - Threat Research,641000+645000,111825.0,,,,15.0,Threat Research
+2026-11,Payroll,Payroll - SOC Operations & Support,641000+645000,157673.0,,,,27.0,SOC Operations & Support
+2026-11,Payroll,Payroll - Customer Success,641000+645000,86975.0,,,,14.0,Customer Success
+2026-11,Payroll,Payroll - Sales,641000+645000,270244.0,,,,30.0,Sales
+2026-11,Payroll,Payroll - Marketing,641000+645000,77532.0,,,,12.0,Marketing
+2026-11,Payroll,Payroll - G&A,641000+645000,136675.0,,,,20.0,G&A
+2026-12,Revenue,SaaS subscriptions,706000,2296154.0,,,,,
+2026-12,Revenue,Professional services,706100,60000.0,,,,,
+2026-12,COGS,Cloud hosting - Azure,604200,10789.0,,,,,
+2026-12,COGS,Cloud hosting - OVHcloud,604300,15348.0,,,,,
+2026-12,COGS,Threat-intel feeds and production tools,604500,29900.0,,,,,
+2026-12,Opex,Travel and expenses,625100,62359.0,,,,,
+2026-12,Opex,Internal software,651000,94100.0,,,,,
+2026-12,Opex,Marketing and events,623000,330000.0,,,,,
+2026-12,Opex,Rent,613200,78000.0,,,,,
+2026-12,Opex,Recruiting fees,622600,12000.0,,,,,
+2026-12,Opex,Other G&A,628000,150000.0,,,,,
+2026-12,COGS,Cloud hosting - AWS,604100,224743.0,309353.0,0.15,1.17,,
+2026-12,Payroll,Payroll - Engineering,641000+645000,315844.0,,,,41.0,Engineering
+2026-12,Payroll,Payroll - Product,641000+645000,80762.0,,,,10.0,Product
+2026-12,Payroll,Payroll - Threat Research,641000+645000,111825.0,,,,15.0,Threat Research
+2026-12,Payroll,Payroll - SOC Operations & Support,641000+645000,157673.0,,,,27.0,SOC Operations & Support
+2026-12,Payroll,Payroll - Customer Success,641000+645000,86975.0,,,,14.0,Customer Success
+2026-12,Payroll,Payroll - Sales,641000+645000,270244.0,,,,30.0,Sales
+2026-12,Payroll,Payroll - Marketing,641000+645000,77532.0,,,,12.0,Marketing
+2026-12,Payroll,Payroll - G&A,641000+645000,136675.0,,,,20.0,G&A

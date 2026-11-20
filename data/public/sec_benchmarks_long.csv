@@ -1,0 +1,109 @@
+company,cik,entity_name,metric,xbrl_tag,period_end,value_usd,form,filed,accession
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",revenue,RevenueFromContractWithCustomerIncludingAssessedTax,2022-01-31,1451594000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",revenue,RevenueFromContractWithCustomerIncludingAssessedTax,2023-01-31,2241236000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",revenue,RevenueFromContractWithCustomerIncludingAssessedTax,2024-01-31,3055555000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",revenue,RevenueFromContractWithCustomerIncludingAssessedTax,2025-01-31,3953624000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",revenue,RevenueFromContractWithCustomerIncludingAssessedTax,2026-01-31,4812005000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",cost_of_revenue,CostOfGoodsAndServicesSold,2022-01-31,383221000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",cost_of_revenue,CostOfGoodsAndServicesSold,2023-01-31,601231000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",cost_of_revenue,CostOfGoodsAndServicesSold,2024-01-31,758929000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",cost_of_revenue,CostOfGoodsAndServicesSold,2025-01-31,990172000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",cost_of_revenue,CostOfGoodsAndServicesSold,2026-01-31,1218929000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",rnd,ResearchAndDevelopmentExpense,2022-01-31,371283000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",rnd,ResearchAndDevelopmentExpense,2023-01-31,608364000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",rnd,ResearchAndDevelopmentExpense,2024-01-31,780319000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",rnd,ResearchAndDevelopmentExpense,2025-01-31,1075587000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",rnd,ResearchAndDevelopmentExpense,2026-01-31,1384770000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",sales_marketing,SellingAndMarketingExpense,2022-01-31,616546000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",sales_marketing,SellingAndMarketingExpense,2023-01-31,904409000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",sales_marketing,SellingAndMarketingExpense,2024-01-31,1140275000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",sales_marketing,SellingAndMarketingExpense,2025-01-31,1523001000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",sales_marketing,SellingAndMarketingExpense,2026-01-31,1831254000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2022-01-31,1136502000,10-K,2023-03-09,0001535527-23-000008
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2023-01-31,1727484000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2024-01-31,2270757000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2025-01-31,2733005000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2026-01-31,3421051000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2022-01-31,392819000,10-K,2023-03-09,0001535527-23-000008
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2023-01-31,627629000,10-K,2024-03-07,0001535527-24-000007
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2024-01-31,783342000,10-K,2025-03-10,0001535527-25-000009
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2025-01-31,995672000,10-K,2026-03-05,0001535527-26-000010
+CrowdStrike,0001535527,"CrowdStrike Holdings, Inc.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2026-01-31,1332387000,10-K,2026-03-05,0001535527-26-000010
+SentinelOne,0001583708,"SENTINELONE, INC",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2022-01-31,204799000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2023-01-31,422179000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2024-01-31,621154000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2025-01-31,821461000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2026-01-31,1001278000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",cost_of_revenue,CostOfRevenue,2022-01-31,81677000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",cost_of_revenue,CostOfRevenue,2023-01-31,144177000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",cost_of_revenue,CostOfRevenue,2024-01-31,179281000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",cost_of_revenue,CostOfRevenue,2025-01-31,211106000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",cost_of_revenue,CostOfRevenue,2026-01-31,259177000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",rnd,ResearchAndDevelopmentExpense,2022-01-31,136274000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",rnd,ResearchAndDevelopmentExpense,2023-01-31,207008000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",rnd,ResearchAndDevelopmentExpense,2024-01-31,218176000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",rnd,ResearchAndDevelopmentExpense,2025-01-31,267002000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",rnd,ResearchAndDevelopmentExpense,2026-01-31,323853000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",sales_marketing,SellingAndMarketingExpense,2022-01-31,160576000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",sales_marketing,SellingAndMarketingExpense,2023-01-31,310848000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",sales_marketing,SellingAndMarketingExpense,2024-01-31,397160000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",sales_marketing,SellingAndMarketingExpense,2025-01-31,487225000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",sales_marketing,SellingAndMarketingExpense,2026-01-31,525151000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2022-01-31,182957000,10-K,2023-03-29,0001583708-23-000014
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2023-01-31,303200000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2024-01-31,399603000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2025-01-31,470127000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2026-01-31,549790000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2022-01-31,79062000,10-K,2023-03-29,0001583708-23-000014
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2023-01-31,103062000,10-K,2024-03-27,0001583708-24-000016
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2024-01-31,114930000,10-K,2025-03-26,0001583708-25-000051
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2025-01-31,102017000,10-K,2026-03-19,0001583708-26-000020
+SentinelOne,0001583708,"SENTINELONE, INC",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2026-01-31,83277000,10-K,2026-03-19,0001583708-26-000020
+Rapid7,0001560327,"RAPID7, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2022-12-31,685083000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2023-12-31,777707000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2024-12-31,844007000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2025-12-31,859794000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",cost_of_revenue,CostOfGoodsAndServicesSold,2022-12-31,214349000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",cost_of_revenue,CostOfGoodsAndServicesSold,2023-12-31,232046000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",cost_of_revenue,CostOfGoodsAndServicesSold,2024-12-31,251035000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",cost_of_revenue,CostOfGoodsAndServicesSold,2025-12-31,255040000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",rnd,ResearchAndDevelopmentExpense,2022-12-31,189970000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",rnd,ResearchAndDevelopmentExpense,2023-12-31,177937000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",rnd,ResearchAndDevelopmentExpense,2024-12-31,173126000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",rnd,ResearchAndDevelopmentExpense,2025-12-31,190660000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",sales_marketing,SellingAndMarketingExpense,2022-12-31,307409000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",sales_marketing,SellingAndMarketingExpense,2023-12-31,313661000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",sales_marketing,SellingAndMarketingExpense,2024-12-31,298809000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",sales_marketing,SellingAndMarketingExpense,2025-12-31,317665000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2022-12-31,426599000,10-K,2024-02-26,0001560327-24-000021
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2023-12-31,455503000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2024-12-31,461118000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2025-12-31,451155000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2022-12-31,31040000,10-K,2024-02-26,0001560327-24-000021
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2023-12-31,32577000,10-K,2025-02-28,0001560327-25-000021
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2024-12-31,27078000,10-K,2026-02-19,0001560327-26-000008
+Rapid7,0001560327,"RAPID7, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2025-12-31,29971000,10-K,2026-02-19,0001560327-26-000008
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2022-12-31,683191000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2023-12-31,798710000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2024-12-31,900021000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",revenue,RevenueFromContractWithCustomerExcludingAssessedTax,2025-12-31,999405000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",cost_of_revenue,CostOfRevenue,2022-12-31,154789000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",cost_of_revenue,CostOfRevenue,2023-12-31,183577000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",cost_of_revenue,CostOfRevenue,2024-12-31,199668000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",cost_of_revenue,CostOfRevenue,2025-12-31,218937000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",rnd,ResearchAndDevelopmentExpense,2022-12-31,143560000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",rnd,ResearchAndDevelopmentExpense,2023-12-31,153163000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",rnd,ResearchAndDevelopmentExpense,2024-12-31,181624000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",rnd,ResearchAndDevelopmentExpense,2025-12-31,223669000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",sales_marketing,SellingAndMarketingExpense,2022-12-31,349430000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",sales_marketing,SellingAndMarketingExpense,2023-12-31,393450000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",sales_marketing,SellingAndMarketingExpense,2024-12-31,395385000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",sales_marketing,SellingAndMarketingExpense,2025-12-31,416949000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2022-12-31,502115000,10-K,2024-02-28,0001660280-24-000033
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2023-12-31,580779000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2024-12-31,650372000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_current,ContractWithCustomerLiabilityCurrent,2025-12-31,706866000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2022-12-31,162487000,10-K,2024-02-28,0001660280-24-000033
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2023-12-31,169718000,10-K,2025-02-24,0001660280-25-000034
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2024-12-31,182815000,10-K,2026-02-27,0001660280-26-000005
+Tenable,0001660280,"TENABLE HOLDINGS, INC.",deferred_revenue_noncurrent,ContractWithCustomerLiabilityNoncurrent,2025-12-31,192410000,10-K,2026-02-27,0001660280-26-000005

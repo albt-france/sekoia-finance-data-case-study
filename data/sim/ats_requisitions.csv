@@ -1,0 +1,98 @@
+requisition_id,department,job_level,opened_date,status,hired_date,start_date,source,budgeted
+R0001,Product,Confirmed,2024-08-10,Hired,2024-11-01,2024-12-01,Sourcing,True
+R0002,Sales,Lead,2024-10-01,Hired,2024-11-15,2024-12-15,Referral,True
+R0003,Engineering,Senior,2024-11-30,Hired,2025-01-02,2025-02-01,Agency,True
+R0004,SOC Operations & Support,Confirmed,2024-10-24,Hired,2025-01-16,2025-02-15,Referral,True
+R0005,Sales,Confirmed,2024-10-19,Hired,2025-01-02,2025-02-01,Referral,True
+R0006,Threat Research,Junior,2024-11-12,Hired,2025-01-30,2025-03-01,Sourcing,True
+R0007,Customer Success,Confirmed,2024-11-20,Hired,2025-02-13,2025-03-15,Inbound,True
+R0008,G&A,Confirmed,2025-01-11,Hired,2025-01-30,2025-03-01,Inbound,True
+R0009,G&A,Lead,2024-11-22,Hired,2025-02-13,2025-03-15,Referral,True
+R0010,Engineering,Junior,2024-12-21,Hired,2025-03-02,2025-04-01,Inbound,True
+R0011,Product,Confirmed,2025-01-15,Hired,2025-03-02,2025-04-01,Referral,True
+R0012,SOC Operations & Support,Junior,2025-01-01,Hired,2025-03-02,2025-04-01,Referral,True
+R0013,SOC Operations & Support,Confirmed,2025-01-05,Hired,2025-03-02,2025-04-01,Agency,True
+R0014,Marketing,Junior,2024-12-17,Hired,2025-03-02,2025-04-01,Sourcing,True
+R0015,G&A,Senior,2024-12-17,Hired,2025-03-02,2025-04-01,Inbound,True
+R0016,Sales,Confirmed,2025-02-02,Hired,2025-04-01,2025-05-01,Inbound,True
+R0017,Sales,Confirmed,2025-01-09,Hired,2025-04-01,2025-05-01,Inbound,True
+R0018,Engineering,Senior,2025-02-07,Hired,2025-05-02,2025-06-01,Inbound,True
+R0019,SOC Operations & Support,Junior,2025-02-08,Hired,2025-05-02,2025-06-01,Inbound,True
+R0020,SOC Operations & Support,Senior,2025-03-01,Hired,2025-05-02,2025-06-01,Sourcing,True
+R0021,Engineering,Senior,2025-05-02,Hired,2025-06-01,2025-07-01,Inbound,True
+R0022,Customer Success,Lead,2025-05-17,Hired,2025-06-01,2025-07-01,Sourcing,True
+R0023,G&A,Confirmed,2025-04-23,Hired,2025-06-01,2025-07-01,Inbound,True
+R0024,Sales,Junior,2025-04-18,Hired,2025-07-02,2025-08-01,Inbound,True
+R0025,Engineering,Senior,2025-05-23,Hired,2025-08-02,2025-09-01,Sourcing,True
+R0026,Engineering,Junior,2025-07-09,Hired,2025-08-02,2025-09-01,Agency,True
+R0027,Engineering,Junior,2025-07-15,Hired,2025-08-16,2025-09-15,Referral,True
+R0028,Threat Research,Senior,2025-06-27,Hired,2025-08-02,2025-09-01,Agency,True
+R0029,SOC Operations & Support,Junior,2025-06-23,Hired,2025-08-16,2025-09-15,Inbound,True
+R0030,Sales,Junior,2025-05-24,Hired,2025-08-02,2025-09-01,Sourcing,True
+R0031,SOC Operations & Support,Junior,2025-06-07,Hired,2025-09-01,2025-10-01,Referral,True
+R0032,Customer Success,Senior,2025-08-17,Hired,2025-09-01,2025-10-01,Inbound,True
+R0033,G&A,Confirmed,2025-07-22,Hired,2025-09-15,2025-10-15,Agency,True
+R0034,SOC Operations & Support,Confirmed,2025-07-09,Hired,2025-10-02,2025-11-01,Sourcing,True
+R0035,SOC Operations & Support,Confirmed,2025-08-26,Hired,2025-10-16,2025-11-15,Inbound,True
+R0036,Sales,Confirmed,2025-09-01,Hired,2025-10-02,2025-11-01,Sourcing,True
+R0037,Sales,Junior,2025-08-25,Hired,2025-10-16,2025-11-15,Inbound,True
+R0038,Sales,Junior,2025-09-16,Hired,2025-10-02,2025-11-01,Inbound,True
+R0039,Engineering,Confirmed,2025-10-31,Hired,2025-11-15,2025-12-15,Inbound,True
+R0040,Product,Confirmed,2025-10-06,Hired,2025-11-01,2025-12-01,Inbound,True
+R0041,Customer Success,Lead,2025-09-15,Hired,2025-11-01,2025-12-01,Sourcing,True
+R0042,Customer Success,Junior,2025-09-04,Hired,2025-11-01,2025-12-01,Sourcing,True
+R0043,Sales,Junior,2025-09-24,Hired,2025-11-01,2025-12-01,Referral,True
+R0044,Marketing,Junior,2025-09-11,Hired,2025-11-01,2025-12-01,Inbound,True
+R0045,G&A,Confirmed,2025-08-25,Hired,2025-11-15,2025-12-15,Agency,True
+R0046,SOC Operations & Support,Confirmed,2025-10-01,Hired,2025-12-02,2026-01-01,Sourcing,True
+R0047,Sales,Senior,2025-09-24,Hired,2025-12-02,2026-01-01,Sourcing,True
+R0048,Engineering,Confirmed,2025-10-20,Hired,2026-01-16,2026-02-15,Agency,True
+R0049,Engineering,Senior,2025-12-01,Hired,2026-01-30,2026-03-01,Inbound,True
+R0050,Threat Research,Junior,2025-11-20,Hired,2026-01-30,2026-03-01,Agency,True
+R0051,SOC Operations & Support,Confirmed,2026-01-17,Hired,2026-02-13,2026-03-15,Inbound,True
+R0052,Product,Confirmed,2026-01-09,Hired,2026-03-16,2026-04-15,Sourcing,True
+R0053,Sales,Senior,2025-12-19,Hired,2026-03-16,2026-04-15,Inbound,True
+R0054,Engineering,Confirmed,2026-03-02,Hired,2026-04-01,2026-05-01,Inbound,True
+R0055,Engineering,Confirmed,2026-03-02,Hired,2026-04-15,2026-05-15,Inbound,True
+R0056,Customer Success,Senior,2026-03-10,Hired,2026-04-01,2026-05-01,Inbound,True
+R0057,Sales,Lead,2026-03-19,Hired,2026-04-15,2026-05-15,Inbound,True
+R0058,Sales,Junior,2026-02-26,Hired,2026-04-01,2026-05-01,Sourcing,True
+R0059,G&A,Confirmed,2026-02-17,Hired,2026-04-15,2026-05-15,Inbound,True
+R0060,SOC Operations & Support,Junior,2026-03-02,Hired,2026-05-02,2026-06-01,Inbound,True
+R0061,Engineering,Senior,2026-03-26,Hired,2026-06-01,2026-07-01,Inbound,True
+R0062,Sales,Lead,2026-03-05,Hired,2026-06-01,2026-07-01,Referral,True
+R0063,Engineering,Lead,2026-04-06,Hired,2026-07-02,2026-08-01,Agency,True
+R0064,Engineering,Confirmed,2026-06-12,Hired,2026-07-16,2026-08-15,Sourcing,True
+R0065,Engineering,Confirmed,2026-05-28,Hired,2026-07-02,2026-08-01,Agency,True
+R0066,Product,Junior,2026-05-17,Hired,2026-07-02,2026-08-01,Referral,True
+R0067,SOC Operations & Support,Confirmed,2026-05-13,Hired,2026-07-02,2026-08-01,Referral,True
+R0068,Sales,Junior,2026-05-16,Hired,2026-07-16,2026-08-15,Sourcing,True
+R0069,Sales,Confirmed,2026-04-05,Hired,2026-07-02,2026-08-01,Referral,True
+R0070,Marketing,Confirmed,2026-06-06,Hired,2026-07-02,2026-08-01,Sourcing,True
+R0071,G&A,Senior,2026-04-28,Hired,2026-07-02,2026-08-01,Sourcing,True
+R0072,Threat Research,Senior,2026-05-31,Hired,2026-08-02,2026-09-01,Agency,True
+R0073,SOC Operations & Support,Senior,2026-05-14,Hired,2026-08-02,2026-09-01,Agency,True
+R0074,Customer Success,Senior,2026-07-01,Hired,2026-08-02,2026-09-01,Inbound,True
+R0075,Sales,Senior,2026-05-25,Hired,2026-08-02,2026-09-01,Referral,True
+R0076,G&A,Confirmed,2026-07-17,Hired,2026-08-16,2026-09-15,Inbound,True
+R0077,Engineering,Confirmed,2026-08-15,Hired,2026-09-01,2026-10-01,Referral,True
+R0078,SOC Operations & Support,Confirmed,2026-08-17,Hired,2026-09-15,2026-10-15,Agency,True
+R0079,Sales,Junior,2026-08-09,Hired,2026-09-01,2026-10-01,Inbound,True
+R0080,Engineering,Senior,2026-07-07,Hired,2026-10-02,2026-11-01,Sourcing,True
+R0081,Engineering,Lead,2026-09-02,Hired,2026-10-02,2026-11-01,Sourcing,True
+R0082,Engineering,Confirmed,2026-08-31,Hired,2026-10-16,2026-11-15,Agency,True
+R0083,G&A,Confirmed,2026-09-23,Hired,2026-10-16,2026-11-15,Inbound,True
+R0084,Engineering,Confirmed,2026-07-15,Open,,,,True
+R0085,Engineering,Confirmed,2026-08-05,Open,,,,True
+R0086,Product,Confirmed,2026-07-19,Open,,,,True
+R0087,Threat Research,Confirmed,2026-08-03,Open,,,,True
+R0088,G&A,Confirmed,2026-09-22,Open,,,,True
+R0089,Sales,Confirmed,2026-09-28,Open,,,,True
+R0090,Engineering,Confirmed,2026-09-03,Open,,,,True
+R0091,Customer Success,Confirmed,2026-10-31,Open,,,,True
+R0092,SOC Operations & Support,Confirmed,2026-08-05,Open,,,,True
+R0093,Marketing,Confirmed,2026-07-25,Open,,,,True
+R0094,G&A,Confirmed,2026-08-16,Cancelled,,,,True
+R0095,Engineering,Confirmed,2026-08-15,Cancelled,,,,True
+R0096,G&A,Confirmed,2026-08-26,Cancelled,,,,False
+R0097,Engineering,Confirmed,2026-08-18,Cancelled,,,,False

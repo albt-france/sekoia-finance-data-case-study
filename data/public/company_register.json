@@ -1,0 +1,12 @@
+{
+ "name": "SEKOIA.IO",
+ "siren": "913174744",
+ "created": "2022-05-03",
+ "head_office_city": "RENNES",
+ "naf_code": "62.01Z",
+ "company_category": "PME",
+ "headcount_band_code": "21",
+ "headcount_band_year": "2024",
+ "read_on": "2026-11-20",
+ "source": "https://recherche-entreprises.api.gouv.fr (French company register, SIRENE)"
+}

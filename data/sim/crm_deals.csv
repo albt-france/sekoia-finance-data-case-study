@@ -1,0 +1,1348 @@
+deal_id,crm_company_id,deal_name,deal_type,pipeline_stage,close_date,amount_eur,contract_term_months,contract_start_date,owner_team
+D000001,HS560000,SOC platform - new,New business,Closed won,2024-06-17,9000.0,12,2024-07-01,Sales EU
+D000002,HS560000,SOC platform - renewal,Renewal,Closed won,2025-06-24,9000.0,12,2025-07-01,Partners
+D000003,HS560007,SOC platform - new,New business,Closed won,2023-10-08,14000.0,12,2023-11-01,Sales FR
+D000004,HS560007,SOC platform - renewal,Renewal,Closed won,2024-10-28,16000.0,12,2024-11-01,Sales FR
+D000005,HS560014,SOC platform - new,New business,Closed won,2022-12-07,20300.0,12,2023-01-01,Sales EU
+D000006,HS560014,SOC platform - renewal,Renewal,Closed won,2023-12-26,20700.0,12,2024-01-01,Partners
+D000007,HS560014,SOC platform - renewal,Renewal,Closed won,2024-12-04,17300.0,12,2025-01-01,Partners
+D000008,HS560014,SOAR add-on - upsell,Upsell,Closed won,2025-08-10,1600.0,4,2025-09-01,Partners
+D000009,HS560014,SOC platform - renewal,Renewal,Closed won,2025-12-11,23200.0,12,2026-01-01,Partners
+D000010,HS560021,SOC platform - new,New business,Closed won,2023-05-20,84000.0,12,2023-06-01,Sales FR
+D000011,HS560021,SOC platform - renewal,Renewal,Closed won,2024-04-23,88700.0,12,2024-06-01,Partners
+D000012,HS560021,SOC platform - renewal,Renewal,Closed won,2025-05-18,93200.0,12,2025-06-01,Sales FR
+D000013,HS560021,SOAR add-on - upsell,Upsell,Closed won,2025-08-26,15500.0,9,2025-09-01,Sales FR
+D000014,HS560021,SOC platform - renewal,Renewal,Closed won,2026-05-17,113500.0,12,2026-06-01,Sales EU
+D000015,HS560028,SOC platform - new,New business,Closed won,2022-12-14,9700.0,12,2023-01-01,Partners
+D000016,HS560035,SOC platform - new,New business,Closed won,2024-08-21,16900.0,12,2024-09-01,Partners
+D000017,HS560035,SOAR add-on - upsell,Upsell,Closed won,2025-02-11,2000.0,6,2025-03-01,Sales EU
+D000018,HS560035,SOC platform - renewal,Renewal,Closed won,2025-08-02,20000.0,12,2025-09-01,Partners
+D000019,HS560035,SOC platform - renewal,Renewal,Closed won,2026-07-31,20000.0,12,2026-09-01,Sales FR
+D000020,HS560042,SOC platform - new,New business,Closed won,2024-04-10,39600.0,12,2024-05-01,Partners
+D000021,HS560042,SOAR add-on - upsell,Upsell,Closed won,2024-10-25,5300.0,6,2024-11-01,Sales FR
+D000022,HS560042,SOC platform - renewal,Renewal,Closed won,2025-04-02,53200.0,12,2025-05-01,Sales EU
+D000023,HS560042,SOC platform - renewal,Renewal,Closed won,2026-04-01,57800.0,12,2026-05-01,Sales EU
+D000024,HS560049,SOC platform - new,New business,Closed won,2024-03-01,10100.0,12,2024-04-01,Sales EU
+D000025,HS560049,SOC platform - renewal,Renewal,Closed won,2025-02-25,10100.0,12,2025-04-01,Partners
+D000026,HS560049,SOC platform - renewal,Renewal,Closed won,2026-03-11,10100.0,12,2026-04-01,Sales EU
+D000027,HS560056,SOC platform - new,New business,Closed won,2024-08-20,72300.0,12,2024-09-01,Sales EU
+D000028,HS560056,SOC platform - renewal,Renewal,Closed won,2025-08-23,73500.0,12,2025-09-01,Sales FR
+D000029,HS560056,SOC platform - renewal,Renewal,Closed won,2026-07-27,74800.0,12,2026-09-01,Sales FR
+D000030,HS560063,SOC platform - new,New business,Closed won,2023-01-11,135200.0,12,2023-02-01,Sales FR
+D000031,HS560070,SOC platform - new,New business,Closed won,2023-03-13,17100.0,12,2023-04-01,Sales FR
+D000032,HS560070,SOC platform - renewal,Renewal,Closed won,2024-03-13,23500.0,12,2024-04-01,Sales FR
+D000033,HS560070,SOC platform - renewal,Renewal,Closed won,2025-03-24,32200.0,12,2025-04-01,Sales EU
+D000034,HS560070,SOC platform - renewal,Renewal,Closed won,2026-03-07,44100.0,12,2026-04-01,Partners
+D000035,HS560077,SOC platform - new,New business,Closed won,2024-05-24,10100.0,12,2024-06-01,Sales FR
+D000036,HS560077,SOC platform - renewal,Renewal,Closed won,2025-05-16,10400.0,12,2025-06-01,Sales EU
+D000037,HS560077,AI agents add-on - upsell,Upsell,Closed won,2026-01-24,1200.0,3,2026-03-01,Sales EU
+D000038,HS560077,SOC platform - renewal,Renewal,Closed won,2026-05-10,13200.0,12,2026-06-01,Sales EU
+D000039,HS560084,SOC platform - new,New business,Closed won,2024-10-23,14200.0,12,2024-11-01,Sales FR
+D000040,HS560084,SOC platform - renewal,Renewal,Closed won,2025-10-01,15800.0,12,2025-11-01,Sales FR
+D000041,HS560084,SOC platform - renewal,Renewal,Closed won,2026-10-04,23800.0,12,2026-11-01,Sales EU
+D000042,HS560091,SOC platform - new,New business,Closed won,2022-10-12,70500.0,12,2022-11-01,Sales EU
+D000043,HS560091,SOAR add-on - upsell,Upsell,Closed won,2023-07-11,9100.0,3,2023-08-01,Sales EU
+D000044,HS560091,SOC platform - renewal,Renewal,Closed won,2023-09-23,87500.0,12,2023-11-01,Sales EU
+D000045,HS560091,SOC platform - renewal,Renewal,Closed won,2024-10-04,87300.0,12,2024-11-01,Sales EU
+D000046,HS560091,SOAR add-on - upsell,Upsell,Closed won,2024-12-26,7100.0,9,2025-02-01,Sales EU
+D000047,HS560091,SOC platform - renewal,Renewal,Closed won,2025-09-27,104200.0,12,2025-11-01,Sales FR
+D000048,HS560091,SOC platform - renewal,Renewal,Closed won,2026-10-23,108100.0,12,2026-11-01,Sales EU
+D000049,HS560098,SOC platform - new,New business,Closed won,2023-11-14,14900.0,12,2023-12-01,Partners
+D000050,HS560098,SOAR add-on - upsell,Upsell,Closed won,2024-04-14,2800.0,7,2024-05-01,Sales EU
+D000051,HS560098,SOC platform - renewal,Renewal,Closed won,2024-11-16,18400.0,12,2024-12-01,Sales EU
+D000052,HS560098,SOC platform - renewal,Renewal,Closed won,2025-11-05,19200.0,12,2025-12-01,Partners
+D000053,HS560105,SOC platform - new,New business,Closed won,2022-11-27,19500.0,12,2022-12-01,Partners
+D000054,HS560112,SOC platform - new,New business,Closed won,2022-12-14,9900.0,12,2023-01-01,Partners
+D000055,HS560112,SOC platform - renewal,Renewal,Closed won,2023-12-13,11300.0,12,2024-01-01,Sales EU
+D000056,HS560112,SOC platform - renewal,Renewal,Closed won,2024-12-05,10200.0,12,2025-01-01,Sales FR
+D000057,HS560112,SOC platform - renewal,Renewal,Closed won,2025-11-27,14700.0,12,2026-01-01,Partners
+D000058,HS560119,SOC platform - new,New business,Closed won,2024-02-22,389200.0,24,2024-04-01,Partners
+D000059,HS560119,SOC platform - renewal,Renewal,Closed won,2026-03-27,404600.0,24,2026-04-01,Sales EU
+D000060,HS560126,SOC platform - new,New business,Closed won,2024-02-15,15200.0,12,2024-03-01,Sales EU
+D000061,HS560126,SOC platform - renewal,Renewal,Closed won,2025-01-30,16700.0,12,2025-03-01,Sales EU
+D000062,HS560126,SOC platform - renewal,Renewal,Closed won,2026-02-11,18200.0,12,2026-03-01,Partners
+D000063,HS560133,SOC platform - new,New business,Closed won,2024-02-03,30900.0,12,2024-03-01,Partners
+D000064,HS560133,SOC platform - renewal,Renewal,Closed won,2025-02-12,31700.0,12,2025-03-01,Sales FR
+D000065,HS560133,SOC platform - renewal,Renewal,Closed won,2026-01-31,32600.0,12,2026-03-01,Sales EU
+D000066,HS560140,SOC platform - new,New business,Closed won,2024-06-28,16100.0,12,2024-08-01,Sales FR
+D000067,HS560140,SOC platform - renewal,Renewal,Closed won,2025-07-08,19000.0,12,2025-08-01,Sales EU
+D000068,HS560140,SOC platform - renewal,Renewal,Closed won,2026-07-01,22300.0,12,2026-08-01,Sales EU
+D000069,HS560147,SOC platform - new,New business,Closed won,2024-07-29,25900.0,12,2024-09-01,Sales EU
+D000070,HS560147,SOAR add-on - upsell,Upsell,Closed won,2025-01-04,3500.0,7,2025-02-01,Partners
+D000071,HS560147,SOC platform - renewal,Renewal,Closed won,2025-08-01,32500.0,12,2025-09-01,Sales EU
+D000072,HS560147,SOC platform - renewal,Renewal,Closed won,2026-08-03,32500.0,12,2026-09-01,Sales FR
+D000073,HS560154,SOC platform - new,New business,Closed won,2024-10-27,539200.0,24,2024-11-01,Partners
+D000074,HS560154,SOC platform - renewal,Renewal,Closed won,2026-09-30,366000.0,12,2026-11-01,Partners
+D000075,HS560161,SOC platform - new,New business,Closed won,2024-02-23,11100.0,12,2024-04-01,Sales FR
+D000076,HS560161,SOAR add-on - upsell,Upsell,Closed won,2024-08-26,2100.0,6,2024-10-01,Partners
+D000077,HS560161,SOC platform - renewal,Renewal,Closed won,2025-02-24,13300.0,12,2025-04-01,Partners
+D000078,HS560161,SOC platform - renewal,Renewal,Closed won,2026-02-21,11400.0,12,2026-04-01,Partners
+D000079,HS560168,SOC platform - new,New business,Closed won,2022-10-21,20000.0,12,2022-11-01,Sales EU
+D000080,HS560168,SOC platform - renewal,Renewal,Closed won,2023-10-02,20000.0,12,2023-11-01,Sales FR
+D000081,HS560168,SOC platform - renewal,Renewal,Closed won,2024-09-25,20000.0,12,2024-11-01,Sales EU
+D000082,HS560168,SOC platform - renewal,Renewal,Closed won,2025-09-27,26600.0,12,2025-11-01,Sales EU
+D000083,HS560168,SOC platform - renewal,Renewal,Closed won,2026-09-28,35600.0,12,2026-11-01,Partners
+D000084,HS560175,SOC platform - new,New business,Closed won,2024-03-14,11600.0,12,2024-04-01,Sales FR
+D000085,HS560175,SOC platform - renewal,Renewal,Closed won,2025-03-21,12000.0,12,2025-04-01,Partners
+D000086,HS560175,SOC platform - renewal,Renewal,Closed won,2026-02-27,12400.0,12,2026-04-01,Sales FR
+D000087,HS560182,SOC platform - new,New business,Closed won,2023-07-29,204900.0,36,2023-08-01,Partners
+D000088,HS560182,SOC platform - renewal,Renewal,Closed won,2026-07-23,169000.0,12,2026-08-01,Sales FR
+D000089,HS560189,SOC platform - new,New business,Closed won,2024-03-20,10100.0,12,2024-04-01,Partners
+D000090,HS560189,SOC platform - renewal,Renewal,Closed won,2025-02-22,8000.0,12,2025-04-01,Partners
+D000091,HS560189,SOC platform - renewal,Renewal,Closed won,2026-03-07,10100.0,12,2026-04-01,Sales FR
+D000092,HS560196,SOC platform - new,New business,Closed won,2024-06-30,14300.0,12,2024-08-01,Sales FR
+D000093,HS560196,SOC platform - renewal,Renewal,Closed won,2025-06-23,17500.0,12,2025-08-01,Sales EU
+D000094,HS560203,SOC platform - new,New business,Closed won,2022-07-27,10100.0,12,2022-08-01,Partners
+D000095,HS560203,SOC platform - renewal,Renewal,Closed won,2023-06-28,10100.0,12,2023-08-01,Sales FR
+D000096,HS560203,SOC platform - renewal,Renewal,Closed won,2024-07-03,8000.0,12,2024-08-01,Sales FR
+D000097,HS560203,SOAR add-on - upsell,Upsell,Closed won,2024-12-09,1200.0,7,2025-01-01,Partners
+D000098,HS560203,SOC platform - renewal,Renewal,Closed won,2025-07-15,11300.0,12,2025-08-01,Sales EU
+D000099,HS560210,SOC platform - new,New business,Closed won,2022-11-18,23400.0,12,2022-12-01,Sales FR
+D000100,HS560210,SOC platform - renewal,Renewal,Closed won,2023-11-19,28500.0,12,2023-12-01,Sales FR
+D000101,HS560210,SOC platform - renewal,Renewal,Closed won,2024-11-07,34700.0,12,2024-12-01,Sales FR
+D000102,HS560210,SOC platform - renewal,Renewal,Closed won,2025-11-03,42200.0,12,2025-12-01,Sales FR
+D000103,HS560210,AI agents add-on - upsell,Upsell,Closed won,2026-02-25,8000.0,9,2026-03-01,Sales EU
+D000104,HS560217,SOC platform - new,New business,Closed won,2024-08-27,20000.0,12,2024-10-01,Partners
+D000105,HS560217,SOC platform - renewal,Renewal,Closed won,2025-08-24,25600.0,12,2025-10-01,Sales FR
+D000106,HS560217,SOC platform - renewal,Renewal,Closed won,2026-08-26,32900.0,12,2026-10-01,Sales EU
+D000107,HS560224,SOC platform - new,New business,Closed won,2024-02-29,362500.0,12,2024-04-01,Partners
+D000108,HS560224,SOC platform - renewal,Renewal,Closed won,2025-02-28,372600.0,12,2025-04-01,Partners
+D000109,HS560224,SOC platform - renewal,Renewal,Closed won,2026-03-16,381200.0,12,2026-04-01,Sales EU
+D000110,HS560231,SOC platform - new,New business,Closed won,2023-03-16,88100.0,12,2023-04-01,Partners
+D000111,HS560231,SOC platform - renewal,Renewal,Closed won,2024-03-04,91900.0,12,2024-04-01,Sales FR
+D000112,HS560231,SOC platform - renewal,Renewal,Closed won,2025-03-03,95300.0,12,2025-04-01,Sales FR
+D000113,HS560231,AI agents add-on - upsell,Upsell,Closed won,2025-10-09,12800.0,5,2025-11-01,Sales FR
+D000114,HS560231,SOC platform - renewal,Renewal,Closed won,2026-03-10,112400.0,12,2026-04-01,Sales EU
+D000115,HS560238,SOC platform - new,New business,Closed won,2023-09-01,38800.0,12,2023-10-01,Sales FR
+D000116,HS560238,SOC platform - renewal,Renewal,Closed won,2024-09-14,48200.0,12,2024-10-01,Sales FR
+D000117,HS560238,SOC platform - renewal,Renewal,Closed won,2025-09-20,59700.0,12,2025-10-01,Partners
+D000118,HS560238,SOC platform - renewal,Renewal,Closed won,2026-09-07,74100.0,12,2026-10-01,Partners
+D000119,HS560245,SOC platform - new,New business,Closed won,2024-06-26,17400.0,12,2024-08-01,Sales FR
+D000120,HS560245,SOC platform - renewal,Renewal,Closed won,2025-06-28,17100.0,12,2025-08-01,Sales FR
+D000121,HS560245,SOC platform - renewal,Renewal,Closed won,2026-07-09,16700.0,12,2026-08-01,Partners
+D000122,HS560252,SOC platform - new,New business,Closed won,2023-07-03,185500.0,12,2023-08-01,Partners
+D000123,HS560252,SOC platform - renewal,Renewal,Closed won,2024-06-29,235300.0,12,2024-08-01,Sales FR
+D000124,HS560252,SOAR add-on - upsell,Upsell,Closed won,2025-01-21,28400.0,5,2025-03-01,Partners
+D000125,HS560252,SOC platform - renewal,Renewal,Closed won,2025-07-14,343000.0,12,2025-08-01,Partners
+D000126,HS560252,SOC platform - renewal,Renewal,Closed won,2026-07-18,378100.0,12,2026-08-01,Sales EU
+D000127,HS560259,SOC platform - new,New business,Closed won,2024-10-24,70000.0,12,2024-12-01,Sales FR
+D000128,HS560259,SOC platform - renewal,Renewal,Closed won,2025-11-14,89200.0,12,2025-12-01,Partners
+D000129,HS560266,SOC platform - new,New business,Closed won,2023-03-10,9000.0,12,2023-04-01,Sales FR
+D000130,HS560266,SOAR add-on - upsell,Upsell,Closed won,2023-11-24,1300.0,4,2023-12-01,Sales EU
+D000131,HS560273,SOC platform - new,New business,Closed won,2024-01-24,32300.0,12,2024-02-01,Sales EU
+D000132,HS560273,SOC platform - renewal,Renewal,Closed won,2025-01-02,34100.0,12,2025-02-01,Sales EU
+D000133,HS560273,SOC platform - renewal,Renewal,Closed won,2026-01-13,35900.0,12,2026-02-01,Sales EU
+D000134,HS560280,SOC platform - new,New business,Closed won,2023-07-25,481200.0,36,2023-09-01,Sales FR
+D000135,HS560280,SOC platform - renewal,Renewal,Closed won,2026-08-06,483000.0,36,2026-09-01,Sales EU
+D000136,HS560287,SOC platform - new,New business,Closed won,2024-11-02,20000.0,12,2024-12-01,Partners
+D000137,HS560287,SOC platform - renewal,Renewal,Closed won,2025-11-10,20000.0,12,2025-12-01,Partners
+D000138,HS560294,SOC platform - new,New business,Closed won,2024-11-11,11700.0,12,2024-12-01,Partners
+D000139,HS560294,SOC platform - renewal,Renewal,Closed won,2025-11-18,11700.0,12,2025-12-01,Partners
+D000140,HS560294,AI agents add-on - upsell,Upsell,Closed won,2026-06-13,1200.0,5,2026-07-01,Sales EU
+D000141,HS560301,SOC platform - new,New business,Closed won,2024-06-10,80000.0,12,2024-07-01,Partners
+D000142,HS560301,SOC platform - renewal,Renewal,Closed won,2025-06-16,81800.0,12,2025-07-01,Partners
+D000143,HS560301,SOC platform - renewal,Renewal,Closed won,2026-06-02,82500.0,12,2026-07-01,Partners
+D000144,HS560308,SOC platform - new,New business,Closed won,2024-03-29,93100.0,12,2024-04-01,Sales EU
+D000145,HS560308,SOC platform - renewal,Renewal,Closed won,2025-03-11,89800.0,12,2025-04-01,Sales FR
+D000146,HS560308,SOAR add-on - upsell,Upsell,Closed won,2025-07-11,9500.0,8,2025-08-01,Sales EU
+D000147,HS560308,SOC platform - renewal,Renewal,Closed won,2026-02-23,99800.0,12,2026-04-01,Sales EU
+D000148,HS560315,SOC platform - new,New business,Closed won,2023-08-28,16900.0,12,2023-09-01,Sales FR
+D000149,HS560315,SOC platform - renewal,Renewal,Closed won,2024-07-31,16100.0,12,2024-09-01,Partners
+D000150,HS560315,SOAR add-on - upsell,Upsell,Closed won,2025-01-23,2400.0,6,2025-03-01,Partners
+D000151,HS560315,SOC platform - renewal,Renewal,Closed won,2025-08-26,17700.0,12,2025-09-01,Sales EU
+D000152,HS560315,SOC platform - renewal,Renewal,Closed won,2026-07-27,14600.0,12,2026-09-01,Sales EU
+D000153,HS560322,SOC platform - new,New business,Closed won,2023-07-29,84000.0,12,2023-09-01,Sales FR
+D000154,HS560322,SOAR add-on - upsell,Upsell,Closed won,2024-03-01,10000.0,5,2024-04-01,Sales FR
+D000155,HS560322,SOC platform - renewal,Renewal,Closed won,2024-08-15,94500.0,12,2024-09-01,Partners
+D000156,HS560322,SOAR add-on - upsell,Upsell,Closed won,2025-04-24,12100.0,3,2025-06-01,Sales EU
+D000157,HS560322,SOC platform - renewal,Renewal,Closed won,2025-08-11,112000.0,12,2025-09-01,Sales FR
+D000158,HS560322,SOC platform - renewal,Renewal,Closed won,2026-08-15,119400.0,12,2026-09-01,Sales EU
+D000159,HS560329,SOC platform - new,New business,Closed won,2023-03-28,152400.0,12,2023-05-01,Partners
+D000160,HS560329,SOC platform - renewal,Renewal,Closed won,2024-04-03,175100.0,12,2024-05-01,Partners
+D000161,HS560329,SOAR add-on - upsell,Upsell,Closed won,2024-11-11,18400.0,5,2024-12-01,Sales FR
+D000162,HS560329,SOC platform - renewal,Renewal,Closed won,2025-04-14,229600.0,12,2025-05-01,Sales FR
+D000163,HS560336,SOC platform - new,New business,Closed won,2024-01-06,53700.0,12,2024-02-01,Partners
+D000164,HS560336,SOC platform - renewal,Renewal,Closed won,2025-01-17,59600.0,12,2025-02-01,Sales EU
+D000165,HS560336,SOC platform - renewal,Renewal,Closed won,2025-12-27,66100.0,12,2026-02-01,Sales EU
+D000166,HS560343,SOC platform - new,New business,Closed won,2023-11-27,9000.0,12,2024-01-01,Sales FR
+D000167,HS560343,SOC platform - renewal,Renewal,Closed won,2024-11-28,9400.0,12,2025-01-01,Sales FR
+D000168,HS560343,SOC platform - renewal,Renewal,Closed won,2025-12-03,9900.0,12,2026-01-01,Sales EU
+D000169,HS560350,SOC platform - new,New business,Closed won,2022-08-07,30500.0,12,2022-09-01,Sales FR
+D000170,HS560350,SOC platform - renewal,Renewal,Closed won,2023-08-20,34100.0,12,2023-09-01,Sales EU
+D000171,HS560350,SOC platform - renewal,Renewal,Closed won,2024-08-11,38100.0,12,2024-09-01,Partners
+D000172,HS560350,SOC platform - renewal,Renewal,Closed won,2025-08-06,42600.0,12,2025-09-01,Sales EU
+D000173,HS560350,SOC platform - renewal,Renewal,Closed won,2026-08-08,47700.0,12,2026-09-01,Sales FR
+D000174,HS560357,SOC platform - new,New business,Closed won,2024-07-16,9000.0,12,2024-08-01,Partners
+D000175,HS560357,SOAR add-on - upsell,Upsell,Closed won,2024-12-06,1700.0,7,2025-01-01,Sales EU
+D000176,HS560357,SOC platform - renewal,Renewal,Closed won,2025-07-19,10700.0,12,2025-08-01,Sales FR
+D000177,HS560357,SOC platform - renewal,Renewal,Closed won,2026-06-26,9400.0,12,2026-08-01,Partners
+D000178,HS560364,SOC platform - new,New business,Closed won,2022-12-15,159000.0,12,2023-01-01,Sales EU
+D000179,HS560364,SOC platform - renewal,Renewal,Closed won,2023-12-02,167600.0,12,2024-01-01,Sales EU
+D000180,HS560364,SOC platform - renewal,Renewal,Closed won,2024-12-02,170400.0,12,2025-01-01,Sales FR
+D000181,HS560364,SOC platform - renewal,Renewal,Closed won,2025-12-11,176000.0,12,2026-01-01,Sales EU
+D000182,HS560371,SOC platform - new,New business,Closed won,2024-05-28,220200.0,36,2024-07-01,Partners
+D000183,HS560378,SOC platform - new,New business,Closed won,2022-09-25,9000.0,12,2022-10-01,Partners
+D000184,HS560378,SOC platform - renewal,Renewal,Closed won,2023-09-08,9000.0,12,2023-10-01,Sales FR
+D000185,HS560378,SOC platform - renewal,Renewal,Closed won,2024-09-08,9000.0,12,2024-10-01,Sales FR
+D000186,HS560378,SOC platform - renewal,Renewal,Closed won,2025-08-29,9300.0,12,2025-10-01,Partners
+D000187,HS560378,SOC platform - renewal,Renewal,Closed won,2026-09-06,9500.0,12,2026-10-01,Partners
+D000188,HS560385,SOC platform - new,New business,Closed won,2023-01-21,32900.0,12,2023-02-01,Partners
+D000189,HS560385,SOC platform - renewal,Renewal,Closed won,2024-01-09,33200.0,12,2024-02-01,Partners
+D000190,HS560385,SOAR add-on - upsell,Upsell,Closed won,2024-05-12,5200.0,8,2024-06-01,Sales FR
+D000191,HS560385,SOC platform - renewal,Renewal,Closed won,2025-01-11,38500.0,12,2025-02-01,Sales EU
+D000192,HS560385,SOC platform - renewal,Renewal,Closed won,2026-01-08,33900.0,12,2026-02-01,Sales FR
+D000193,HS560392,SOC platform - new,New business,Closed won,2023-03-25,103200.0,24,2023-05-01,Sales FR
+D000194,HS560392,SOC platform - renewal,Renewal,Closed won,2025-04-16,105400.0,24,2025-05-01,Partners
+D000195,HS560399,SOC platform - new,New business,Closed won,2024-11-01,9000.0,12,2024-12-01,Sales FR
+D000196,HS560406,SOC platform - new,New business,Closed won,2023-02-24,120000.0,24,2023-03-01,Sales EU
+D000197,HS560406,SOC platform - renewal,Renewal,Closed won,2025-01-31,60000.0,12,2025-03-01,Sales EU
+D000198,HS560406,SOC platform - renewal,Renewal,Closed won,2026-01-24,120000.0,24,2026-03-01,Sales EU
+D000199,HS560413,SOC platform - new,New business,Closed won,2024-08-22,242100.0,36,2024-09-01,Sales FR
+D000200,HS560420,SOC platform - new,New business,Closed won,2024-02-24,135400.0,12,2024-04-01,Sales EU
+D000201,HS560420,SOC platform - renewal,Renewal,Closed won,2025-03-10,135900.0,12,2025-04-01,Partners
+D000202,HS560420,SOAR add-on - upsell,Upsell,Closed won,2025-06-27,11800.0,8,2025-08-01,Sales FR
+D000203,HS560420,SOC platform - renewal,Renewal,Closed won,2026-02-25,149800.0,12,2026-04-01,Partners
+D000204,HS560427,SOC platform - new,New business,Closed won,2023-03-01,9000.0,12,2023-04-01,Sales FR
+D000205,HS560427,SOC platform - renewal,Renewal,Closed won,2024-03-28,9000.0,12,2024-04-01,Sales FR
+D000206,HS560427,SOC platform - renewal,Renewal,Closed won,2025-02-28,9400.0,12,2025-04-01,Partners
+D000207,HS560427,SOC platform - renewal,Renewal,Closed won,2026-03-26,10700.0,12,2026-04-01,Sales EU
+D000208,HS560434,SOC platform - new,New business,Closed won,2024-05-18,60000.0,12,2024-06-01,Sales EU
+D000209,HS560434,SOC platform - renewal,Renewal,Closed won,2025-04-27,66200.0,12,2025-06-01,Partners
+D000210,HS560434,SOC platform - renewal,Renewal,Closed won,2026-05-02,64000.0,12,2026-06-01,Sales EU
+D000211,HS560441,SOC platform - new,New business,Closed won,2023-03-14,9000.0,12,2023-04-01,Sales FR
+D000212,HS560441,SOAR add-on - upsell,Upsell,Closed won,2023-11-28,1500.0,3,2024-01-01,Sales FR
+D000213,HS560441,SOC platform - renewal,Renewal,Closed won,2024-03-14,10500.0,12,2024-04-01,Partners
+D000214,HS560448,SOC platform - new,New business,Closed won,2022-10-29,12500.0,12,2022-11-01,Partners
+D000215,HS560448,SOAR add-on - upsell,Upsell,Closed won,2023-01-01,2500.0,9,2023-02-01,Partners
+D000216,HS560448,SOC platform - renewal,Renewal,Closed won,2023-09-25,14200.0,12,2023-11-01,Sales EU
+D000217,HS560448,SOC platform - renewal,Renewal,Closed won,2024-09-30,10900.0,12,2024-11-01,Sales FR
+D000218,HS560448,SOC platform - renewal,Renewal,Closed won,2025-10-22,10200.0,12,2025-11-01,Sales EU
+D000219,HS560455,SOC platform - new,New business,Closed won,2022-12-26,132600.0,12,2023-02-01,Sales EU
+D000220,HS560455,SOC platform - renewal,Renewal,Closed won,2024-01-06,140200.0,12,2024-02-01,Sales EU
+D000221,HS560455,SOAR add-on - upsell,Upsell,Closed won,2024-07-27,21700.0,6,2024-08-01,Sales EU
+D000222,HS560455,SOC platform - renewal,Renewal,Closed won,2024-12-30,160200.0,12,2025-02-01,Partners
+D000223,HS560455,SOC platform - renewal,Renewal,Closed won,2026-01-17,166500.0,12,2026-02-01,Partners
+D000224,HS560462,SOC platform - new,New business,Closed won,2024-01-08,16100.0,12,2024-02-01,Sales FR
+D000225,HS560462,SOAR add-on - upsell,Upsell,Closed won,2024-07-29,3100.0,6,2024-08-01,Sales FR
+D000226,HS560462,SOC platform - renewal,Renewal,Closed won,2025-01-02,22500.0,12,2025-02-01,Partners
+D000227,HS560462,SOC platform - renewal,Renewal,Closed won,2026-01-03,24600.0,12,2026-02-01,Sales FR
+D000228,HS560469,SOC platform - new,New business,Closed won,2024-04-26,20000.0,12,2024-06-01,Partners
+D000229,HS560469,SOC platform - renewal,Renewal,Closed won,2025-05-29,20500.0,12,2025-06-01,Partners
+D000230,HS560469,AI agents add-on - upsell,Upsell,Closed won,2025-09-13,3800.0,8,2025-10-01,Partners
+D000231,HS560469,SOC platform - renewal,Renewal,Closed won,2026-05-09,25000.0,12,2026-06-01,Sales EU
+D000232,HS560476,SOC platform - new,New business,Closed won,2022-05-22,244600.0,12,2022-06-01,Sales EU
+D000233,HS560476,SOAR add-on - upsell,Upsell,Closed won,2023-02-01,26300.0,3,2023-03-01,Partners
+D000234,HS560476,SOC platform - renewal,Renewal,Closed won,2023-04-29,264600.0,12,2023-06-01,Sales EU
+D000235,HS560476,SOC platform - renewal,Renewal,Closed won,2024-05-06,279600.0,12,2024-06-01,Partners
+D000236,HS560476,SOC platform - renewal,Renewal,Closed won,2025-04-26,290800.0,12,2025-06-01,Sales EU
+D000237,HS560476,SOC platform - renewal,Renewal,Closed won,2026-04-27,300000.0,12,2026-06-01,Sales FR
+D000238,HS560483,SOC platform - new,New business,Closed won,2023-10-15,229000.0,12,2023-11-01,Partners
+D000239,HS560483,SOC platform - renewal,Renewal,Closed won,2024-10-04,306500.0,12,2024-11-01,Partners
+D000240,HS560483,SOAR add-on - upsell,Upsell,Closed won,2025-01-06,59700.0,9,2025-02-01,Partners
+D000241,HS560483,SOC platform - renewal,Renewal,Closed won,2025-10-13,469600.0,12,2025-11-01,Partners
+D000242,HS560483,SOC platform - renewal,Renewal,Closed won,2026-10-02,548100.0,12,2026-11-01,Partners
+D000243,HS560490,SOC platform - new,New business,Closed won,2023-07-10,142800.0,36,2023-08-01,Sales EU
+D000244,HS560490,SOC platform - renewal,Renewal,Closed won,2026-07-09,272700.0,36,2026-08-01,Sales EU
+D000245,HS560497,SOC platform - new,New business,Closed won,2024-03-17,128800.0,24,2024-04-01,Sales EU
+D000246,HS560497,SOC platform - renewal,Renewal,Closed won,2026-02-25,92400.0,12,2026-04-01,Sales EU
+D000247,HS560504,SOC platform - new,New business,Closed won,2023-02-04,26000.0,12,2023-03-01,Sales EU
+D000248,HS560504,SOC platform - renewal,Renewal,Closed won,2024-02-12,26000.0,12,2024-03-01,Sales EU
+D000249,HS560511,SOC platform - new,New business,Closed won,2023-10-24,225000.0,12,2023-11-01,Partners
+D000250,HS560511,SOC platform - renewal,Renewal,Closed won,2024-10-26,232700.0,12,2024-11-01,Sales EU
+D000251,HS560511,SOAR add-on - upsell,Upsell,Closed won,2025-05-24,19900.0,4,2025-07-01,Sales EU
+D000252,HS560511,SOC platform - renewal,Renewal,Closed won,2025-10-06,260500.0,12,2025-11-01,Sales EU
+D000253,HS560511,SOC platform - renewal,Renewal,Closed won,2026-09-25,275500.0,12,2026-11-01,Partners
+D000254,HS560518,SOC platform - new,New business,Closed won,2024-05-20,36200.0,12,2024-06-01,Partners
+D000255,HS560518,SOC platform - renewal,Renewal,Closed won,2025-05-14,37300.0,12,2025-06-01,Partners
+D000256,HS560518,SOC platform - renewal,Renewal,Closed won,2026-05-28,38500.0,12,2026-06-01,Sales FR
+D000257,HS560525,SOC platform - new,New business,Closed won,2024-05-30,180600.0,36,2024-07-01,Partners
+D000258,HS560532,SOC platform - new,New business,Closed won,2024-05-24,9400.0,12,2024-07-01,Sales FR
+D000259,HS560539,SOC platform - new,New business,Closed won,2022-10-07,60100.0,12,2022-11-01,Partners
+D000260,HS560539,SOC platform - renewal,Renewal,Closed won,2023-10-07,80400.0,12,2023-11-01,Sales FR
+D000261,HS560539,SOC platform - renewal,Renewal,Closed won,2024-10-08,107700.0,12,2024-11-01,Partners
+D000262,HS560539,SOC platform - renewal,Renewal,Closed won,2025-09-28,144100.0,12,2025-11-01,Partners
+D000263,HS560539,SOC platform - renewal,Renewal,Closed won,2026-10-12,192800.0,12,2026-11-01,Sales FR
+D000264,HS560546,SOC platform - new,New business,Closed won,2024-06-17,34600.0,12,2024-07-01,Partners
+D000265,HS560546,SOC platform - renewal,Renewal,Closed won,2025-05-24,35000.0,12,2025-07-01,Sales EU
+D000266,HS560546,SOC platform - renewal,Renewal,Closed won,2026-06-20,35900.0,12,2026-07-01,Partners
+D000267,HS560553,SOC platform - new,New business,Closed won,2024-07-27,9400.0,12,2024-08-01,Partners
+D000268,HS560553,SOC platform - renewal,Renewal,Closed won,2025-07-27,9000.0,12,2025-08-01,Sales EU
+D000269,HS560553,SOC platform - renewal,Renewal,Closed won,2026-07-14,9900.0,12,2026-08-01,Partners
+D000270,HS560560,SOC platform - new,New business,Closed won,2023-10-17,10000.0,12,2023-11-01,Sales FR
+D000271,HS560560,SOC platform - renewal,Renewal,Closed won,2024-10-07,10400.0,12,2024-11-01,Sales EU
+D000272,HS560560,SOC platform - renewal,Renewal,Closed won,2025-10-13,10900.0,12,2025-11-01,Sales EU
+D000273,HS560560,SOC platform - renewal,Renewal,Closed won,2026-10-17,11500.0,12,2026-11-01,Sales EU
+D000274,HS560567,SOC platform - new,New business,Closed won,2023-10-29,9000.0,12,2023-11-01,Partners
+D000275,HS560567,SOAR add-on - upsell,Upsell,Closed won,2024-01-22,1400.0,8,2024-03-01,Sales FR
+D000276,HS560567,SOC platform - renewal,Renewal,Closed won,2024-10-29,10400.0,12,2024-11-01,Sales EU
+D000277,HS560567,SOC platform - renewal,Renewal,Closed won,2025-10-08,9400.0,12,2025-11-01,Sales FR
+D000278,HS560567,SOC platform - renewal,Renewal,Closed won,2026-09-25,9000.0,12,2026-11-01,Sales EU
+D000279,HS560574,SOC platform - new,New business,Closed won,2022-06-23,12000.0,12,2022-07-01,Sales FR
+D000280,HS560574,SOC platform - renewal,Renewal,Closed won,2023-06-24,15100.0,12,2023-07-01,Sales EU
+D000281,HS560581,SOC platform - new,New business,Closed won,2024-03-24,10100.0,12,2024-04-01,Sales FR
+D000282,HS560581,SOAR add-on - upsell,Upsell,Closed won,2024-08-24,2000.0,6,2024-10-01,Sales EU
+D000283,HS560581,SOC platform - renewal,Renewal,Closed won,2025-03-20,15500.0,12,2025-04-01,Sales FR
+D000284,HS560581,SOC platform - renewal,Renewal,Closed won,2026-02-25,18800.0,12,2026-04-01,Partners
+D000285,HS560588,SOC platform - new,New business,Closed won,2023-01-23,22400.0,12,2023-03-01,Partners
+D000286,HS560588,SOAR add-on - upsell,Upsell,Closed won,2023-05-06,2500.0,9,2023-06-01,Partners
+D000287,HS560588,SOC platform - renewal,Renewal,Closed won,2024-01-24,24900.0,12,2024-03-01,Sales FR
+D000288,HS560588,SOC platform - renewal,Renewal,Closed won,2025-02-20,28400.0,12,2025-03-01,Partners
+D000289,HS560588,SOC platform - renewal,Renewal,Closed won,2026-02-16,35900.0,12,2026-03-01,Sales FR
+D000290,HS560595,SOC platform - new,New business,Closed won,2023-02-24,67200.0,12,2023-04-01,Partners
+D000291,HS560595,SOAR add-on - upsell,Upsell,Closed won,2023-08-09,12500.0,7,2023-09-01,Partners
+D000292,HS560595,SOC platform - renewal,Renewal,Closed won,2024-03-03,82500.0,12,2024-04-01,Partners
+D000293,HS560595,SOC platform - renewal,Renewal,Closed won,2025-03-28,82500.0,12,2025-04-01,Partners
+D000294,HS560595,SOC platform - renewal,Renewal,Closed won,2026-03-10,84500.0,12,2026-04-01,Partners
+D000295,HS560602,SOC platform - new,New business,Closed won,2023-05-17,148200.0,12,2023-06-01,Sales EU
+D000296,HS560602,SOAR add-on - upsell,Upsell,Closed won,2024-02-02,21800.0,3,2024-03-01,Partners
+D000297,HS560602,SOC platform - renewal,Renewal,Closed won,2024-05-13,196000.0,12,2024-06-01,Partners
+D000298,HS560602,SOC platform - renewal,Renewal,Closed won,2025-05-02,214900.0,12,2025-06-01,Sales EU
+D000299,HS560602,SOAR add-on - upsell,Upsell,Closed won,2025-09-04,35600.0,8,2025-10-01,Partners
+D000300,HS560602,SOC platform - renewal,Renewal,Closed won,2026-05-22,300800.0,12,2026-06-01,Sales FR
+D000301,HS560609,SOC platform - new,New business,Closed won,2022-10-25,121200.0,12,2022-11-01,Partners
+D000302,HS560609,SOC platform - renewal,Renewal,Closed won,2023-09-26,122200.0,12,2023-11-01,Sales FR
+D000303,HS560609,SOC platform - renewal,Renewal,Closed won,2024-09-25,122400.0,12,2024-11-01,Partners
+D000304,HS560609,SOC platform - renewal,Renewal,Closed won,2025-10-18,129600.0,12,2025-11-01,Partners
+D000305,HS560609,SOC platform - renewal,Renewal,Closed won,2026-10-15,131200.0,12,2026-11-01,Sales FR
+D000306,HS560616,SOC platform - new,New business,Closed won,2024-01-17,28200.0,12,2024-02-01,Sales FR
+D000307,HS560616,SOC platform - renewal,Renewal,Closed won,2025-01-26,33400.0,12,2025-02-01,Partners
+D000308,HS560616,SOC platform - renewal,Renewal,Closed won,2026-01-26,41400.0,12,2026-02-01,Partners
+D000309,HS560623,SOC platform - new,New business,Closed won,2024-01-27,24600.0,12,2024-03-01,Sales EU
+D000310,HS560623,SOC platform - renewal,Renewal,Closed won,2025-02-11,22600.0,12,2025-03-01,Sales FR
+D000311,HS560623,SOC platform - renewal,Renewal,Closed won,2026-01-23,20800.0,12,2026-03-01,Partners
+D000312,HS560630,SOC platform - new,New business,Closed won,2023-10-14,10800.0,12,2023-11-01,Partners
+D000313,HS560630,SOC platform - renewal,Renewal,Closed won,2024-10-22,10500.0,12,2024-11-01,Partners
+D000314,HS560630,SOC platform - renewal,Renewal,Closed won,2025-10-25,10200.0,12,2025-11-01,Partners
+D000315,HS560637,SOC platform - new,New business,Closed won,2024-08-15,9000.0,12,2024-09-01,Partners
+D000316,HS560637,SOC platform - renewal,Renewal,Closed won,2025-08-17,9000.0,12,2025-09-01,Sales EU
+D000317,HS560637,SOAR add-on - upsell,Upsell,Closed won,2026-03-30,1300.0,4,2026-05-01,Sales EU
+D000318,HS560644,SOC platform - new,New business,Closed won,2024-06-27,278500.0,12,2024-07-01,Partners
+D000319,HS560644,SOC platform - renewal,Renewal,Closed won,2025-06-23,283800.0,12,2025-07-01,Partners
+D000320,HS560644,SOC platform - renewal,Renewal,Closed won,2026-06-15,289900.0,12,2026-07-01,Sales FR
+D000321,HS560651,SOC platform - new,New business,Closed won,2023-12-22,9000.0,12,2024-01-01,Sales FR
+D000322,HS560658,SOC platform - new,New business,Closed won,2023-09-24,9000.0,12,2023-10-01,Sales FR
+D000323,HS560658,SOC platform - renewal,Renewal,Closed won,2024-09-06,9000.0,12,2024-10-01,Sales EU
+D000324,HS560658,SOC platform - renewal,Renewal,Closed won,2025-09-02,9000.0,12,2025-10-01,Sales FR
+D000325,HS560658,SOC platform - renewal,Renewal,Closed won,2026-09-05,10200.0,12,2026-10-01,Partners
+D000326,HS560665,SOC platform - new,New business,Closed won,2024-06-30,9000.0,12,2024-08-01,Sales EU
+D000327,HS560665,SOAR add-on - upsell,Upsell,Closed won,2024-11-26,1700.0,8,2024-12-01,Sales EU
+D000328,HS560665,SOC platform - renewal,Renewal,Closed won,2025-07-02,13200.0,12,2025-08-01,Sales EU
+D000329,HS560665,SOC platform - renewal,Renewal,Closed won,2026-07-20,15100.0,12,2026-08-01,Partners
+D000330,HS560672,SOC platform - new,New business,Closed won,2024-08-08,42800.0,12,2024-09-01,Partners
+D000331,HS560672,SOC platform - renewal,Renewal,Closed won,2025-08-05,48000.0,12,2025-09-01,Partners
+D000332,HS560672,SOC platform - renewal,Renewal,Closed won,2026-08-05,47700.0,12,2026-09-01,Sales FR
+D000333,HS560679,SOC platform - new,New business,Closed won,2023-08-01,11700.0,12,2023-09-01,Sales EU
+D000334,HS560679,SOC platform - renewal,Renewal,Closed won,2024-08-25,11700.0,12,2024-09-01,Sales EU
+D000335,HS560679,SOC platform - renewal,Renewal,Closed won,2025-08-18,12300.0,12,2025-09-01,Sales FR
+D000336,HS560679,SOAR add-on - upsell,Upsell,Closed won,2026-05-17,1300.0,3,2026-06-01,Sales EU
+D000337,HS560679,SOC platform - renewal,Renewal,Closed won,2026-08-24,17100.0,12,2026-09-01,Sales FR
+D000338,HS560686,SOC platform - new,New business,Closed won,2023-12-15,114200.0,12,2024-01-01,Sales EU
+D000339,HS560686,SOC platform - renewal,Renewal,Closed won,2024-12-13,116300.0,12,2025-01-01,Partners
+D000340,HS560686,SOAR add-on - upsell,Upsell,Closed won,2025-08-28,22900.0,4,2025-09-01,Partners
+D000341,HS560686,SOC platform - renewal,Renewal,Closed won,2025-11-30,141500.0,12,2026-01-01,Sales FR
+D000342,HS560686,AI agents add-on - upsell,Upsell,Closed won,2026-08-28,18000.0,3,2026-10-01,Sales FR
+D000343,HS560693,SOC platform - new,New business,Closed won,2024-08-11,1429200.0,36,2024-09-01,Sales EU
+D000344,HS560700,SOC platform - new,New business,Closed won,2023-03-23,20800.0,12,2023-04-01,Partners
+D000345,HS560700,SOC platform - renewal,Renewal,Closed won,2024-03-18,23100.0,12,2024-04-01,Partners
+D000346,HS560700,SOC platform - renewal,Renewal,Closed won,2025-03-01,22600.0,12,2025-04-01,Sales EU
+D000347,HS560700,SOC platform - renewal,Renewal,Closed won,2026-02-25,23100.0,12,2026-04-01,Partners
+D000348,HS560707,SOC platform - new,New business,Closed won,2024-02-17,37300.0,12,2024-03-01,Sales FR
+D000349,HS560707,SOC platform - renewal,Renewal,Closed won,2025-01-21,42700.0,12,2025-03-01,Sales EU
+D000350,HS560707,SOC platform - renewal,Renewal,Closed won,2026-02-09,49000.0,12,2026-03-01,Sales FR
+D000351,HS560714,SOC platform - new,New business,Closed won,2024-08-26,58900.0,12,2024-09-01,Sales FR
+D000352,HS560714,SOC platform - renewal,Renewal,Closed won,2025-08-11,55100.0,12,2025-09-01,Sales FR
+D000353,HS560714,SOC platform - renewal,Renewal,Closed won,2026-08-07,81100.0,12,2026-09-01,Sales EU
+D000354,HS560721,SOC platform - new,New business,Closed won,2023-01-29,89100.0,36,2023-03-01,Sales EU
+D000355,HS560721,SOAR add-on - upsell,Upsell,Closed won,2023-05-06,2800.0,33,2023-06-01,Sales EU
+D000356,HS560721,SOC platform - renewal,Renewal,Closed won,2026-01-22,32100.0,12,2026-03-01,Sales FR
+D000357,HS560728,SOC platform - new,New business,Closed won,2023-06-05,25200.0,12,2023-07-01,Partners
+D000358,HS560728,SOC platform - renewal,Renewal,Closed won,2024-06-08,25500.0,12,2024-07-01,Sales FR
+D000359,HS560728,SOC platform - renewal,Renewal,Closed won,2025-06-06,27500.0,12,2025-07-01,Sales EU
+D000360,HS560728,SOC platform - renewal,Renewal,Closed won,2026-06-25,27500.0,12,2026-07-01,Partners
+D000361,HS560735,SOC platform - new,New business,Closed won,2023-03-18,14600.0,12,2023-04-01,Sales EU
+D000362,HS560735,SOAR add-on - upsell,Upsell,Closed won,2023-12-22,2500.0,3,2024-01-01,Sales FR
+D000363,HS560735,SOC platform - renewal,Renewal,Closed won,2024-02-23,16400.0,12,2024-04-01,Sales EU
+D000364,HS560735,SOC platform - renewal,Renewal,Closed won,2025-02-23,13400.0,12,2025-04-01,Sales FR
+D000365,HS560735,SOC platform - renewal,Renewal,Closed won,2026-03-21,12800.0,12,2026-04-01,Sales FR
+D000366,HS560735,SOAR add-on - upsell,Upsell,Closed won,2026-07-22,1800.0,8,2026-08-01,Partners
+D000367,HS560742,SOC platform - new,New business,Closed won,2024-05-08,89600.0,12,2024-06-01,Partners
+D000368,HS560742,SOC platform - renewal,Renewal,Closed won,2025-04-26,89600.0,12,2025-06-01,Sales FR
+D000369,HS560742,SOC platform - renewal,Renewal,Closed won,2026-05-16,99900.0,12,2026-06-01,Sales EU
+D000370,HS560749,SOC platform - new,New business,Closed won,2023-07-25,125300.0,12,2023-09-01,Partners
+D000371,HS560749,SOC platform - renewal,Renewal,Closed won,2024-07-31,125500.0,12,2024-09-01,Partners
+D000372,HS560749,SOC platform - renewal,Renewal,Closed won,2025-08-07,125600.0,12,2025-09-01,Sales FR
+D000373,HS560749,SOC platform - renewal,Renewal,Closed won,2026-08-27,132100.0,12,2026-09-01,Partners
+D000374,HS560756,SOC platform - new,New business,Closed won,2024-10-11,16400.0,12,2024-11-01,Sales FR
+D000375,HS560756,SOC platform - renewal,Renewal,Closed won,2025-10-26,20600.0,12,2025-11-01,Partners
+D000376,HS560756,SOC platform - renewal,Renewal,Closed won,2026-10-19,25800.0,12,2026-11-01,Sales FR
+D000377,HS560763,SOC platform - new,New business,Closed won,2023-03-14,69000.0,12,2023-04-01,Sales EU
+D000378,HS560763,SOC platform - renewal,Renewal,Closed won,2024-03-07,69000.0,12,2024-04-01,Partners
+D000379,HS560763,SOC platform - renewal,Renewal,Closed won,2025-03-28,71500.0,12,2025-04-01,Sales EU
+D000380,HS560763,SOC platform - renewal,Renewal,Closed won,2026-03-24,74600.0,12,2026-04-01,Sales EU
+D000381,HS560763,SOAR add-on - upsell,Upsell,Closed won,2026-07-10,13500.0,8,2026-08-01,Partners
+D000382,HS560770,SOC platform - new,New business,Closed won,2024-06-23,9000.0,12,2024-08-01,Sales EU
+D000383,HS560770,SOC platform - renewal,Renewal,Closed won,2025-07-03,9200.0,12,2025-08-01,Sales FR
+D000384,HS560770,AI agents add-on - upsell,Upsell,Closed won,2026-02-02,1000.0,5,2026-03-01,Sales FR
+D000385,HS560770,SOC platform - renewal,Renewal,Closed won,2026-07-20,10500.0,12,2026-08-01,Sales FR
+D000386,HS560777,SOC platform - new,New business,Closed won,2023-01-21,10900.0,12,2023-03-01,Partners
+D000387,HS560777,SOC platform - renewal,Renewal,Closed won,2024-02-19,14100.0,12,2024-03-01,Sales FR
+D000388,HS560777,SOC platform - renewal,Renewal,Closed won,2025-02-09,18200.0,12,2025-03-01,Sales EU
+D000389,HS560777,SOC platform - renewal,Renewal,Closed won,2026-02-03,24800.0,12,2026-03-01,Sales EU
+D000390,HS560777,AI agents add-on - upsell,Upsell,Closed won,2026-07-26,2900.0,7,2026-08-01,Partners
+D000391,HS560784,SOC platform - new,New business,Closed won,2023-10-01,16900.0,12,2023-11-01,Sales FR
+D000392,HS560784,SOC platform - renewal,Renewal,Closed won,2024-10-12,20600.0,12,2024-11-01,Sales EU
+D000393,HS560784,SOC platform - renewal,Renewal,Closed won,2025-09-30,25300.0,12,2025-11-01,Sales FR
+D000394,HS560784,SOAR add-on - upsell,Upsell,Closed won,2026-04-01,4000.0,6,2026-05-01,Sales FR
+D000395,HS560784,SOC platform - renewal,Renewal,Closed won,2026-10-06,34900.0,12,2026-11-01,Partners
+D000396,HS560791,SOC platform - new,New business,Closed won,2023-02-23,157700.0,12,2023-04-01,Sales EU
+D000397,HS560791,SOC platform - renewal,Renewal,Closed won,2024-03-01,159900.0,12,2024-04-01,Sales FR
+D000398,HS560791,SOC platform - renewal,Renewal,Closed won,2025-03-24,162100.0,12,2025-04-01,Sales EU
+D000399,HS560791,SOC platform - renewal,Renewal,Closed won,2026-03-22,164300.0,12,2026-04-01,Sales EU
+D000400,HS560798,SOC platform - new,New business,Closed won,2024-03-10,61000.0,12,2024-04-01,Partners
+D000401,HS560798,SOC platform - renewal,Renewal,Closed won,2025-03-03,53000.0,12,2025-04-01,Sales EU
+D000402,HS560805,SOC platform - new,New business,Closed won,2023-11-08,24400.0,12,2023-12-01,Partners
+D000403,HS560805,SOC platform - renewal,Renewal,Closed won,2024-10-27,28700.0,12,2024-12-01,Partners
+D000404,HS560805,SOC platform - renewal,Renewal,Closed won,2025-11-20,33800.0,12,2025-12-01,Sales EU
+D000405,HS560812,SOC platform - new,New business,Closed won,2024-11-01,21600.0,12,2024-12-01,Partners
+D000406,HS560812,SOC platform - renewal,Renewal,Closed won,2025-11-28,22200.0,12,2025-12-01,Sales EU
+D000407,HS560819,SOC platform - new,New business,Closed won,2024-05-17,9000.0,12,2024-06-01,Sales EU
+D000408,HS560819,SOC platform - renewal,Renewal,Closed won,2025-04-29,10000.0,12,2025-06-01,Sales FR
+D000409,HS560819,SOC platform - renewal,Renewal,Closed won,2026-05-16,9800.0,12,2026-06-01,Sales EU
+D000410,HS560826,SOC platform - new,New business,Closed won,2023-08-14,142500.0,12,2023-09-01,Sales FR
+D000411,HS560826,SOC platform - renewal,Renewal,Closed won,2024-08-07,146000.0,12,2024-09-01,Sales FR
+D000412,HS560826,SOAR add-on - upsell,Upsell,Closed won,2025-01-21,12100.0,6,2025-03-01,Partners
+D000413,HS560826,SOC platform - renewal,Renewal,Closed won,2025-07-24,161700.0,12,2025-09-01,Sales EU
+D000414,HS560826,SOC platform - renewal,Renewal,Closed won,2026-08-01,153300.0,12,2026-09-01,Sales FR
+D000415,HS560833,SOC platform - new,New business,Closed won,2024-04-02,90000.0,12,2024-05-01,Sales EU
+D000416,HS560833,SOC platform - renewal,Renewal,Closed won,2025-04-21,111000.0,12,2025-05-01,Partners
+D000417,HS560833,SOAR add-on - upsell,Upsell,Closed won,2025-07-29,14800.0,8,2025-09-01,Partners
+D000418,HS560833,SOC platform - renewal,Renewal,Closed won,2026-04-22,139100.0,12,2026-05-01,Partners
+D000419,HS560840,SOC platform - new,New business,Closed won,2024-10-02,21700.0,12,2024-11-01,Sales FR
+D000420,HS560840,SOC platform - renewal,Renewal,Closed won,2025-10-18,22900.0,12,2025-11-01,Partners
+D000421,HS560840,SOC platform - renewal,Renewal,Closed won,2026-10-06,23700.0,12,2026-11-01,Sales EU
+D000422,HS560847,SOC platform - new,New business,Closed won,2024-08-05,26700.0,12,2024-09-01,Sales FR
+D000423,HS560847,SOC platform - renewal,Renewal,Closed won,2025-08-24,33100.0,12,2025-09-01,Sales FR
+D000424,HS560847,SOC platform - renewal,Renewal,Closed won,2026-08-19,41000.0,12,2026-09-01,Sales EU
+D000425,HS560854,SOC platform - new,New business,Closed won,2024-07-27,9000.0,12,2024-09-01,Sales EU
+D000426,HS560861,SOC platform - new,New business,Closed won,2024-03-07,9000.0,12,2024-04-01,Partners
+D000427,HS560861,SOAR add-on - upsell,Upsell,Closed won,2024-09-12,1200.0,6,2024-10-01,Partners
+D000428,HS560861,SOC platform - renewal,Renewal,Closed won,2025-03-26,10200.0,12,2025-04-01,Partners
+D000429,HS560861,SOC platform - renewal,Renewal,Closed won,2026-02-21,10800.0,12,2026-04-01,Sales FR
+D000430,HS560868,SOC platform - new,New business,Closed won,2024-03-17,81900.0,12,2024-04-01,Sales EU
+D000431,HS560868,SOAR add-on - upsell,Upsell,Closed won,2024-08-06,7600.0,7,2024-09-01,Sales EU
+D000432,HS560868,SOC platform - renewal,Renewal,Closed won,2025-02-28,105500.0,12,2025-04-01,Sales FR
+D000433,HS560868,SOAR add-on - upsell,Upsell,Closed won,2025-07-29,20600.0,8,2025-08-01,Sales FR
+D000434,HS560868,SOC platform - renewal,Renewal,Closed won,2026-03-27,137700.0,12,2026-04-01,Partners
+D000435,HS560868,AI agents add-on - upsell,Upsell,Closed won,2026-08-25,26700.0,7,2026-09-01,Sales FR
+D000436,HS560875,SOC platform - new,New business,Closed won,2023-03-12,9000.0,12,2023-04-01,Sales EU
+D000437,HS560875,SOC platform - renewal,Renewal,Closed won,2024-03-10,9500.0,12,2024-04-01,Sales EU
+D000438,HS560875,SOC platform - renewal,Renewal,Closed won,2025-02-22,11100.0,12,2025-04-01,Partners
+D000439,HS560875,SOAR add-on - upsell,Upsell,Closed won,2025-07-08,900.0,8,2025-08-01,Partners
+D000440,HS560875,SOC platform - renewal,Renewal,Closed won,2026-03-25,12800.0,12,2026-04-01,Sales EU
+D000441,HS560882,SOC platform - new,New business,Closed won,2023-07-29,72600.0,24,2023-09-01,Sales EU
+D000442,HS560882,SOC platform - renewal,Renewal,Closed won,2025-07-26,58700.0,12,2025-09-01,Sales EU
+D000443,HS560882,SOC platform - renewal,Renewal,Closed won,2026-08-15,74700.0,12,2026-09-01,Partners
+D000444,HS560889,SOC platform - new,New business,Closed won,2023-12-21,30300.0,12,2024-01-01,Sales FR
+D000445,HS560889,SOC platform - renewal,Renewal,Closed won,2024-12-01,36700.0,12,2025-01-01,Sales EU
+D000446,HS560889,SOC platform - renewal,Renewal,Closed won,2025-11-26,39400.0,12,2026-01-01,Partners
+D000447,HS560896,SOC platform - new,New business,Closed won,2024-01-03,22400.0,12,2024-02-01,Partners
+D000448,HS560896,SOC platform - renewal,Renewal,Closed won,2025-01-01,24600.0,12,2025-02-01,Sales FR
+D000449,HS560896,AI agents add-on - upsell,Upsell,Closed won,2025-10-23,2000.0,3,2025-11-01,Partners
+D000450,HS560896,SOC platform - renewal,Renewal,Closed won,2026-01-12,29400.0,12,2026-02-01,Partners
+D000451,HS560896,AI agents add-on - upsell,Upsell,Closed won,2026-08-24,3300.0,4,2026-10-01,Sales EU
+D000452,HS560903,SOC platform - new,New business,Closed won,2023-05-08,14600.0,12,2023-06-01,Sales EU
+D000453,HS560903,SOC platform - renewal,Renewal,Closed won,2024-05-22,19400.0,12,2024-06-01,Partners
+D000454,HS560903,SOC platform - renewal,Renewal,Closed won,2025-05-17,24500.0,12,2025-06-01,Sales EU
+D000455,HS560903,SOC platform - renewal,Renewal,Closed won,2026-05-10,32600.0,12,2026-06-01,Partners
+D000456,HS560910,SOC platform - new,New business,Closed won,2024-06-22,96000.0,12,2024-07-01,Sales FR
+D000457,HS560910,SOC platform - renewal,Renewal,Closed won,2025-05-26,100700.0,12,2025-07-01,Sales FR
+D000458,HS560910,SOC platform - renewal,Renewal,Closed won,2026-06-04,107600.0,12,2026-07-01,Sales EU
+D000459,HS560917,SOC platform - new,New business,Closed won,2023-07-10,11700.0,12,2023-08-01,Partners
+D000460,HS560917,SOC platform - renewal,Renewal,Closed won,2024-07-28,12500.0,12,2024-08-01,Sales EU
+D000461,HS560917,SOC platform - renewal,Renewal,Closed won,2025-06-27,13300.0,12,2025-08-01,Sales FR
+D000462,HS560917,SOC platform - renewal,Renewal,Closed won,2026-07-03,14200.0,12,2026-08-01,Sales FR
+D000463,HS560917,AI agents add-on - upsell,Upsell,Closed won,2026-10-23,2700.0,9,2026-11-01,Partners
+D000464,HS560924,SOC platform - new,New business,Closed won,2024-03-10,16200.0,12,2024-04-01,Partners
+D000465,HS560924,SOC platform - renewal,Renewal,Closed won,2025-02-22,16500.0,12,2025-04-01,Sales EU
+D000466,HS560924,SOC platform - renewal,Renewal,Closed won,2026-03-02,16800.0,12,2026-04-01,Partners
+D000467,HS560931,SOC platform - new,New business,Closed won,2022-05-24,87200.0,24,2022-06-01,Sales FR
+D000468,HS560931,SOC platform - renewal,Renewal,Closed won,2024-05-05,91600.0,24,2024-06-01,Sales FR
+D000469,HS560931,SOC platform - renewal,Renewal,Closed won,2026-05-02,46100.0,12,2026-06-01,Partners
+D000470,HS560938,SOC platform - new,New business,Closed won,2024-04-16,78200.0,12,2024-05-01,Sales EU
+D000471,HS560938,SOAR add-on - upsell,Upsell,Closed won,2024-08-07,14700.0,8,2024-09-01,Partners
+D000472,HS560938,SOC platform - renewal,Renewal,Closed won,2025-03-31,120500.0,12,2025-05-01,Sales EU
+D000473,HS560938,SOC platform - renewal,Renewal,Closed won,2026-03-25,143100.0,12,2026-05-01,Partners
+D000474,HS560945,SOC platform - new,New business,Closed won,2023-07-16,327600.0,36,2023-08-01,Sales EU
+D000475,HS560945,SOAR add-on - upsell,Upsell,Closed won,2024-03-24,8800.0,27,2024-05-01,Sales EU
+D000476,HS560945,SOC platform - renewal,Renewal,Closed won,2026-07-22,546900.0,36,2026-08-01,Sales EU
+D000477,HS560952,SOC platform - new,New business,Closed won,2023-04-15,17500.0,12,2023-05-01,Sales EU
+D000478,HS560952,SOAR add-on - upsell,Upsell,Closed won,2023-10-25,3300.0,5,2023-12-01,Sales FR
+D000479,HS560952,SOC platform - renewal,Renewal,Closed won,2024-04-18,22100.0,12,2024-05-01,Sales EU
+D000480,HS560952,SOC platform - renewal,Renewal,Closed won,2025-04-27,16300.0,12,2025-05-01,Partners
+D000481,HS560952,SOC platform - renewal,Renewal,Closed won,2026-04-15,21600.0,12,2026-05-01,Sales FR
+D000482,HS560959,SOC platform - new,New business,Closed won,2022-07-09,9000.0,12,2022-08-01,Partners
+D000483,HS560966,SOC platform - new,New business,Closed won,2023-10-22,9000.0,12,2023-11-01,Partners
+D000484,HS560966,SOC platform - renewal,Renewal,Closed won,2024-10-27,9400.0,12,2024-11-01,Partners
+D000485,HS560966,SOC platform - renewal,Renewal,Closed won,2025-10-22,9700.0,12,2025-11-01,Partners
+D000486,HS560966,SOC platform - renewal,Renewal,Closed won,2026-10-19,10100.0,12,2026-11-01,Sales EU
+D000487,HS560973,SOC platform - new,New business,Closed won,2024-03-13,25000.0,12,2024-04-01,Partners
+D000488,HS560973,SOAR add-on - upsell,Upsell,Closed won,2024-09-29,4500.0,5,2024-11-01,Sales FR
+D000489,HS560973,SOC platform - renewal,Renewal,Closed won,2025-03-01,30000.0,12,2025-04-01,Sales FR
+D000490,HS560973,SOC platform - renewal,Renewal,Closed won,2026-02-24,27700.0,12,2026-04-01,Partners
+D000491,HS560980,SOC platform - new,New business,Closed won,2024-07-09,10200.0,12,2024-08-01,Partners
+D000492,HS560980,SOC platform - renewal,Renewal,Closed won,2025-07-08,10900.0,12,2025-08-01,Sales EU
+D000493,HS560980,SOC platform - renewal,Renewal,Closed won,2026-07-25,11600.0,12,2026-08-01,Sales EU
+D000494,HS560987,SOC platform - new,New business,Closed won,2023-02-26,20000.0,12,2023-04-01,Sales FR
+D000495,HS560987,SOC platform - renewal,Renewal,Closed won,2024-03-11,20000.0,12,2024-04-01,Sales FR
+D000496,HS560994,SOC platform - new,New business,Closed won,2023-01-29,92100.0,12,2023-03-01,Sales EU
+D000497,HS560994,SOC platform - renewal,Renewal,Closed won,2024-01-26,93300.0,12,2024-03-01,Sales EU
+D000498,HS560994,SOC platform - renewal,Renewal,Closed won,2025-02-11,76900.0,12,2025-03-01,Partners
+D000499,HS560994,SOC platform - renewal,Renewal,Closed won,2026-02-09,95800.0,12,2026-03-01,Sales FR
+D000500,HS561001,SOC platform - new,New business,Closed won,2022-10-29,9000.0,12,2022-12-01,Sales EU
+D000501,HS561001,SOC platform - renewal,Renewal,Closed won,2023-11-26,9900.0,12,2023-12-01,Sales EU
+D000502,HS561001,SOC platform - renewal,Renewal,Closed won,2024-11-18,11700.0,12,2024-12-01,Partners
+D000503,HS561001,SOC platform - renewal,Renewal,Closed won,2025-11-06,12500.0,12,2025-12-01,Partners
+D000504,HS561008,SOC platform - new,New business,Closed won,2023-01-10,27900.0,12,2023-02-01,Partners
+D000505,HS561008,SOC platform - renewal,Renewal,Closed won,2024-01-08,28500.0,12,2024-02-01,Partners
+D000506,HS561008,SOC platform - renewal,Renewal,Closed won,2024-12-26,28400.0,12,2025-02-01,Sales EU
+D000507,HS561008,SOC platform - renewal,Renewal,Closed won,2025-12-28,30300.0,12,2026-02-01,Sales FR
+D000508,HS561008,AI agents add-on - upsell,Upsell,Closed won,2026-07-26,5200.0,6,2026-08-01,Sales EU
+D000509,HS561015,SOC platform - new,New business,Closed won,2023-05-01,18000.0,12,2023-06-01,Sales FR
+D000510,HS561015,SOC platform - renewal,Renewal,Closed won,2024-05-10,21200.0,12,2024-06-01,Partners
+D000511,HS561022,SOC platform - new,New business,Closed won,2023-09-27,20000.0,12,2023-10-01,Sales EU
+D000512,HS561022,SOC platform - renewal,Renewal,Closed won,2024-09-14,20000.0,12,2024-10-01,Sales FR
+D000513,HS561022,SOAR add-on - upsell,Upsell,Closed won,2025-02-09,3000.0,7,2025-03-01,Partners
+D000514,HS561022,SOC platform - renewal,Renewal,Closed won,2025-08-28,24200.0,12,2025-10-01,Sales EU
+D000515,HS561022,SOC platform - renewal,Renewal,Closed won,2026-09-12,20000.0,12,2026-10-01,Partners
+D000516,HS561029,SOC platform - new,New business,Closed won,2022-10-14,13200.0,12,2022-11-01,Sales EU
+D000517,HS561029,SOC platform - renewal,Renewal,Closed won,2023-09-27,15300.0,12,2023-11-01,Sales EU
+D000518,HS561029,SOAR add-on - upsell,Upsell,Closed won,2024-01-25,2000.0,8,2024-03-01,Sales FR
+D000519,HS561029,SOC platform - renewal,Renewal,Closed won,2024-10-08,19900.0,12,2024-11-01,Partners
+D000520,HS561029,SOC platform - renewal,Renewal,Closed won,2025-10-10,21800.0,12,2025-11-01,Sales EU
+D000521,HS561029,SOC platform - renewal,Renewal,Closed won,2026-10-27,24300.0,12,2026-11-01,Partners
+D000522,HS561036,SOC platform - new,New business,Closed won,2023-09-16,9000.0,12,2023-10-01,Sales EU
+D000523,HS561036,SOC platform - renewal,Renewal,Closed won,2024-09-27,9900.0,12,2024-10-01,Partners
+D000524,HS561036,SOC platform - renewal,Renewal,Closed won,2025-09-21,11100.0,12,2025-10-01,Partners
+D000525,HS561036,SOC platform - renewal,Renewal,Closed won,2026-09-19,9900.0,12,2026-10-01,Partners
+D000526,HS561043,SOC platform - new,New business,Closed won,2023-12-07,43600.0,12,2024-01-01,Partners
+D000527,HS561043,SOC platform - renewal,Renewal,Closed won,2024-12-04,54400.0,12,2025-01-01,Sales EU
+D000528,HS561043,SOC platform - renewal,Renewal,Closed won,2025-11-28,58300.0,12,2026-01-01,Partners
+D000529,HS561050,SOC platform - new,New business,Closed won,2022-11-06,166900.0,12,2022-12-01,Partners
+D000530,HS561050,SOC platform - renewal,Renewal,Closed won,2023-11-20,157200.0,12,2023-12-01,Sales EU
+D000531,HS561050,SOAR add-on - upsell,Upsell,Closed won,2024-06-20,25500.0,5,2024-07-01,Sales FR
+D000532,HS561050,SOC platform - renewal,Renewal,Closed won,2024-11-17,279200.0,12,2024-12-01,Sales EU
+D000533,HS561050,SOC platform - renewal,Renewal,Closed won,2025-11-23,312700.0,12,2025-12-01,Sales EU
+D000534,HS561057,SOC platform - new,New business,Closed won,2022-09-12,9400.0,12,2022-10-01,Sales EU
+D000535,HS561057,SOC platform - renewal,Renewal,Closed won,2023-09-08,9700.0,12,2023-10-01,Partners
+D000536,HS561057,SOC platform - renewal,Renewal,Closed won,2024-09-08,11900.0,12,2024-10-01,Sales EU
+D000537,HS561057,SOC platform - renewal,Renewal,Closed won,2025-08-27,14700.0,12,2025-10-01,Sales FR
+D000538,HS561057,SOC platform - renewal,Renewal,Closed won,2026-09-13,18100.0,12,2026-10-01,Sales FR
+D000539,HS561064,SOC platform - new,New business,Closed won,2024-02-24,9000.0,12,2024-04-01,Sales FR
+D000540,HS561064,SOC platform - renewal,Renewal,Closed won,2025-03-26,9000.0,12,2025-04-01,Sales FR
+D000541,HS561064,SOC platform - renewal,Renewal,Closed won,2026-03-29,9000.0,12,2026-04-01,Sales EU
+D000542,HS561071,SOC platform - new,New business,Closed won,2023-03-26,10500.0,12,2023-04-01,Partners
+D000543,HS561071,SOC platform - renewal,Renewal,Closed won,2024-03-01,11700.0,12,2024-04-01,Sales FR
+D000544,HS561071,SOC platform - renewal,Renewal,Closed won,2025-03-09,12900.0,12,2025-04-01,Sales EU
+D000545,HS561071,SOC platform - renewal,Renewal,Closed won,2026-02-26,11000.0,12,2026-04-01,Partners
+D000546,HS561078,SOC platform - new,New business,Closed won,2024-05-23,16200.0,12,2024-07-01,Sales EU
+D000547,HS561078,SOC platform - renewal,Renewal,Closed won,2025-06-22,19000.0,12,2025-07-01,Partners
+D000548,HS561078,SOC platform - renewal,Renewal,Closed won,2026-06-13,22200.0,12,2026-07-01,Sales FR
+D000549,HS561085,SOC platform - new,New business,Closed won,2024-03-27,39800.0,12,2024-04-01,Partners
+D000550,HS561085,SOC platform - renewal,Renewal,Closed won,2025-03-28,41200.0,12,2025-04-01,Sales EU
+D000551,HS561085,SOC platform - renewal,Renewal,Closed won,2026-02-27,42600.0,12,2026-04-01,Sales FR
+D000552,HS561092,SOC platform - new,New business,Closed won,2024-09-25,58700.0,12,2024-10-01,Partners
+D000553,HS561092,SOC platform - renewal,Renewal,Closed won,2025-09-16,60800.0,12,2025-10-01,Partners
+D000554,HS561092,SOC platform - renewal,Renewal,Closed won,2026-09-04,62900.0,12,2026-10-01,Sales FR
+D000555,HS561099,SOC platform - new,New business,Closed won,2024-05-14,22400.0,12,2024-06-01,Partners
+D000556,HS561099,SOC platform - renewal,Renewal,Closed won,2025-05-20,26200.0,12,2025-06-01,Sales FR
+D000557,HS561099,SOC platform - renewal,Renewal,Closed won,2026-05-07,32800.0,12,2026-06-01,Sales EU
+D000558,HS561106,SOC platform - new,New business,Closed won,2023-01-28,37200.0,12,2023-02-01,Partners
+D000559,HS561106,SOC platform - renewal,Renewal,Closed won,2024-01-01,37400.0,12,2024-02-01,Sales EU
+D000560,HS561106,SOC platform - renewal,Renewal,Closed won,2024-12-30,38000.0,12,2025-02-01,Partners
+D000561,HS561106,SOC platform - renewal,Renewal,Closed won,2026-01-12,38500.0,12,2026-02-01,Sales FR
+D000562,HS561113,SOC platform - new,New business,Closed won,2023-07-15,136100.0,12,2023-08-01,Sales FR
+D000563,HS561113,SOC platform - renewal,Renewal,Closed won,2024-07-26,173100.0,12,2024-08-01,Sales EU
+D000564,HS561113,SOC platform - renewal,Renewal,Closed won,2025-07-12,220100.0,12,2025-08-01,Sales EU
+D000565,HS561113,SOC platform - renewal,Renewal,Closed won,2026-07-13,279700.0,12,2026-08-01,Sales EU
+D000566,HS561120,SOC platform - new,New business,Closed won,2024-08-18,88500.0,12,2024-09-01,Sales EU
+D000567,HS561120,SOC platform - renewal,Renewal,Closed won,2025-07-30,117000.0,12,2025-09-01,Sales EU
+D000568,HS561120,SOC platform - renewal,Renewal,Closed won,2026-07-27,147300.0,12,2026-09-01,Sales FR
+D000569,HS561127,SOC platform - new,New business,Closed won,2022-07-10,40500.0,12,2022-08-01,Partners
+D000570,HS561127,SOC platform - renewal,Renewal,Closed won,2023-07-01,35700.0,12,2023-08-01,Sales FR
+D000571,HS561127,SOC platform - renewal,Renewal,Closed won,2024-07-09,57600.0,12,2024-08-01,Sales FR
+D000572,HS561127,SOAR add-on - upsell,Upsell,Closed won,2024-11-04,9100.0,8,2024-12-01,Sales FR
+D000573,HS561127,SOC platform - renewal,Renewal,Closed won,2025-06-30,79500.0,12,2025-08-01,Sales FR
+D000574,HS561127,SOC platform - renewal,Renewal,Closed won,2026-07-29,68800.0,12,2026-08-01,Sales EU
+D000575,HS561134,SOC platform - new,New business,Closed won,2024-07-30,20000.0,12,2024-09-01,Sales FR
+D000576,HS561134,SOAR add-on - upsell,Upsell,Closed won,2025-03-01,2300.0,5,2025-04-01,Sales FR
+D000577,HS561134,SOC platform - renewal,Renewal,Closed won,2025-08-13,23100.0,12,2025-09-01,Partners
+D000578,HS561134,SOC platform - renewal,Renewal,Closed won,2026-08-03,24400.0,12,2026-09-01,Partners
+D000579,HS561141,SOC platform - new,New business,Closed won,2024-05-23,9000.0,12,2024-06-01,Sales EU
+D000580,HS561141,SOAR add-on - upsell,Upsell,Closed won,2025-01-25,1400.0,3,2025-03-01,Sales FR
+D000581,HS561141,SOC platform - renewal,Renewal,Closed won,2025-05-21,9400.0,12,2025-06-01,Partners
+D000582,HS561141,SOC platform - renewal,Renewal,Closed won,2026-05-27,9000.0,12,2026-06-01,Sales EU
+D000583,HS561148,SOC platform - new,New business,Closed won,2023-03-10,213600.0,36,2023-04-01,Partners
+D000584,HS561148,SOC platform - renewal,Renewal,Closed won,2026-03-01,140600.0,12,2026-04-01,Partners
+D000585,HS561155,SOC platform - new,New business,Closed won,2022-10-30,9000.0,12,2022-12-01,Sales FR
+D000586,HS561155,SOC platform - renewal,Renewal,Closed won,2023-11-01,9100.0,12,2023-12-01,Sales EU
+D000587,HS561155,SOC platform - renewal,Renewal,Closed won,2024-11-13,10000.0,12,2024-12-01,Partners
+D000588,HS561155,SOC platform - renewal,Renewal,Closed won,2025-11-25,10900.0,12,2025-12-01,Partners
+D000589,HS561162,SOC platform - new,New business,Closed won,2024-03-16,701100.0,36,2024-04-01,Sales FR
+D000590,HS561162,SOAR add-on - upsell,Upsell,Closed won,2024-10-26,30700.0,28,2024-12-01,Sales FR
+D000591,HS561169,SOC platform - new,New business,Closed won,2024-02-27,23800.0,12,2024-03-01,Sales FR
+D000592,HS561169,SOC platform - renewal,Renewal,Closed won,2025-01-23,32100.0,12,2025-03-01,Partners
+D000593,HS561169,SOC platform - renewal,Renewal,Closed won,2026-01-26,43300.0,12,2026-03-01,Partners
+D000594,HS561176,SOC platform - new,New business,Closed won,2023-02-26,24400.0,12,2023-04-01,Partners
+D000595,HS561183,SOC platform - new,New business,Closed won,2024-10-12,65200.0,12,2024-11-01,Sales EU
+D000596,HS561183,SOC platform - renewal,Renewal,Closed won,2025-09-26,74600.0,12,2025-11-01,Sales EU
+D000597,HS561183,AI agents add-on - upsell,Upsell,Closed won,2026-07-23,11500.0,3,2026-08-01,Sales FR
+D000598,HS561183,SOC platform - renewal,Renewal,Closed won,2026-10-01,96800.0,12,2026-11-01,Sales FR
+D000599,HS561190,SOC platform - new,New business,Closed won,2024-09-07,67000.0,12,2024-10-01,Partners
+D000600,HS561190,SOC platform - renewal,Renewal,Closed won,2025-09-17,74400.0,12,2025-10-01,Sales FR
+D000601,HS561190,SOC platform - renewal,Renewal,Closed won,2026-09-16,82600.0,12,2026-10-01,Sales FR
+D000602,HS561197,SOC platform - new,New business,Closed won,2024-03-18,40000.0,24,2024-04-01,Sales EU
+D000603,HS561197,SOC platform - renewal,Renewal,Closed won,2026-03-11,41000.0,24,2026-04-01,Partners
+D000604,HS561204,SOC platform - new,New business,Closed won,2024-09-17,9000.0,12,2024-10-01,Sales EU
+D000605,HS561204,SOC platform - renewal,Renewal,Closed won,2025-09-13,9000.0,12,2025-10-01,Partners
+D000606,HS561204,SOAR add-on - upsell,Upsell,Closed won,2026-02-21,1500.0,7,2026-03-01,Sales EU
+D000607,HS561204,SOC platform - renewal,Renewal,Closed won,2026-08-29,10900.0,12,2026-10-01,Partners
+D000608,HS561211,SOC platform - new,New business,Closed won,2022-05-13,83300.0,12,2022-06-01,Partners
+D000609,HS561211,SOAR add-on - upsell,Upsell,Closed won,2023-02-12,9300.0,3,2023-03-01,Sales EU
+D000610,HS561211,SOC platform - renewal,Renewal,Closed won,2023-05-28,96200.0,12,2023-06-01,Partners
+D000611,HS561211,SOAR add-on - upsell,Upsell,Closed won,2023-08-28,13600.0,8,2023-10-01,Partners
+D000612,HS561211,SOC platform - renewal,Renewal,Closed won,2024-05-02,110300.0,12,2024-06-01,Partners
+D000613,HS561211,SOAR add-on - upsell,Upsell,Closed won,2024-12-30,17200.0,4,2025-02-01,Sales EU
+D000614,HS561211,SOC platform - renewal,Renewal,Closed won,2025-05-20,130900.0,12,2025-06-01,Sales FR
+D000615,HS561211,SOAR add-on - upsell,Upsell,Closed won,2025-09-04,23700.0,8,2025-10-01,Sales EU
+D000616,HS561211,SOC platform - renewal,Renewal,Closed won,2026-04-27,161700.0,12,2026-06-01,Partners
+D000617,HS561218,SOC platform - new,New business,Closed won,2024-10-23,11100.0,12,2024-11-01,Partners
+D000618,HS561218,SOC platform - renewal,Renewal,Closed won,2025-09-28,12700.0,12,2025-11-01,Partners
+D000619,HS561218,SOC platform - renewal,Renewal,Closed won,2026-09-27,13800.0,12,2026-11-01,Sales EU
+D000620,HS561225,SOC platform - new,New business,Closed won,2022-10-15,49600.0,24,2022-11-01,Partners
+D000621,HS561225,SOC platform - renewal,Renewal,Closed won,2024-10-14,44200.0,24,2024-11-01,Sales FR
+D000622,HS561225,SOC platform - renewal,Renewal,Closed won,2026-10-26,20000.0,12,2026-11-01,Sales FR
+D000623,HS561232,SOC platform - new,New business,Closed won,2022-09-07,18400.0,12,2022-10-01,Sales EU
+D000624,HS561232,SOC platform - renewal,Renewal,Closed won,2023-09-25,19400.0,12,2023-10-01,Sales FR
+D000625,HS561232,SOC platform - renewal,Renewal,Closed won,2024-09-04,20500.0,12,2024-10-01,Sales EU
+D000626,HS561232,SOC platform - renewal,Renewal,Closed won,2025-08-28,18800.0,12,2025-10-01,Partners
+D000627,HS561232,SOC platform - renewal,Renewal,Closed won,2026-09-09,22900.0,12,2026-10-01,Sales FR
+D000628,HS561239,SOC platform - new,New business,Closed won,2022-08-28,14700.0,12,2022-10-01,Sales FR
+D000629,HS561239,SOC platform - renewal,Renewal,Closed won,2023-08-30,14100.0,12,2023-10-01,Partners
+D000630,HS561239,SOC platform - renewal,Renewal,Closed won,2024-08-27,10600.0,12,2024-10-01,Sales FR
+D000631,HS561239,SOC platform - renewal,Renewal,Closed won,2025-09-18,12900.0,12,2025-10-01,Partners
+D000632,HS561239,SOC platform - renewal,Renewal,Closed won,2026-09-08,12400.0,12,2026-10-01,Sales EU
+D000633,HS561246,SOC platform - new,New business,Closed won,2024-09-10,111200.0,12,2024-10-01,Partners
+D000634,HS561246,SOC platform - renewal,Renewal,Closed won,2025-08-29,116400.0,12,2025-10-01,Sales EU
+D000635,HS561246,SOC platform - renewal,Renewal,Closed won,2026-09-27,121900.0,12,2026-10-01,Sales EU
+D000636,HS561253,SOC platform - new,New business,Closed won,2023-09-28,110800.0,12,2023-10-01,Partners
+D000637,HS561253,SOC platform - renewal,Renewal,Closed won,2024-09-22,114600.0,12,2024-10-01,Sales FR
+D000638,HS561260,SOC platform - new,New business,Closed won,2024-04-07,57500.0,12,2024-05-01,Sales FR
+D000639,HS561260,SOC platform - renewal,Renewal,Closed won,2025-04-08,61000.0,12,2025-05-01,Partners
+D000640,HS561260,SOAR add-on - upsell,Upsell,Closed won,2025-08-06,6400.0,8,2025-09-01,Partners
+D000641,HS561260,SOC platform - renewal,Renewal,Closed won,2026-04-15,70900.0,12,2026-05-01,Partners
+D000642,HS561267,SOC platform - new,New business,Closed won,2024-10-17,9000.0,12,2024-11-01,Sales EU
+D000643,HS561267,SOC platform - renewal,Renewal,Closed won,2025-10-18,9000.0,12,2025-11-01,Partners
+D000644,HS561267,SOC platform - renewal,Renewal,Closed won,2026-10-24,9000.0,12,2026-11-01,Sales FR
+D000645,HS561274,SOC platform - new,New business,Closed won,2023-10-23,22400.0,12,2023-11-01,Sales EU
+D000646,HS561274,SOC platform - renewal,Renewal,Closed won,2024-10-18,22400.0,12,2024-11-01,Partners
+D000647,HS561274,SOC platform - renewal,Renewal,Closed won,2025-10-22,22400.0,12,2025-11-01,Sales EU
+D000648,HS561274,SOC platform - renewal,Renewal,Closed won,2026-10-08,22400.0,12,2026-11-01,Partners
+D000649,HS561281,SOC platform - new,New business,Closed won,2023-04-02,105900.0,36,2023-05-01,Sales EU
+D000650,HS561281,SOC platform - renewal,Renewal,Closed won,2026-03-29,154800.0,36,2026-05-01,Sales FR
+D000651,HS561288,SOC platform - new,New business,Closed won,2024-08-06,21900.0,12,2024-09-01,Sales EU
+D000652,HS561288,SOAR add-on - upsell,Upsell,Closed won,2024-11-01,2900.0,9,2024-12-01,Partners
+D000653,HS561288,SOC platform - renewal,Renewal,Closed won,2025-08-14,28700.0,12,2025-09-01,Sales FR
+D000654,HS561288,SOC platform - renewal,Renewal,Closed won,2026-08-12,30500.0,12,2026-09-01,Partners
+D000655,HS561295,SOC platform - new,New business,Closed won,2024-08-12,13900.0,12,2024-09-01,Partners
+D000656,HS561295,SOC platform - renewal,Renewal,Closed won,2025-08-22,12800.0,12,2025-09-01,Partners
+D000657,HS561295,SOC platform - renewal,Renewal,Closed won,2026-07-24,19100.0,12,2026-09-01,Sales EU
+D000658,HS561302,SOC platform - new,New business,Closed won,2023-08-28,157000.0,12,2023-09-01,Sales FR
+D000659,HS561302,SOAR add-on - upsell,Upsell,Closed won,2023-11-26,23400.0,9,2023-12-01,Partners
+D000660,HS561302,SOC platform - renewal,Renewal,Closed won,2024-08-13,188100.0,12,2024-09-01,Sales FR
+D000661,HS561302,SOC platform - renewal,Renewal,Closed won,2025-08-19,193300.0,12,2025-09-01,Sales FR
+D000662,HS561302,AI agents add-on - upsell,Upsell,Closed won,2025-12-24,21600.0,8,2026-01-01,Sales EU
+D000663,HS561302,SOC platform - renewal,Renewal,Closed won,2026-08-11,215400.0,12,2026-09-01,Sales EU
+D000664,HS561309,SOC platform - new,New business,Closed won,2024-04-28,10500.0,12,2024-06-01,Partners
+D000665,HS561309,SOAR add-on - upsell,Upsell,Closed won,2024-10-23,1500.0,7,2024-11-01,Sales EU
+D000666,HS561309,SOC platform - renewal,Renewal,Closed won,2025-04-30,16200.0,12,2025-06-01,Sales EU
+D000667,HS561309,SOC platform - renewal,Renewal,Closed won,2026-04-30,18500.0,12,2026-06-01,Sales EU
+D000668,HS561316,SOC platform - new,New business,Closed won,2024-03-09,60000.0,36,2024-04-01,Partners
+D000669,HS561323,SOC platform - new,New business,Closed won,2022-07-27,32200.0,12,2022-08-01,Sales FR
+D000670,HS561323,SOAR add-on - upsell,Upsell,Closed won,2023-03-02,5800.0,4,2023-04-01,Sales EU
+D000671,HS561323,SOC platform - renewal,Renewal,Closed won,2023-07-09,39100.0,12,2023-08-01,Sales EU
+D000672,HS561323,SOC platform - renewal,Renewal,Closed won,2024-07-28,41400.0,12,2024-08-01,Sales EU
+D000673,HS561323,SOC platform - renewal,Renewal,Closed won,2025-07-16,43700.0,12,2025-08-01,Sales FR
+D000674,HS561323,SOC platform - renewal,Renewal,Closed won,2026-06-24,44700.0,12,2026-08-01,Sales EU
+D000675,HS561330,SOC platform - new,New business,Closed won,2024-10-18,9000.0,12,2024-11-01,Sales EU
+D000676,HS561330,SOC platform - renewal,Renewal,Closed won,2025-10-28,9000.0,12,2025-11-01,Sales FR
+D000677,HS561330,SOC platform - renewal,Renewal,Closed won,2026-09-29,10100.0,12,2026-11-01,Sales EU
+D000678,HS561337,SOC platform - new,New business,Closed won,2022-08-07,60000.0,12,2022-09-01,Sales FR
+D000679,HS561337,SOC platform - renewal,Renewal,Closed won,2023-08-18,61600.0,12,2023-09-01,Sales FR
+D000680,HS561337,SOC platform - renewal,Renewal,Closed won,2024-08-06,64500.0,12,2024-09-01,Partners
+D000681,HS561337,SOC platform - renewal,Renewal,Closed won,2025-08-25,66200.0,12,2025-09-01,Sales FR
+D000682,HS561344,SOC platform - new,New business,Closed won,2024-01-31,18300.0,12,2024-03-01,Sales EU
+D000683,HS561344,SOC platform - renewal,Renewal,Closed won,2025-02-08,25100.0,12,2025-03-01,Sales FR
+D000684,HS561344,SOC platform - renewal,Renewal,Closed won,2026-02-19,34400.0,12,2026-03-01,Sales EU
+D000685,HS561351,SOC platform - new,New business,Closed won,2023-10-25,31000.0,12,2023-11-01,Sales FR
+D000686,HS561351,SOC platform - renewal,Renewal,Closed won,2024-10-15,37800.0,12,2024-11-01,Partners
+D000687,HS561351,SOC platform - renewal,Renewal,Closed won,2025-10-15,46100.0,12,2025-11-01,Partners
+D000688,HS561351,SOC platform - renewal,Renewal,Closed won,2026-10-27,56200.0,12,2026-11-01,Partners
+D000689,HS561358,SOC platform - new,New business,Closed won,2023-03-20,10600.0,12,2023-04-01,Sales FR
+D000690,HS561358,SOC platform - renewal,Renewal,Closed won,2024-03-09,10100.0,12,2024-04-01,Sales FR
+D000691,HS561358,SOC platform - renewal,Renewal,Closed won,2025-03-13,10400.0,12,2025-04-01,Partners
+D000692,HS561358,SOC platform - renewal,Renewal,Closed won,2026-02-28,11400.0,12,2026-04-01,Sales EU
+D000693,HS561365,SOC platform - new,New business,Closed won,2023-08-23,58200.0,12,2023-10-01,Sales EU
+D000694,HS561365,SOC platform - renewal,Renewal,Closed won,2024-09-27,63600.0,12,2024-10-01,Partners
+D000695,HS561365,SOC platform - renewal,Renewal,Closed won,2025-09-20,69400.0,12,2025-10-01,Sales FR
+D000696,HS561365,SOC platform - renewal,Renewal,Closed won,2026-09-26,75700.0,12,2026-10-01,Partners
+D000697,HS561372,SOC platform - new,New business,Closed won,2023-03-17,9000.0,12,2023-04-01,Sales EU
+D000698,HS561372,SOC platform - renewal,Renewal,Closed won,2024-03-08,9000.0,12,2024-04-01,Partners
+D000699,HS561372,SOC platform - renewal,Renewal,Closed won,2025-02-23,9400.0,12,2025-04-01,Sales EU
+D000700,HS561372,SOC platform - renewal,Renewal,Closed won,2026-03-24,7300.0,12,2026-04-01,Sales FR
+D000701,HS561379,SOC platform - new,New business,Closed won,2024-11-25,21400.0,12,2024-12-01,Partners
+D000702,HS561379,SOC platform - renewal,Renewal,Closed won,2025-11-05,24400.0,12,2025-12-01,Sales FR
+D000703,HS561386,SOC platform - new,New business,Closed won,2024-11-20,9000.0,12,2024-12-01,Sales FR
+D000704,HS561386,SOC platform - renewal,Renewal,Closed won,2025-11-05,9100.0,12,2025-12-01,Sales EU
+D000705,HS561393,SOC platform - new,New business,Closed won,2024-11-17,9000.0,12,2024-12-01,Sales EU
+D000706,HS561393,SOC platform - renewal,Renewal,Closed won,2025-11-01,9000.0,12,2025-12-01,Partners
+D000707,HS561400,SOC platform - new,New business,Closed won,2024-03-07,67200.0,36,2024-04-01,Sales FR
+D000708,HS561407,SOC platform - new,New business,Closed won,2024-08-19,9000.0,12,2024-09-01,Partners
+D000709,HS561414,SOC platform - new,New business,Closed won,2024-02-11,9000.0,12,2024-03-01,Sales EU
+D000710,HS561414,SOC platform - renewal,Renewal,Closed won,2025-02-26,9400.0,12,2025-03-01,Sales EU
+D000711,HS561414,SOC platform - renewal,Renewal,Closed won,2026-02-20,11500.0,12,2026-03-01,Partners
+D000712,HS561421,SOC platform - new,New business,Closed won,2024-04-03,36000.0,12,2024-05-01,Sales EU
+D000713,HS561421,SOC platform - renewal,Renewal,Closed won,2025-04-08,37000.0,12,2025-05-01,Partners
+D000714,HS561421,SOC platform - renewal,Renewal,Closed won,2026-04-17,38300.0,12,2026-05-01,Partners
+D000715,HS561428,SOC platform - new,New business,Closed won,2023-05-25,87300.0,36,2023-06-01,Sales EU
+D000716,HS561428,SOAR add-on - upsell,Upsell,Closed won,2024-01-05,4300.0,28,2024-02-01,Sales FR
+D000717,HS561428,SOC platform - renewal,Renewal,Closed won,2026-05-20,104400.0,36,2026-06-01,Partners
+D000718,HS561435,SOC platform - new,New business,Closed won,2022-10-28,32600.0,12,2022-11-01,Sales EU
+D000719,HS561435,SOC platform - renewal,Renewal,Closed won,2023-10-05,27900.0,12,2023-11-01,Sales EU
+D000720,HS561435,SOC platform - renewal,Renewal,Closed won,2024-10-02,24000.0,12,2024-11-01,Sales EU
+D000721,HS561435,SOAR add-on - upsell,Upsell,Closed won,2025-01-07,3800.0,9,2025-02-01,Sales FR
+D000722,HS561435,SOC platform - renewal,Renewal,Closed won,2025-10-26,24400.0,12,2025-11-01,Sales EU
+D000723,HS561435,SOC platform - renewal,Renewal,Closed won,2026-09-27,17600.0,12,2026-11-01,Sales FR
+D000724,HS561442,SOC platform - new,New business,Closed won,2023-10-30,92600.0,12,2023-12-01,Sales FR
+D000725,HS561442,SOC platform - renewal,Renewal,Closed won,2024-11-07,130100.0,12,2024-12-01,Sales FR
+D000726,HS561442,SOC platform - renewal,Renewal,Closed won,2025-11-01,182600.0,12,2025-12-01,Partners
+D000727,HS561449,SOC platform - new,New business,Closed won,2022-04-27,15600.0,12,2022-06-01,Partners
+D000728,HS561449,SOC platform - renewal,Renewal,Closed won,2023-05-24,18900.0,12,2023-06-01,Sales EU
+D000729,HS561449,SOAR add-on - upsell,Upsell,Closed won,2024-01-03,2300.0,4,2024-02-01,Sales FR
+D000730,HS561456,SOC platform - new,New business,Closed won,2022-10-22,64100.0,12,2022-11-01,Sales FR
+D000731,HS561456,SOC platform - renewal,Renewal,Closed won,2023-10-18,66900.0,12,2023-11-01,Sales FR
+D000732,HS561456,SOC platform - renewal,Renewal,Closed won,2024-10-11,67700.0,12,2024-11-01,Sales EU
+D000733,HS561456,SOC platform - renewal,Renewal,Closed won,2025-10-23,74300.0,12,2025-11-01,Sales EU
+D000734,HS561456,SOC platform - renewal,Renewal,Closed won,2026-10-16,71200.0,12,2026-11-01,Partners
+D000735,HS561463,SOC platform - new,New business,Closed won,2023-08-29,23600.0,12,2023-09-01,Partners
+D000736,HS561463,SOC platform - renewal,Renewal,Closed won,2024-08-18,26600.0,12,2024-09-01,Sales FR
+D000737,HS561463,SOC platform - renewal,Renewal,Closed won,2025-08-27,30000.0,12,2025-09-01,Partners
+D000738,HS561463,SOC platform - renewal,Renewal,Closed won,2026-08-07,33800.0,12,2026-09-01,Sales FR
+D000739,HS561470,SOC platform - new,New business,Closed won,2023-03-23,17500.0,12,2023-04-01,Partners
+D000740,HS561470,SOC platform - renewal,Renewal,Closed won,2024-02-26,17800.0,12,2024-04-01,Partners
+D000741,HS561470,SOC platform - renewal,Renewal,Closed won,2025-02-28,18000.0,12,2025-04-01,Partners
+D000742,HS561470,SOC platform - renewal,Renewal,Closed won,2026-02-22,18200.0,12,2026-04-01,Sales EU
+D000743,HS561477,SOC platform - new,New business,Closed won,2023-10-22,11700.0,12,2023-11-01,Sales EU
+D000744,HS561477,SOC platform - renewal,Renewal,Closed won,2024-09-25,12100.0,12,2024-11-01,Partners
+D000745,HS561477,SOC platform - renewal,Renewal,Closed won,2025-10-01,14500.0,12,2025-11-01,Partners
+D000746,HS561477,SOC platform - renewal,Renewal,Closed won,2026-10-03,18400.0,12,2026-11-01,Sales EU
+D000747,HS561484,SOC platform - new,New business,Closed won,2023-01-31,128500.0,12,2023-03-01,Sales FR
+D000748,HS561484,SOAR add-on - upsell,Upsell,Closed won,2023-04-26,20900.0,9,2023-06-01,Sales EU
+D000749,HS561484,SOC platform - renewal,Renewal,Closed won,2024-02-23,154600.0,12,2024-03-01,Sales EU
+D000750,HS561491,SOC platform - new,New business,Closed won,2023-10-27,10100.0,12,2023-11-01,Sales EU
+D000751,HS561491,SOC platform - renewal,Renewal,Closed won,2024-10-25,13900.0,12,2024-11-01,Sales EU
+D000752,HS561491,SOC platform - renewal,Renewal,Closed won,2025-09-30,20200.0,12,2025-11-01,Sales FR
+D000753,HS561491,SOAR add-on - upsell,Upsell,Closed won,2026-04-20,2500.0,6,2026-05-01,Sales EU
+D000754,HS561491,SOC platform - renewal,Renewal,Closed won,2026-10-15,31900.0,12,2026-11-01,Sales EU
+D000755,HS561498,SOC platform - new,New business,Closed won,2022-08-06,191600.0,24,2022-09-01,Sales FR
+D000756,HS561498,SOAR add-on - upsell,Upsell,Closed won,2023-03-07,11200.0,17,2023-04-01,Sales EU
+D000757,HS561498,SOC platform - renewal,Renewal,Closed won,2024-08-16,110200.0,12,2024-09-01,Sales FR
+D000758,HS561498,SOC platform - renewal,Renewal,Closed won,2025-08-14,226000.0,24,2025-09-01,Sales EU
+D000759,HS561498,AI agents add-on - upsell,Upsell,Closed won,2025-11-01,22900.0,21,2025-12-01,Partners
+D000760,HS561505,SOC platform - new,New business,Closed won,2023-06-12,12300.0,12,2023-07-01,Partners
+D000761,HS561505,SOC platform - renewal,Renewal,Closed won,2024-06-02,11700.0,12,2024-07-01,Sales EU
+D000762,HS561505,SOC platform - renewal,Renewal,Closed won,2025-06-16,12700.0,12,2025-07-01,Partners
+D000763,HS561505,SOC platform - renewal,Renewal,Closed won,2026-05-25,13100.0,12,2026-07-01,Partners
+D000764,HS561512,SOC platform - new,New business,Closed won,2022-10-19,9000.0,12,2022-11-01,Sales FR
+D000765,HS561512,SOC platform - renewal,Renewal,Closed won,2023-10-08,9900.0,12,2023-11-01,Sales EU
+D000766,HS561512,SOAR add-on - upsell,Upsell,Closed won,2024-03-28,1300.0,6,2024-05-01,Sales EU
+D000767,HS561512,SOC platform - renewal,Renewal,Closed won,2024-10-29,12900.0,12,2024-11-01,Sales FR
+D000768,HS561512,SOC platform - renewal,Renewal,Closed won,2025-10-21,14200.0,12,2025-11-01,Sales FR
+D000769,HS561512,SOC platform - renewal,Renewal,Closed won,2026-10-07,15700.0,12,2026-11-01,Sales FR
+D000770,HS561519,SOC platform - new,New business,Closed won,2024-09-26,21300.0,12,2024-11-01,Sales FR
+D000771,HS561519,SOAR add-on - upsell,Upsell,Closed won,2025-01-22,4000.0,9,2025-02-01,Partners
+D000772,HS561519,SOC platform - renewal,Renewal,Closed won,2025-10-09,25500.0,12,2025-11-01,Partners
+D000773,HS561519,SOC platform - renewal,Renewal,Closed won,2026-10-10,21700.0,12,2026-11-01,Sales FR
+D000774,HS561526,SOC platform - new,New business,Closed won,2024-03-14,11500.0,12,2024-04-01,Sales FR
+D000775,HS561526,SOAR add-on - upsell,Upsell,Closed won,2024-08-12,1100.0,7,2024-09-01,Sales FR
+D000776,HS561526,SOC platform - renewal,Renewal,Closed won,2025-03-24,12800.0,12,2025-04-01,Partners
+D000777,HS561526,SOC platform - renewal,Renewal,Closed won,2026-02-24,12000.0,12,2026-04-01,Sales FR
+D000778,HS561533,SOC platform - new,New business,Closed won,2023-06-25,27100.0,12,2023-07-01,Partners
+D000779,HS561533,SOAR add-on - upsell,Upsell,Closed won,2024-03-29,4600.0,3,2024-04-01,Partners
+D000780,HS561533,SOC platform - renewal,Renewal,Closed won,2024-06-04,36800.0,12,2024-07-01,Partners
+D000781,HS561533,SOC platform - renewal,Renewal,Closed won,2025-05-28,38300.0,12,2025-07-01,Partners
+D000782,HS561533,SOC platform - renewal,Renewal,Closed won,2026-06-04,45500.0,12,2026-07-01,Sales FR
+D000783,HS561540,SOC platform - new,New business,Closed won,2024-06-03,24400.0,12,2024-07-01,Partners
+D000784,HS561540,SOC platform - renewal,Renewal,Closed won,2025-05-30,26500.0,12,2025-07-01,Partners
+D000785,HS561540,SOC platform - renewal,Renewal,Closed won,2026-06-18,28600.0,12,2026-07-01,Sales FR
+D000786,HS561547,SOC platform - new,New business,Closed won,2024-08-27,23500.0,12,2024-10-01,Partners
+D000787,HS561547,SOAR add-on - upsell,Upsell,Closed won,2025-01-23,4400.0,7,2025-03-01,Partners
+D000788,HS561547,SOC platform - renewal,Renewal,Closed won,2025-09-01,30500.0,12,2025-10-01,Partners
+D000789,HS561547,SOC platform - renewal,Renewal,Closed won,2026-08-24,33000.0,12,2026-10-01,Sales FR
+D000790,HS561554,SOC platform - new,New business,Closed won,2024-06-15,15800.0,12,2024-07-01,Partners
+D000791,HS561561,SOC platform - new,New business,Closed won,2022-12-19,475800.0,24,2023-01-01,Sales FR
+D000792,HS561561,SOC platform - renewal,Renewal,Closed won,2024-11-26,391500.0,12,2025-01-01,Sales EU
+D000793,HS561561,SOC platform - renewal,Renewal,Closed won,2025-12-26,1004000.0,24,2026-01-01,Sales FR
+D000794,HS561568,SOC platform - new,New business,Closed won,2023-02-18,20600.0,12,2023-03-01,Sales EU
+D000795,HS561568,SOC platform - renewal,Renewal,Closed won,2024-02-05,20000.0,12,2024-03-01,Sales EU
+D000796,HS561568,SOC platform - renewal,Renewal,Closed won,2025-02-09,20000.0,12,2025-03-01,Sales FR
+D000797,HS561568,SOC platform - renewal,Renewal,Closed won,2026-01-26,20000.0,12,2026-03-01,Sales EU
+D000798,HS561575,SOC platform - new,New business,Closed won,2022-06-21,198400.0,12,2022-07-01,Sales FR
+D000799,HS561575,SOC platform - renewal,Renewal,Closed won,2023-05-29,208300.0,12,2023-07-01,Partners
+D000800,HS561575,SOC platform - renewal,Renewal,Closed won,2024-05-24,212400.0,12,2024-07-01,Sales EU
+D000801,HS561575,SOAR add-on - upsell,Upsell,Closed won,2024-10-19,24100.0,8,2024-11-01,Sales FR
+D000802,HS561575,SOC platform - renewal,Renewal,Closed won,2025-06-22,244900.0,12,2025-07-01,Sales FR
+D000803,HS561575,SOC platform - renewal,Renewal,Closed won,2026-06-08,253000.0,12,2026-07-01,Sales EU
+D000804,HS561582,SOC platform - new,New business,Closed won,2024-05-21,14300.0,12,2024-06-01,Sales FR
+D000805,HS561582,SOC platform - renewal,Renewal,Closed won,2025-05-16,14200.0,12,2025-06-01,Sales FR
+D000806,HS561582,SOAR add-on - upsell,Upsell,Closed won,2025-08-24,2200.0,8,2025-10-01,Sales FR
+D000807,HS561582,SOC platform - renewal,Renewal,Closed won,2026-04-30,16300.0,12,2026-06-01,Sales EU
+D000808,HS561589,SOC platform - new,New business,Closed won,2024-10-21,27700.0,12,2024-11-01,Partners
+D000809,HS561589,SOC platform - renewal,Renewal,Closed won,2025-10-14,23000.0,12,2025-11-01,Sales FR
+D000810,HS561589,SOC platform - renewal,Renewal,Closed won,2026-10-17,20100.0,12,2026-11-01,Partners
+D000811,HS561596,SOC platform - new,New business,Closed won,2023-11-04,26400.0,12,2023-12-01,Sales EU
+D000812,HS561603,SOC platform - new,New business,Closed won,2023-05-09,9600.0,12,2023-06-01,Sales EU
+D000813,HS561603,SOC platform - renewal,Renewal,Closed won,2024-05-11,11000.0,12,2024-06-01,Sales FR
+D000814,HS561603,SOC platform - renewal,Renewal,Closed won,2025-04-27,13400.0,12,2025-06-01,Sales FR
+D000815,HS561603,SOAR add-on - upsell,Upsell,Closed won,2025-08-28,2600.0,9,2025-09-01,Sales FR
+D000816,HS561603,SOC platform - renewal,Renewal,Closed won,2026-04-30,17100.0,12,2026-06-01,Partners
+D000817,HS561610,SOC platform - new,New business,Closed won,2023-11-25,20800.0,12,2024-01-01,Sales EU
+D000818,HS561610,SOC platform - renewal,Renewal,Closed won,2024-12-21,22800.0,12,2025-01-01,Sales EU
+D000819,HS561610,SOC platform - renewal,Renewal,Closed won,2025-12-17,25100.0,12,2026-01-01,Sales EU
+D000820,HS561617,SOC platform - new,New business,Closed won,2023-08-24,10800.0,12,2023-10-01,Partners
+D000821,HS561617,SOC platform - renewal,Renewal,Closed won,2024-09-17,13700.0,12,2024-10-01,Sales FR
+D000822,HS561617,SOC platform - renewal,Renewal,Closed won,2025-09-03,17400.0,12,2025-10-01,Sales EU
+D000823,HS561617,SOC platform - renewal,Renewal,Closed won,2026-08-26,17500.0,12,2026-10-01,Sales EU
+D000824,HS561624,SOC platform - new,New business,Closed won,2023-12-10,83600.0,12,2024-01-01,Sales EU
+D000825,HS561624,SOC platform - renewal,Renewal,Closed won,2024-11-25,85000.0,12,2025-01-01,Sales FR
+D000826,HS561631,SOC platform - new,New business,Closed won,2024-08-17,17000.0,12,2024-09-01,Sales FR
+D000827,HS561631,SOAR add-on - upsell,Upsell,Closed won,2025-02-25,2500.0,5,2025-04-01,Partners
+D000828,HS561631,SOC platform - renewal,Renewal,Closed won,2025-08-22,20400.0,12,2025-09-01,Partners
+D000829,HS561638,SOC platform - new,New business,Closed won,2024-01-01,10900.0,12,2024-02-01,Sales EU
+D000830,HS561638,SOC platform - renewal,Renewal,Closed won,2025-01-16,12300.0,12,2025-02-01,Sales EU
+D000831,HS561638,SOC platform - renewal,Renewal,Closed won,2026-01-05,13900.0,12,2026-02-01,Partners
+D000832,HS561645,SOC platform - new,New business,Closed won,2024-07-01,153400.0,36,2024-08-01,Sales FR
+D000833,HS561652,SOC platform - new,New business,Closed won,2024-04-29,21000.0,12,2024-06-01,Sales EU
+D000834,HS561652,SOAR add-on - upsell,Upsell,Closed won,2024-12-28,4000.0,4,2025-02-01,Sales FR
+D000835,HS561652,SOC platform - renewal,Renewal,Closed won,2025-05-25,18900.0,12,2025-06-01,Sales EU
+D000836,HS561652,SOC platform - renewal,Renewal,Closed won,2026-05-21,20500.0,12,2026-06-01,Sales EU
+D000837,HS561659,SOC platform - new,New business,Closed won,2024-01-05,15900.0,12,2024-02-01,Sales FR
+D000838,HS561659,SOC platform - renewal,Renewal,Closed won,2025-01-10,14300.0,12,2025-02-01,Sales FR
+D000839,HS561659,SOC platform - renewal,Renewal,Closed won,2026-01-18,12800.0,12,2026-02-01,Sales EU
+D000840,HS561666,SOC platform - new,New business,Closed won,2024-03-25,17600.0,12,2024-04-01,Sales FR
+D000841,HS561666,SOC platform - renewal,Renewal,Closed won,2025-03-26,21200.0,12,2025-04-01,Sales FR
+D000842,HS561666,SOC platform - renewal,Renewal,Closed won,2026-03-08,25500.0,12,2026-04-01,Sales FR
+D000843,HS561673,SOC platform - new,New business,Closed won,2023-03-26,294800.0,12,2023-04-01,Sales FR
+D000844,HS561673,SOAR add-on - upsell,Upsell,Closed won,2023-09-24,36500.0,6,2023-10-01,Sales EU
+D000845,HS561673,SOC platform - renewal,Renewal,Closed won,2024-03-16,380200.0,12,2024-04-01,Sales EU
+D000846,HS561673,SOAR add-on - upsell,Upsell,Closed won,2024-10-03,71900.0,5,2024-11-01,Sales FR
+D000847,HS561673,SOC platform - renewal,Renewal,Closed won,2025-02-24,469100.0,12,2025-04-01,Sales FR
+D000848,HS561673,SOC platform - renewal,Renewal,Closed won,2026-03-18,466800.0,12,2026-04-01,Sales FR
+D000849,HS561680,SOC platform - new,New business,Closed won,2023-12-03,9000.0,12,2024-01-01,Sales EU
+D000850,HS561680,SOC platform - renewal,Renewal,Closed won,2024-12-16,9000.0,12,2025-01-01,Partners
+D000851,HS561680,SOAR add-on - upsell,Upsell,Closed won,2025-04-07,1700.0,8,2025-05-01,Sales EU
+D000852,HS561680,SOC platform - renewal,Renewal,Closed won,2025-12-14,10700.0,12,2026-01-01,Partners
+D000853,HS561687,SOC platform - new,New business,Closed won,2022-12-23,11000.0,12,2023-01-01,Sales EU
+D000854,HS561687,SOAR add-on - upsell,Upsell,Closed won,2023-04-25,2200.0,7,2023-06-01,Sales FR
+D000855,HS561687,SOC platform - renewal,Renewal,Closed won,2023-12-25,16200.0,12,2024-01-01,Partners
+D000856,HS561687,SOC platform - renewal,Renewal,Closed won,2024-12-26,17800.0,12,2025-01-01,Partners
+D000857,HS561687,SOC platform - renewal,Renewal,Closed won,2025-11-23,22600.0,12,2026-01-01,Partners
+D000858,HS561694,SOC platform - new,New business,Closed won,2023-06-22,20000.0,12,2023-07-01,Sales FR
+D000859,HS561694,SOC platform - renewal,Renewal,Closed won,2024-06-07,21800.0,12,2024-07-01,Sales EU
+D000860,HS561694,SOC platform - renewal,Renewal,Closed won,2025-06-20,27500.0,12,2025-07-01,Sales EU
+D000861,HS561694,SOC platform - renewal,Renewal,Closed won,2026-06-25,34800.0,12,2026-07-01,Partners
+D000862,HS561701,SOC platform - new,New business,Closed won,2023-11-13,95900.0,12,2023-12-01,Sales FR
+D000863,HS561701,SOC platform - renewal,Renewal,Closed won,2024-11-05,98100.0,12,2024-12-01,Sales FR
+D000864,HS561701,SOC platform - renewal,Renewal,Closed won,2025-11-12,102100.0,12,2025-12-01,Sales EU
+D000865,HS561708,SOC platform - new,New business,Closed won,2023-08-11,38400.0,12,2023-09-01,Sales FR
+D000866,HS561708,SOC platform - renewal,Renewal,Closed won,2024-07-25,46200.0,12,2024-09-01,Sales FR
+D000867,HS561708,SOC platform - renewal,Renewal,Closed won,2025-08-26,55600.0,12,2025-09-01,Partners
+D000868,HS561708,AI agents add-on - upsell,Upsell,Closed won,2026-01-01,8600.0,7,2026-02-01,Sales EU
+D000869,HS561708,SOC platform - renewal,Renewal,Closed won,2026-08-10,79200.0,12,2026-09-01,Sales FR
+D000870,HS561715,SOC platform - new,New business,Closed won,2023-09-07,13500.0,12,2023-10-01,Sales EU
+D000871,HS561722,SOC platform - new,New business,Closed won,2024-09-15,120900.0,36,2024-10-01,Sales EU
+D000872,HS561729,SOC platform - new,New business,Closed won,2024-03-21,9000.0,12,2024-04-01,Partners
+D000873,HS561729,SOC platform - renewal,Renewal,Closed won,2025-02-28,9100.0,12,2025-04-01,Sales EU
+D000874,HS561729,SOC platform - renewal,Renewal,Closed won,2026-03-09,11000.0,12,2026-04-01,Partners
+D000875,HS561729,AI agents add-on - upsell,Upsell,Closed won,2026-08-02,1000.0,7,2026-09-01,Partners
+D000876,HS561736,SOC platform - new,New business,Closed won,2024-07-04,10100.0,12,2024-08-01,Sales EU
+D000877,HS561736,SOC platform - renewal,Renewal,Closed won,2025-07-07,10100.0,12,2025-08-01,Partners
+D000878,HS561736,SOC platform - renewal,Renewal,Closed won,2026-07-04,10100.0,12,2026-08-01,Sales EU
+D000879,HS561743,SOC platform - new,New business,Closed won,2022-12-28,9000.0,12,2023-02-01,Sales FR
+D000880,HS561743,SOC platform - renewal,Renewal,Closed won,2024-01-27,9000.0,12,2024-02-01,Sales EU
+D000881,HS561743,SOC platform - renewal,Renewal,Closed won,2025-01-27,9000.0,12,2025-02-01,Sales FR
+D000882,HS561743,SOC platform - renewal,Renewal,Closed won,2026-01-07,9000.0,12,2026-02-01,Sales EU
+D000883,HS561750,SOC platform - new,New business,Closed won,2023-07-09,25500.0,12,2023-08-01,Sales EU
+D000884,HS561750,SOC platform - renewal,Renewal,Closed won,2024-07-03,33800.0,12,2024-08-01,Partners
+D000885,HS561750,SOC platform - renewal,Renewal,Closed won,2025-07-16,47100.0,12,2025-08-01,Partners
+D000886,HS561750,SOAR add-on - upsell,Upsell,Closed won,2026-04-19,6800.0,3,2026-05-01,Partners
+D000887,HS561750,SOC platform - renewal,Renewal,Closed won,2026-07-19,66400.0,12,2026-08-01,Sales EU
+D000888,HS561757,SOC platform - new,New business,Closed won,2022-10-11,11400.0,12,2022-11-01,Sales EU
+D000889,HS561757,SOAR add-on - upsell,Upsell,Closed won,2023-05-23,1400.0,4,2023-07-01,Sales FR
+D000890,HS561757,SOC platform - renewal,Renewal,Closed won,2023-10-08,13000.0,12,2023-11-01,Partners
+D000891,HS561757,SOC platform - renewal,Renewal,Closed won,2024-10-27,13400.0,12,2024-11-01,Sales EU
+D000892,HS561757,SOAR add-on - upsell,Upsell,Closed won,2025-07-04,1200.0,3,2025-08-01,Sales FR
+D000893,HS561757,SOC platform - renewal,Renewal,Closed won,2025-09-30,14800.0,12,2025-11-01,Sales EU
+D000894,HS561757,SOC platform - renewal,Renewal,Closed won,2026-10-26,14800.0,12,2026-11-01,Sales EU
+D000895,HS561764,SOC platform - new,New business,Closed won,2023-09-23,84000.0,12,2023-10-01,Sales FR
+D000896,HS561764,SOC platform - renewal,Renewal,Closed won,2024-09-09,89900.0,12,2024-10-01,Partners
+D000897,HS561764,SOC platform - renewal,Renewal,Closed won,2025-09-08,89100.0,12,2025-10-01,Partners
+D000898,HS561764,SOC platform - renewal,Renewal,Closed won,2026-09-05,97200.0,12,2026-10-01,Partners
+D000899,HS561771,SOC platform - new,New business,Closed won,2024-08-28,228200.0,12,2024-09-01,Sales FR
+D000900,HS561771,SOC platform - renewal,Renewal,Closed won,2025-08-04,310200.0,12,2025-09-01,Sales EU
+D000901,HS561771,SOC platform - renewal,Renewal,Closed won,2026-08-19,421700.0,12,2026-09-01,Partners
+D000902,HS561778,SOC platform - new,New business,Closed won,2024-05-04,872600.0,36,2024-06-01,Sales EU
+D000903,HS561785,SOC platform - new,New business,Closed won,2022-09-08,40400.0,12,2022-10-01,Partners
+D000904,HS561785,SOC platform - renewal,Renewal,Closed won,2023-09-20,41100.0,12,2023-10-01,Partners
+D000905,HS561785,SOC platform - renewal,Renewal,Closed won,2024-09-20,41300.0,12,2024-10-01,Sales EU
+D000906,HS561785,SOC platform - renewal,Renewal,Closed won,2025-09-23,43000.0,12,2025-10-01,Sales FR
+D000907,HS561785,SOC platform - renewal,Renewal,Closed won,2026-09-10,45400.0,12,2026-10-01,Partners
+D000908,HS561792,SOC platform - new,New business,Closed won,2023-01-07,84900.0,12,2023-02-01,Partners
+D000909,HS561792,SOC platform - renewal,Renewal,Closed won,2023-12-25,85600.0,12,2024-02-01,Sales FR
+D000910,HS561792,SOC platform - renewal,Renewal,Closed won,2025-01-22,89000.0,12,2025-02-01,Sales FR
+D000911,HS561792,SOC platform - renewal,Renewal,Closed won,2025-12-28,89700.0,12,2026-02-01,Sales FR
+D000912,HS561799,SOC platform - new,New business,Closed won,2024-06-17,43900.0,12,2024-07-01,Sales FR
+D000913,HS561799,SOC platform - renewal,Renewal,Closed won,2025-06-27,46200.0,12,2025-07-01,Sales EU
+D000914,HS561799,SOAR add-on - upsell,Upsell,Closed won,2026-01-13,5100.0,5,2026-02-01,Partners
+D000915,HS561806,SOC platform - new,New business,Closed won,2024-03-02,10200.0,12,2024-04-01,Sales EU
+D000916,HS561806,SOC platform - renewal,Renewal,Closed won,2025-03-06,10800.0,12,2025-04-01,Sales EU
+D000917,HS561806,SOAR add-on - upsell,Upsell,Closed won,2025-10-25,1500.0,5,2025-11-01,Partners
+D000918,HS561806,SOC platform - renewal,Renewal,Closed won,2026-03-02,12900.0,12,2026-04-01,Sales FR
+D000919,HS561806,AI agents add-on - upsell,Upsell,Closed won,2026-06-02,1500.0,9,2026-07-01,Sales FR
+D000920,HS561813,SOC platform - new,New business,Closed won,2023-01-14,11700.0,12,2023-02-01,Sales FR
+D000921,HS561813,SOC platform - renewal,Renewal,Closed won,2024-01-28,13900.0,12,2024-02-01,Sales EU
+D000922,HS561813,SOC platform - renewal,Renewal,Closed won,2025-01-17,17400.0,12,2025-02-01,Sales EU
+D000923,HS561813,SOAR add-on - upsell,Upsell,Closed won,2025-07-29,2000.0,5,2025-09-01,Partners
+D000924,HS561813,SOC platform - renewal,Renewal,Closed won,2026-01-11,21700.0,12,2026-02-01,Sales FR
+D000925,HS561820,SOC platform - new,New business,Closed won,2023-04-06,35700.0,12,2023-05-01,Partners
+D000926,HS561827,SOC platform - new,New business,Closed won,2023-08-07,60400.0,12,2023-09-01,Sales EU
+D000927,HS561827,SOAR add-on - upsell,Upsell,Closed won,2023-10-28,6300.0,9,2023-12-01,Partners
+D000928,HS561827,SOC platform - renewal,Renewal,Closed won,2024-08-28,68700.0,12,2024-09-01,Sales EU
+D000929,HS561827,SOAR add-on - upsell,Upsell,Closed won,2025-02-18,9600.0,6,2025-03-01,Partners
+D000930,HS561827,SOC platform - renewal,Renewal,Closed won,2025-08-04,81400.0,12,2025-09-01,Sales FR
+D000931,HS561827,SOC platform - renewal,Renewal,Closed won,2026-07-25,86200.0,12,2026-09-01,Sales EU
+D000932,HS561834,SOC platform - new,New business,Closed won,2024-03-26,12300.0,12,2024-05-01,Sales FR
+D000933,HS561834,SOAR add-on - upsell,Upsell,Closed won,2024-12-23,1500.0,4,2025-01-01,Sales FR
+D000934,HS561834,SOC platform - renewal,Renewal,Closed won,2025-04-03,13800.0,12,2025-05-01,Sales FR
+D000935,HS561834,SOC platform - renewal,Renewal,Closed won,2026-04-19,12300.0,12,2026-05-01,Sales FR
+D000936,HS561841,SOC platform - new,New business,Closed won,2022-05-29,32600.0,12,2022-07-01,Partners
+D000937,HS561841,SOC platform - renewal,Renewal,Closed won,2023-06-05,36100.0,12,2023-07-01,Sales FR
+D000938,HS561848,SOC platform - new,New business,Closed won,2024-10-23,17000.0,12,2024-11-01,Sales EU
+D000939,HS561848,SOC platform - renewal,Renewal,Closed won,2025-09-30,20000.0,12,2025-11-01,Sales EU
+D000940,HS561848,SOC platform - renewal,Renewal,Closed won,2026-10-02,21300.0,12,2026-11-01,Sales EU
+D000941,HS561855,SOC platform - new,New business,Closed won,2024-03-05,20400.0,12,2024-04-01,Sales EU
+D000942,HS561855,SOC platform - renewal,Renewal,Closed won,2025-03-28,22700.0,12,2025-04-01,Sales FR
+D000943,HS561855,SOC platform - renewal,Renewal,Closed won,2026-03-25,25100.0,12,2026-04-01,Partners
+D000944,HS561862,SOC platform - new,New business,Closed won,2024-06-24,177100.0,12,2024-08-01,Partners
+D000945,HS561862,SOC platform - renewal,Renewal,Closed won,2025-07-20,181500.0,12,2025-08-01,Partners
+D000946,HS561862,SOC platform - renewal,Renewal,Closed won,2026-07-26,186100.0,12,2026-08-01,Partners
+D000947,HS561869,SOC platform - new,New business,Closed won,2024-08-13,12900.0,12,2024-09-01,Partners
+D000948,HS561869,SOC platform - renewal,Renewal,Closed won,2025-07-28,17900.0,12,2025-09-01,Partners
+D000949,HS561869,SOC platform - renewal,Renewal,Closed won,2026-07-24,25900.0,12,2026-09-01,Sales EU
+D000950,HS561876,SOC platform - new,New business,Closed won,2023-03-07,9000.0,12,2023-04-01,Sales EU
+D000951,HS561876,SOAR add-on - upsell,Upsell,Closed won,2023-06-26,1500.0,8,2023-08-01,Partners
+D000952,HS561876,SOC platform - renewal,Renewal,Closed won,2024-03-18,10500.0,12,2024-04-01,Partners
+D000953,HS561876,SOAR add-on - upsell,Upsell,Closed won,2024-12-06,1400.0,3,2025-01-01,Sales EU
+D000954,HS561876,SOC platform - renewal,Renewal,Closed won,2025-03-07,10500.0,12,2025-04-01,Sales EU
+D000955,HS561876,SOC platform - renewal,Renewal,Closed won,2026-03-18,11100.0,12,2026-04-01,Sales EU
+D000956,HS561883,SOC platform - new,New business,Closed won,2023-03-23,35000.0,12,2023-05-01,Sales EU
+D000957,HS561883,SOC platform - renewal,Renewal,Closed won,2024-04-13,36300.0,12,2024-05-01,Partners
+D000958,HS561883,SOC platform - renewal,Renewal,Closed won,2025-04-06,37700.0,12,2025-05-01,Sales FR
+D000959,HS561883,SOC platform - renewal,Renewal,Closed won,2026-04-25,39100.0,12,2026-05-01,Sales FR
+D000960,HS561890,SOC platform - new,New business,Closed won,2023-03-12,9000.0,12,2023-04-01,Sales FR
+D000961,HS561890,SOC platform - renewal,Renewal,Closed won,2024-02-27,9800.0,12,2024-04-01,Sales FR
+D000962,HS561890,SOC platform - renewal,Renewal,Closed won,2025-02-26,9400.0,12,2025-04-01,Sales EU
+D000963,HS561890,SOC platform - renewal,Renewal,Closed won,2026-02-22,9600.0,12,2026-04-01,Partners
+D000964,HS561897,SOC platform - new,New business,Closed won,2022-12-18,20000.0,12,2023-01-01,Sales FR
+D000965,HS561897,SOC platform - renewal,Renewal,Closed won,2023-11-25,20000.0,12,2024-01-01,Sales FR
+D000966,HS561897,SOC platform - renewal,Renewal,Closed won,2024-12-14,21100.0,12,2025-01-01,Sales FR
+D000967,HS561897,SOC platform - renewal,Renewal,Closed won,2025-12-23,21800.0,12,2026-01-01,Partners
+D000968,HS561904,SOC platform - new,New business,Closed won,2022-08-29,34400.0,12,2022-10-01,Partners
+D000969,HS561904,SOC platform - renewal,Renewal,Closed won,2023-09-16,34400.0,12,2023-10-01,Sales EU
+D000970,HS561904,SOC platform - renewal,Renewal,Closed won,2024-09-24,34500.0,12,2024-10-01,Sales EU
+D000971,HS561904,SOC platform - renewal,Renewal,Closed won,2025-09-08,34500.0,12,2025-10-01,Sales EU
+D000972,HS561904,SOC platform - renewal,Renewal,Closed won,2026-08-31,34600.0,12,2026-10-01,Sales EU
+D000973,HS561911,SOC platform - new,New business,Closed won,2023-11-26,12000.0,12,2023-12-01,Sales EU
+D000974,HS561911,SOC platform - renewal,Renewal,Closed won,2024-11-09,11800.0,12,2024-12-01,Sales FR
+D000975,HS561911,SOAR add-on - upsell,Upsell,Closed won,2025-03-10,1700.0,8,2025-04-01,Sales EU
+D000976,HS561911,SOC platform - renewal,Renewal,Closed won,2025-11-27,13400.0,12,2025-12-01,Sales FR
+D000977,HS561918,SOC platform - new,New business,Closed won,2023-03-11,19300.0,12,2023-04-01,Sales EU
+D000978,HS561918,SOAR add-on - upsell,Upsell,Closed won,2023-09-11,3200.0,6,2023-10-01,Sales EU
+D000979,HS561918,SOC platform - renewal,Renewal,Closed won,2024-03-19,26100.0,12,2024-04-01,Sales FR
+D000980,HS561918,SOAR add-on - upsell,Upsell,Closed won,2024-10-03,2400.0,5,2024-11-01,Sales FR
+D000981,HS561918,SOC platform - renewal,Renewal,Closed won,2025-03-18,26800.0,12,2025-04-01,Sales EU
+D000982,HS561918,SOC platform - renewal,Renewal,Closed won,2026-03-15,27400.0,12,2026-04-01,Sales EU
+D000983,HS561925,SOC platform - new,New business,Closed won,2022-11-14,21800.0,12,2022-12-01,Sales EU
+D000984,HS561925,SOC platform - renewal,Renewal,Closed won,2023-11-28,25400.0,12,2023-12-01,Partners
+D000985,HS561925,SOAR add-on - upsell,Upsell,Closed won,2024-03-12,3900.0,8,2024-04-01,Sales EU
+D000986,HS561925,SOC platform - renewal,Renewal,Closed won,2024-10-24,35100.0,12,2024-12-01,Partners
+D000987,HS561925,SOC platform - renewal,Renewal,Closed won,2025-11-04,34300.0,12,2025-12-01,Sales EU
+D000988,HS561932,SOC platform - new,New business,Closed won,2024-04-12,300200.0,12,2024-05-01,Sales FR
+D000989,HS561932,SOC platform - renewal,Renewal,Closed won,2025-04-26,310900.0,12,2025-05-01,Sales FR
+D000990,HS561932,SOC platform - renewal,Renewal,Closed won,2026-04-07,322100.0,12,2026-05-01,Sales EU
+D000991,HS561932,AI agents add-on - upsell,Upsell,Closed won,2026-07-29,41400.0,9,2026-08-01,Sales FR
+D000992,HS561939,SOC platform - new,New business,Closed won,2022-11-10,37700.0,12,2022-12-01,Sales FR
+D000993,HS561939,SOC platform - renewal,Renewal,Closed won,2023-11-10,42000.0,12,2023-12-01,Sales EU
+D000994,HS561939,SOAR add-on - upsell,Upsell,Closed won,2024-01-22,3300.0,9,2024-03-01,Partners
+D000995,HS561939,SOC platform - renewal,Renewal,Closed won,2024-11-11,45900.0,12,2024-12-01,Sales FR
+D000996,HS561939,SOC platform - renewal,Renewal,Closed won,2025-11-02,45300.0,12,2025-12-01,Partners
+D000997,HS561946,SOC platform - new,New business,Closed won,2023-09-25,12500.0,12,2023-11-01,Partners
+D000998,HS561946,SOC platform - renewal,Renewal,Closed won,2024-10-15,11200.0,12,2024-11-01,Sales EU
+D000999,HS561946,SOAR add-on - upsell,Upsell,Closed won,2025-06-27,1000.0,4,2025-07-01,Sales FR
+D001000,HS561946,SOC platform - renewal,Renewal,Closed won,2025-10-29,15700.0,12,2025-11-01,Sales EU
+D001001,HS561946,SOAR add-on - upsell,Upsell,Closed won,2026-03-03,2700.0,7,2026-04-01,Sales FR
+D001002,HS561946,SOC platform - renewal,Renewal,Closed won,2026-10-14,18600.0,12,2026-11-01,Partners
+D001003,HS561953,SOC platform - new,New business,Closed won,2023-01-30,21200.0,12,2023-03-01,Partners
+D001004,HS561953,SOC platform - renewal,Renewal,Closed won,2024-01-28,27600.0,12,2024-03-01,Sales EU
+D001005,HS561953,SOAR add-on - upsell,Upsell,Closed won,2024-05-27,5000.0,9,2024-06-01,Partners
+D001006,HS561953,SOC platform - renewal,Renewal,Closed won,2025-02-02,37700.0,12,2025-03-01,Partners
+D001007,HS561953,SOC platform - renewal,Renewal,Closed won,2026-02-14,40600.0,12,2026-03-01,Partners
+D001008,HS561960,SOC platform - new,New business,Closed won,2024-04-25,91000.0,12,2024-05-01,Sales EU
+D001009,HS561960,SOC platform - renewal,Renewal,Closed won,2025-04-11,112400.0,12,2025-05-01,Partners
+D001010,HS561960,SOC platform - renewal,Renewal,Closed won,2026-04-28,139000.0,12,2026-05-01,Sales FR
+D001011,HS561967,SOC platform - new,New business,Closed won,2024-08-31,15700.0,12,2024-10-01,Sales EU
+D001012,HS561967,SOC platform - renewal,Renewal,Closed won,2025-09-09,18000.0,12,2025-10-01,Sales EU
+D001013,HS561967,SOC platform - renewal,Renewal,Closed won,2026-09-15,20500.0,12,2026-10-01,Sales EU
+D001014,HS561974,SOC platform - new,New business,Closed won,2023-11-12,84000.0,12,2023-12-01,Sales EU
+D001015,HS561974,SOAR add-on - upsell,Upsell,Closed won,2024-03-03,10200.0,8,2024-04-01,Sales EU
+D001016,HS561974,SOC platform - renewal,Renewal,Closed won,2024-10-30,96500.0,12,2024-12-01,Partners
+D001017,HS561974,SOC platform - renewal,Renewal,Closed won,2025-10-25,98700.0,12,2025-12-01,Sales FR
+D001018,HS561981,SOC platform - new,New business,Closed won,2023-11-27,25500.0,12,2023-12-01,Sales FR
+D001019,HS561981,SOC platform - renewal,Renewal,Closed won,2024-11-24,25700.0,12,2024-12-01,Partners
+D001020,HS561981,SOC platform - renewal,Renewal,Closed won,2025-10-24,27200.0,12,2025-12-01,Partners
+D001021,HS561988,SOC platform - new,New business,Closed won,2024-01-10,34500.0,12,2024-02-01,Sales FR
+D001022,HS561988,SOAR add-on - upsell,Upsell,Closed won,2024-08-14,6900.0,5,2024-09-01,Sales EU
+D001023,HS561988,SOC platform - renewal,Renewal,Closed won,2024-12-26,43200.0,12,2025-02-01,Partners
+D001024,HS561988,SOAR add-on - upsell,Upsell,Closed won,2025-07-18,7400.0,6,2025-08-01,Sales FR
+D001025,HS561988,SOC platform - renewal,Renewal,Closed won,2025-12-24,46300.0,12,2026-02-01,Partners
+D001026,HS561988,AI agents add-on - upsell,Upsell,Closed won,2026-10-17,4600.0,3,2026-11-01,Sales FR
+D001027,HS561995,SOC platform - new,New business,Closed won,2024-11-30,51400.0,12,2025-01-01,Sales EU
+D001028,HS561995,SOC platform - renewal,Renewal,Closed won,2025-11-24,44700.0,12,2026-01-01,Partners
+D001029,HS562002,SOC platform - new,New business,Closed won,2024-12-01,47700.0,12,2025-01-01,Sales FR
+D001030,HS562002,SOC platform - renewal,Renewal,Closed won,2025-12-04,49100.0,12,2026-01-01,Sales FR
+D001031,HS562009,SOC platform - new,New business,Closed won,2024-12-16,9600.0,12,2025-01-01,Sales FR
+D001032,HS562009,SOAR add-on - upsell,Upsell,Closed won,2025-08-14,1500.0,4,2025-09-01,Partners
+D001033,HS562009,SOC platform - renewal,Renewal,Closed won,2025-12-05,13200.0,12,2026-01-01,Sales EU
+D001034,HS562016,SOC platform - new,New business,Closed won,2024-12-12,97300.0,12,2025-01-01,Partners
+D001035,HS562016,SOC platform - renewal,Renewal,Closed won,2025-12-15,93600.0,12,2026-01-01,Sales EU
+D001036,HS562023,SOC platform - new,New business,Closed won,2024-12-21,63500.0,12,2025-01-01,Partners
+D001037,HS562023,SOC platform - renewal,Renewal,Closed won,2025-12-26,63500.0,12,2026-01-01,Partners
+D001038,HS562030,SOC platform - new,New business,Closed won,2024-12-25,19200.0,12,2025-02-01,Sales EU
+D001039,HS562030,SOC platform - renewal,Renewal,Closed won,2025-12-27,19200.0,12,2026-02-01,Partners
+D001040,HS562037,SOC platform - new,New business,Closed won,2025-01-06,169800.0,24,2025-02-01,Sales FR
+D001041,HS562037,SOAR add-on - upsell,Upsell,Closed won,2025-04-27,16200.0,21,2025-05-01,Partners
+D001042,HS562044,SOC platform - new,New business,Closed won,2025-01-19,281800.0,12,2025-02-01,Sales EU
+D001043,HS562044,SOC platform - renewal,Renewal,Closed won,2026-01-04,343000.0,12,2026-02-01,Sales EU
+D001044,HS562051,SOC platform - new,New business,Closed won,2024-12-26,145000.0,12,2025-02-01,Partners
+D001045,HS562051,SOC platform - renewal,Renewal,Closed won,2025-12-25,171900.0,12,2026-02-01,Partners
+D001046,HS562058,SOC platform - new,New business,Closed won,2025-01-17,13200.0,12,2025-02-01,Partners
+D001047,HS562058,SOC platform - renewal,Renewal,Closed won,2026-01-17,13200.0,12,2026-02-01,Sales FR
+D001048,HS562065,SOC platform - new,New business,Closed won,2025-01-01,145500.0,12,2025-02-01,Sales FR
+D001049,HS562065,SOC platform - renewal,Renewal,Closed won,2026-01-23,138500.0,12,2026-02-01,Sales FR
+D001050,HS562072,SOC platform - new,New business,Closed won,2025-01-28,35300.0,12,2025-02-01,Sales FR
+D001051,HS562072,SOC platform - renewal,Renewal,Closed won,2026-01-24,40100.0,12,2026-02-01,Partners
+D001052,HS562079,SOC platform - new,New business,Closed won,2024-12-29,29300.0,12,2025-02-01,Partners
+D001053,HS562079,SOC platform - renewal,Renewal,Closed won,2025-12-30,38600.0,12,2026-02-01,Partners
+D001054,HS562086,SOC platform - new,New business,Closed won,2025-01-08,9000.0,12,2025-02-01,Sales FR
+D001055,HS562093,SOC platform - new,New business,Closed won,2025-01-16,34300.0,12,2025-02-01,Partners
+D001056,HS562093,SOAR add-on - upsell,Upsell,Closed won,2025-03-25,5600.0,9,2025-05-01,Partners
+D001057,HS562093,SOC platform - renewal,Renewal,Closed won,2026-01-20,35600.0,12,2026-02-01,Sales FR
+D001058,HS562100,SOC platform - new,New business,Closed won,2024-12-25,12300.0,12,2025-02-01,Sales FR
+D001059,HS562100,SOAR add-on - upsell,Upsell,Closed won,2025-07-30,1900.0,5,2025-09-01,Partners
+D001060,HS562100,SOC platform - renewal,Renewal,Closed won,2026-01-24,13800.0,12,2026-02-01,Sales FR
+D001061,HS562107,SOC platform - new,New business,Closed won,2025-01-29,10500.0,12,2025-02-01,Partners
+D001062,HS562107,SOC platform - renewal,Renewal,Closed won,2026-01-26,12900.0,12,2026-02-01,Sales EU
+D001063,HS562114,SOC platform - new,New business,Closed won,2025-01-07,9000.0,12,2025-02-01,Sales FR
+D001064,HS562114,SOC platform - renewal,Renewal,Closed won,2025-12-30,9000.0,12,2026-02-01,Sales EU
+D001065,HS562121,SOC platform - new,New business,Closed won,2025-01-15,40000.0,24,2025-02-01,Sales FR
+D001066,HS562128,SOC platform - new,New business,Closed won,2025-01-06,30100.0,12,2025-02-01,Sales EU
+D001067,HS562128,SOC platform - renewal,Renewal,Closed won,2026-01-27,29500.0,12,2026-02-01,Sales FR
+D001068,HS562135,SOC platform - new,New business,Closed won,2025-01-18,38700.0,12,2025-02-01,Sales FR
+D001069,HS562135,SOAR add-on - upsell,Upsell,Closed won,2025-06-26,3300.0,6,2025-08-01,Partners
+D001070,HS562135,SOC platform - renewal,Renewal,Closed won,2026-01-02,47000.0,12,2026-02-01,Partners
+D001071,HS562142,SOC platform - new,New business,Closed won,2025-02-12,27500.0,12,2025-03-01,Sales FR
+D001072,HS562142,SOC platform - renewal,Renewal,Closed won,2026-02-17,36600.0,12,2026-03-01,Partners
+D001073,HS562149,SOC platform - new,New business,Closed won,2025-02-18,10100.0,12,2025-03-01,Partners
+D001074,HS562149,SOC platform - renewal,Renewal,Closed won,2026-02-26,10100.0,12,2026-03-01,Sales EU
+D001075,HS562149,AI agents add-on - upsell,Upsell,Closed won,2026-06-19,1500.0,8,2026-07-01,Sales FR
+D001076,HS562156,SOC platform - new,New business,Closed won,2025-02-05,9800.0,12,2025-03-01,Partners
+D001077,HS562163,SOC platform - new,New business,Closed won,2025-02-05,12100.0,12,2025-03-01,Sales FR
+D001078,HS562163,SOC platform - renewal,Renewal,Closed won,2026-02-11,16100.0,12,2026-03-01,Sales FR
+D001079,HS562170,SOC platform - new,New business,Closed won,2025-01-31,9000.0,12,2025-03-01,Sales FR
+D001080,HS562170,SOAR add-on - upsell,Upsell,Closed won,2025-05-19,1300.0,9,2025-06-01,Sales FR
+D001081,HS562170,SOC platform - renewal,Renewal,Closed won,2026-01-30,12000.0,12,2026-03-01,Sales EU
+D001082,HS562177,SOC platform - new,New business,Closed won,2025-03-06,24100.0,12,2025-04-01,Sales EU
+D001083,HS562177,SOC platform - renewal,Renewal,Closed won,2026-03-17,27900.0,12,2026-04-01,Sales EU
+D001084,HS562177,SOAR add-on - upsell,Upsell,Closed won,2026-09-08,5300.0,6,2026-10-01,Sales FR
+D001085,HS562184,SOC platform - new,New business,Closed won,2025-03-28,76500.0,12,2025-04-01,Sales EU
+D001086,HS562184,SOC platform - renewal,Renewal,Closed won,2026-03-18,76100.0,12,2026-04-01,Sales FR
+D001087,HS562191,SOC platform - new,New business,Closed won,2025-03-04,301700.0,12,2025-04-01,Sales EU
+D001088,HS562191,SOC platform - renewal,Renewal,Closed won,2026-03-10,313900.0,12,2026-04-01,Sales EU
+D001089,HS562198,SOC platform - new,New business,Closed won,2025-03-12,20000.0,12,2025-04-01,Sales EU
+D001090,HS562198,SOC platform - renewal,Renewal,Closed won,2026-03-27,24000.0,12,2026-04-01,Sales EU
+D001091,HS562205,SOC platform - new,New business,Closed won,2025-03-28,9000.0,12,2025-04-01,Sales FR
+D001092,HS562205,SOC platform - renewal,Renewal,Closed won,2026-03-03,10600.0,12,2026-04-01,Partners
+D001093,HS562212,SOC platform - new,New business,Closed won,2025-03-20,51800.0,12,2025-04-01,Partners
+D001094,HS562212,AI agents add-on - upsell,Upsell,Closed won,2025-11-02,7000.0,4,2025-12-01,Partners
+D001095,HS562212,SOC platform - renewal,Renewal,Closed won,2026-03-27,59200.0,12,2026-04-01,Partners
+D001096,HS562219,SOC platform - new,New business,Closed won,2025-03-22,72800.0,12,2025-04-01,Sales EU
+D001097,HS562219,SOAR add-on - upsell,Upsell,Closed won,2025-06-25,8100.0,9,2025-07-01,Sales EU
+D001098,HS562219,SOC platform - renewal,Renewal,Closed won,2026-03-12,89800.0,12,2026-04-01,Sales EU
+D001099,HS562226,SOC platform - new,New business,Closed won,2025-02-22,12800.0,12,2025-04-01,Sales FR
+D001100,HS562226,SOC platform - renewal,Renewal,Closed won,2026-03-02,12900.0,12,2026-04-01,Partners
+D001101,HS562233,SOC platform - new,New business,Closed won,2025-04-04,40400.0,12,2025-05-01,Partners
+D001102,HS562233,SOC platform - renewal,Renewal,Closed won,2026-04-20,47700.0,12,2026-05-01,Partners
+D001103,HS562240,SOC platform - new,New business,Closed won,2025-04-25,9000.0,12,2025-05-01,Partners
+D001104,HS562240,SOC platform - renewal,Renewal,Closed won,2026-03-30,9700.0,12,2026-05-01,Partners
+D001105,HS562247,SOC platform - new,New business,Closed won,2025-04-09,9000.0,12,2025-05-01,Partners
+D001106,HS562247,SOC platform - renewal,Renewal,Closed won,2026-04-15,9200.0,12,2026-05-01,Sales EU
+D001107,HS562254,SOC platform - new,New business,Closed won,2025-04-02,36000.0,12,2025-05-01,Sales FR
+D001108,HS562254,SOC platform - renewal,Renewal,Closed won,2026-04-09,37800.0,12,2026-05-01,Partners
+D001109,HS562261,SOC platform - new,New business,Closed won,2025-04-28,9000.0,12,2025-05-01,Partners
+D001110,HS562261,SOC platform - renewal,Renewal,Closed won,2026-04-02,9000.0,12,2026-05-01,Partners
+D001111,HS562268,SOC platform - new,New business,Closed won,2025-04-22,132400.0,12,2025-05-01,Sales FR
+D001112,HS562268,SOC platform - renewal,Renewal,Closed won,2026-03-24,143700.0,12,2026-05-01,Partners
+D001113,HS562275,SOC platform - new,New business,Closed won,2025-03-24,9000.0,12,2025-05-01,Sales FR
+D001114,HS562275,SOC platform - renewal,Renewal,Closed won,2026-03-30,9500.0,12,2026-05-01,Partners
+D001115,HS562282,SOC platform - new,New business,Closed won,2025-04-05,59900.0,12,2025-05-01,Sales FR
+D001116,HS562282,SOC platform - renewal,Renewal,Closed won,2026-03-26,64800.0,12,2026-05-01,Partners
+D001117,HS562289,SOC platform - new,New business,Closed won,2025-04-24,24600.0,12,2025-05-01,Sales FR
+D001118,HS562289,SOC platform - renewal,Renewal,Closed won,2026-04-19,31700.0,12,2026-05-01,Partners
+D001119,HS562296,SOC platform - new,New business,Closed won,2025-04-20,37100.0,12,2025-05-01,Partners
+D001120,HS562296,SOAR add-on - upsell,Upsell,Closed won,2025-07-10,6500.0,9,2025-08-01,Sales FR
+D001121,HS562296,SOC platform - renewal,Renewal,Closed won,2026-03-24,54100.0,12,2026-05-01,Partners
+D001122,HS562296,AI agents add-on - upsell,Upsell,Closed won,2026-09-21,8400.0,7,2026-10-01,Sales FR
+D001123,HS562303,SOC platform - new,New business,Closed won,2025-03-30,9000.0,12,2025-05-01,Partners
+D001124,HS562303,SOC platform - renewal,Renewal,Closed won,2026-04-11,9200.0,12,2026-05-01,Sales FR
+D001125,HS562310,SOC platform - new,New business,Closed won,2025-04-26,46800.0,12,2025-06-01,Sales FR
+D001126,HS562310,SOC platform - renewal,Renewal,Closed won,2026-05-03,50200.0,12,2026-06-01,Sales EU
+D001127,HS562317,SOC platform - new,New business,Closed won,2025-04-23,14400.0,12,2025-06-01,Sales EU
+D001128,HS562317,SOC platform - renewal,Renewal,Closed won,2026-05-14,21700.0,12,2026-06-01,Sales FR
+D001129,HS562324,SOC platform - new,New business,Closed won,2025-04-26,13900.0,12,2025-06-01,Sales EU
+D001130,HS562324,SOC platform - renewal,Renewal,Closed won,2026-05-01,17200.0,12,2026-06-01,Partners
+D001131,HS562331,SOC platform - new,New business,Closed won,2025-05-11,10100.0,12,2025-06-01,Partners
+D001132,HS562331,SOC platform - renewal,Renewal,Closed won,2026-05-07,10100.0,12,2026-06-01,Partners
+D001133,HS562338,SOC platform - new,New business,Closed won,2025-05-17,78000.0,12,2025-06-01,Sales EU
+D001134,HS562338,SOC platform - renewal,Renewal,Closed won,2026-05-23,82100.0,12,2026-06-01,Sales FR
+D001135,HS562345,SOC platform - new,New business,Closed won,2025-05-19,10900.0,12,2025-06-01,Sales EU
+D001136,HS562345,SOC platform - renewal,Renewal,Closed won,2026-05-28,11600.0,12,2026-06-01,Sales FR
+D001137,HS562352,SOC platform - new,New business,Closed won,2025-06-12,533000.0,24,2025-07-01,Sales FR
+D001138,HS562352,AI agents add-on - upsell,Upsell,Closed won,2026-01-05,31000.0,17,2026-02-01,Sales FR
+D001139,HS562359,SOC platform - new,New business,Closed won,2025-06-26,9000.0,12,2025-07-01,Sales FR
+D001140,HS562359,AI agents add-on - upsell,Upsell,Closed won,2025-11-25,900.0,7,2025-12-01,Partners
+D001141,HS562359,SOC platform - renewal,Renewal,Closed won,2026-06-21,9900.0,12,2026-07-01,Sales EU
+D001142,HS562366,SOC platform - new,New business,Closed won,2025-06-03,11800.0,12,2025-07-01,Sales FR
+D001143,HS562366,SOC platform - renewal,Renewal,Closed won,2026-06-01,11800.0,12,2026-07-01,Sales EU
+D001144,HS562373,SOC platform - new,New business,Closed won,2025-06-17,168400.0,12,2025-07-01,Sales FR
+D001145,HS562373,AI agents add-on - upsell,Upsell,Closed won,2026-01-06,31800.0,5,2026-02-01,Sales EU
+D001146,HS562373,SOC platform - renewal,Renewal,Closed won,2026-06-19,201700.0,12,2026-07-01,Sales FR
+D001147,HS562380,SOC platform - new,New business,Closed won,2025-06-22,52200.0,12,2025-07-01,Sales EU
+D001148,HS562380,SOC platform - renewal,Renewal,Closed won,2026-05-24,59100.0,12,2026-07-01,Sales FR
+D001149,HS562387,SOC platform - new,New business,Closed won,2025-06-14,43000.0,12,2025-07-01,Sales EU
+D001150,HS562387,SOC platform - renewal,Renewal,Closed won,2026-06-14,41600.0,12,2026-07-01,Partners
+D001151,HS562394,SOC platform - new,New business,Closed won,2025-07-04,13600.0,12,2025-08-01,Sales FR
+D001152,HS562394,AI agents add-on - upsell,Upsell,Closed won,2025-12-18,1600.0,7,2026-01-01,Sales EU
+D001153,HS562394,SOC platform - renewal,Renewal,Closed won,2026-07-07,18700.0,12,2026-08-01,Partners
+D001154,HS562401,SOC platform - new,New business,Closed won,2025-07-24,22900.0,12,2025-08-01,Sales EU
+D001155,HS562401,SOC platform - renewal,Renewal,Closed won,2026-06-27,22400.0,12,2026-08-01,Sales EU
+D001156,HS562408,SOC platform - new,New business,Closed won,2025-06-28,43100.0,12,2025-08-01,Partners
+D001157,HS562408,SOC platform - renewal,Renewal,Closed won,2026-06-30,54300.0,12,2026-08-01,Sales FR
+D001158,HS562415,SOC platform - new,New business,Closed won,2025-07-29,17600.0,12,2025-08-01,Sales FR
+D001159,HS562415,SOC platform - renewal,Renewal,Closed won,2026-07-22,21000.0,12,2026-08-01,Partners
+D001160,HS562422,SOC platform - new,New business,Closed won,2025-06-25,86400.0,12,2025-08-01,Sales EU
+D001161,HS562422,SOC platform - renewal,Renewal,Closed won,2026-07-19,91500.0,12,2026-08-01,Sales EU
+D001162,HS562429,SOC platform - new,New business,Closed won,2025-07-28,244600.0,24,2025-08-01,Sales FR
+D001163,HS562429,AI agents add-on - upsell,Upsell,Closed won,2025-10-07,14700.0,21,2025-11-01,Partners
+D001164,HS562436,SOC platform - new,New business,Closed won,2025-06-27,56600.0,12,2025-08-01,Partners
+D001165,HS562443,SOC platform - new,New business,Closed won,2025-08-15,20900.0,12,2025-09-01,Sales EU
+D001166,HS562443,SOC platform - renewal,Renewal,Closed won,2026-08-29,24000.0,12,2026-09-01,Partners
+D001167,HS562450,SOC platform - new,New business,Closed won,2025-08-17,17600.0,12,2025-09-01,Sales EU
+D001168,HS562457,SOC platform - new,New business,Closed won,2025-08-14,9000.0,12,2025-09-01,Sales FR
+D001169,HS562457,SOC platform - renewal,Renewal,Closed won,2026-07-28,9000.0,12,2026-09-01,Sales FR
+D001170,HS562464,SOC platform - new,New business,Closed won,2025-08-23,11000.0,12,2025-09-01,Partners
+D001171,HS562464,SOC platform - renewal,Renewal,Closed won,2026-08-09,12400.0,12,2026-09-01,Partners
+D001172,HS562471,SOC platform - new,New business,Closed won,2025-08-22,118600.0,12,2025-09-01,Partners
+D001173,HS562471,SOC platform - renewal,Renewal,Closed won,2026-08-03,128500.0,12,2026-09-01,Partners
+D001174,HS562478,SOC platform - new,New business,Closed won,2025-08-26,20500.0,12,2025-09-01,Sales EU
+D001175,HS562478,SOC platform - renewal,Renewal,Closed won,2026-08-20,21100.0,12,2026-09-01,Partners
+D001176,HS562485,SOC platform - new,New business,Closed won,2025-09-20,9500.0,12,2025-10-01,Partners
+D001177,HS562485,SOC platform - renewal,Renewal,Closed won,2026-09-15,9600.0,12,2026-10-01,Sales EU
+D001178,HS562492,SOC platform - new,New business,Closed won,2025-09-12,15500.0,12,2025-10-01,Sales EU
+D001179,HS562492,SOC platform - renewal,Renewal,Closed won,2026-09-19,16200.0,12,2026-10-01,Sales FR
+D001180,HS562499,SOC platform - new,New business,Closed won,2025-08-26,125400.0,12,2025-10-01,Sales EU
+D001181,HS562499,SOC platform - renewal,Renewal,Closed won,2026-09-22,152500.0,12,2026-10-01,Sales EU
+D001182,HS562506,SOC platform - new,New business,Closed won,2025-09-05,747600.0,36,2025-10-01,Sales EU
+D001183,HS562513,SOC platform - new,New business,Closed won,2025-10-26,21000.0,12,2025-11-01,Sales EU
+D001184,HS562513,SOAR add-on - upsell,Upsell,Closed won,2026-02-04,3600.0,8,2026-03-01,Sales EU
+D001185,HS562513,SOC platform - renewal,Renewal,Closed won,2026-10-20,23600.0,12,2026-11-01,Partners
+D001186,HS562520,SOC platform - new,New business,Closed won,2025-09-30,27300.0,12,2025-11-01,Sales EU
+D001187,HS562520,SOC platform - renewal,Renewal,Closed won,2026-10-14,28700.0,12,2026-11-01,Sales FR
+D001188,HS562527,SOC platform - new,New business,Closed won,2025-09-26,12300.0,12,2025-11-01,Sales FR
+D001189,HS562527,SOC platform - renewal,Renewal,Closed won,2026-10-04,13500.0,12,2026-11-01,Sales FR
+D001190,HS562534,SOC platform - new,New business,Closed won,2025-10-19,118500.0,12,2025-11-01,Sales EU
+D001191,HS562534,SOC platform - renewal,Renewal,Closed won,2026-09-25,127300.0,12,2026-11-01,Sales EU
+D001192,HS562541,SOC platform - new,New business,Closed won,2025-10-12,16000.0,12,2025-11-01,Partners
+D001193,HS562541,SOC platform - renewal,Renewal,Closed won,2026-10-28,15700.0,12,2026-11-01,Sales EU
+D001194,HS562548,SOC platform - new,New business,Closed won,2025-10-07,175800.0,24,2025-11-01,Partners
+D001195,HS562548,SOAR add-on - upsell,Upsell,Closed won,2026-03-24,12900.0,18,2026-05-01,Sales FR
+D001196,HS562555,SOC platform - new,New business,Closed won,2025-10-19,487500.0,12,2025-11-01,Partners
+D001197,HS562555,SOC platform - renewal,Renewal,Closed won,2026-09-23,565600.0,12,2026-11-01,Sales EU
+D001198,HS562562,SOC platform - new,New business,Closed won,2025-10-12,18100.0,12,2025-11-01,Sales FR
+D001199,HS562562,SOC platform - renewal,Renewal,Closed won,2026-10-09,19300.0,12,2026-11-01,Partners
+D001200,HS562569,SOC platform - new,New business,Closed won,2025-11-22,27000.0,12,2025-12-01,Sales EU
+D001201,HS562569,SOAR add-on - upsell,Upsell,Closed won,2026-07-20,2500.0,4,2026-08-01,Sales EU
+D001202,HS562576,SOC platform - new,New business,Closed won,2025-11-17,43700.0,12,2025-12-01,Partners
+D001203,HS562583,SOC platform - new,New business,Closed won,2025-11-07,36300.0,12,2025-12-01,Sales EU
+D001204,HS562590,SOC platform - new,New business,Closed won,2025-10-24,46200.0,12,2025-12-01,Partners
+D001205,HS562597,SOC platform - new,New business,Closed won,2025-11-05,63000.0,12,2025-12-01,Partners
+D001206,HS562604,SOC platform - new,New business,Closed won,2025-12-02,9000.0,12,2026-01-01,Sales EU
+D001207,HS562604,AI agents add-on - upsell,Upsell,Closed won,2026-09-21,1700.0,3,2026-10-01,Sales EU
+D001208,HS562611,SOC platform - new,New business,Closed won,2025-12-03,11700.0,12,2026-01-01,Partners
+D001209,HS562618,SOC platform - new,New business,Closed won,2025-12-05,28700.0,12,2026-01-01,Sales EU
+D001210,HS562625,SOC platform - new,New business,Closed won,2025-12-06,9000.0,12,2026-01-01,Partners
+D001211,HS562632,SOC platform - new,New business,Closed won,2026-01-21,297800.0,12,2026-02-01,Sales EU
+D001212,HS562639,SOC platform - new,New business,Closed won,2026-01-10,26200.0,12,2026-02-01,Sales EU
+D001213,HS562646,SOC platform - new,New business,Closed won,2026-01-13,14800.0,12,2026-02-01,Sales FR
+D001214,HS562653,SOC platform - new,New business,Closed won,2025-12-24,26400.0,12,2026-02-01,Sales EU
+D001215,HS562660,SOC platform - new,New business,Closed won,2026-01-21,42300.0,12,2026-02-01,Partners
+D001216,HS562660,SOAR add-on - upsell,Upsell,Closed won,2026-05-24,5100.0,8,2026-06-01,Sales EU
+D001217,HS562667,SOC platform - new,New business,Closed won,2026-01-23,9000.0,12,2026-02-01,Sales FR
+D001218,HS562674,SOC platform - new,New business,Closed won,2025-12-24,12000.0,12,2026-02-01,Sales EU
+D001219,HS562674,SOAR add-on - upsell,Upsell,Closed won,2026-09-28,1300.0,3,2026-11-01,Sales FR
+D001220,HS562681,SOC platform - new,New business,Closed won,2026-01-25,9000.0,12,2026-02-01,Sales FR
+D001221,HS562681,AI agents add-on - upsell,Upsell,Closed won,2026-06-08,1300.0,7,2026-07-01,Sales EU
+D001222,HS562688,SOC platform - new,New business,Closed won,2025-12-28,12000.0,12,2026-02-01,Sales EU
+D001223,HS562695,SOC platform - new,New business,Closed won,2026-02-17,12500.0,12,2026-03-01,Sales EU
+D001224,HS562695,AI agents add-on - upsell,Upsell,Closed won,2026-09-09,2000.0,5,2026-10-01,Sales EU
+D001225,HS562702,SOC platform - new,New business,Closed won,2026-02-12,79100.0,12,2026-03-01,Partners
+D001226,HS562709,SOC platform - new,New business,Closed won,2026-02-20,29400.0,12,2026-03-01,Partners
+D001227,HS562716,SOC platform - new,New business,Closed won,2026-03-12,351200.0,36,2026-04-01,Sales FR
+D001228,HS562723,SOC platform - new,New business,Closed won,2026-03-23,9000.0,12,2026-04-01,Partners
+D001229,HS562730,SOC platform - new,New business,Closed won,2026-03-07,15200.0,12,2026-04-01,Sales EU
+D001230,HS562737,SOC platform - new,New business,Closed won,2026-02-27,123600.0,12,2026-04-01,Sales FR
+D001231,HS562744,SOC platform - new,New business,Closed won,2026-03-27,60000.0,12,2026-04-01,Partners
+D001232,HS562751,SOC platform - new,New business,Closed won,2026-02-22,12300.0,12,2026-04-01,Sales EU
+D001233,HS562758,SOC platform - new,New business,Closed won,2026-02-22,89800.0,12,2026-04-01,Sales EU
+D001234,HS562765,SOC platform - new,New business,Closed won,2026-03-05,48800.0,24,2026-04-01,Partners
+D001235,HS562765,AI agents add-on - upsell,Upsell,Closed won,2026-07-30,4400.0,19,2026-09-01,Sales EU
+D001236,HS562772,SOC platform - new,New business,Closed won,2026-02-21,9500.0,12,2026-04-01,Sales FR
+D001237,HS562779,SOC platform - new,New business,Closed won,2026-04-26,22400.0,12,2026-05-01,Sales FR
+D001238,HS562786,SOC platform - new,New business,Closed won,2026-04-18,18200.0,12,2026-05-01,Sales FR
+D001239,HS562793,SOC platform - new,New business,Closed won,2026-04-23,11300.0,12,2026-05-01,Sales EU
+D001240,HS562800,SOC platform - new,New business,Closed won,2026-04-03,21000.0,12,2026-05-01,Sales EU
+D001241,HS562807,SOC platform - new,New business,Closed won,2026-03-23,398900.0,12,2026-05-01,Sales EU
+D001242,HS562814,SOC platform - new,New business,Closed won,2026-04-17,111900.0,12,2026-05-01,Partners
+D001243,HS562814,AI agents add-on - upsell,Upsell,Closed won,2026-07-03,13600.0,9,2026-08-01,Partners
+D001244,HS562821,SOC platform - new,New business,Closed won,2026-04-11,10100.0,12,2026-05-01,Sales FR
+D001245,HS562828,SOC platform - new,New business,Closed won,2026-04-27,22400.0,12,2026-05-01,Sales EU
+D001246,HS562835,SOC platform - new,New business,Closed won,2026-05-17,20000.0,12,2026-06-01,Sales EU
+D001247,HS562842,SOC platform - new,New business,Closed won,2026-05-20,20000.0,12,2026-06-01,Sales EU
+D001248,HS562849,SOC platform - new,New business,Closed won,2026-05-14,10600.0,12,2026-06-01,Partners
+D001249,HS562856,SOC platform - new,New business,Closed won,2026-05-24,20000.0,12,2026-06-01,Sales FR
+D001250,HS562863,SOC platform - new,New business,Closed won,2026-05-21,20000.0,12,2026-06-01,Partners
+D001251,HS562870,SOC platform - new,New business,Closed won,2026-06-21,31600.0,12,2026-07-01,Partners
+D001252,HS562877,SOC platform - new,New business,Closed won,2026-06-12,12500.0,12,2026-07-01,Sales EU
+D001253,HS562884,SOC platform - new,New business,Closed won,2026-05-27,103800.0,12,2026-07-01,Sales FR
+D001254,HS562891,SOC platform - new,New business,Closed won,2026-06-09,9000.0,12,2026-07-01,Partners
+D001255,HS562898,SOC platform - new,New business,Closed won,2026-05-24,9000.0,12,2026-07-01,Partners
+D001256,HS562905,SOC platform - new,New business,Closed won,2026-06-02,201900.0,36,2026-07-01,Sales EU
+D001257,HS562912,SOC platform - new,New business,Closed won,2026-06-26,9000.0,12,2026-08-01,Sales EU
+D001258,HS562919,SOC platform - new,New business,Closed won,2026-07-26,16000.0,12,2026-08-01,Sales EU
+D001259,HS562926,SOC platform - new,New business,Closed won,2026-07-03,20000.0,12,2026-08-01,Sales FR
+D001260,HS562933,SOC platform - new,New business,Closed won,2026-07-14,57300.0,12,2026-08-01,Partners
+D001261,HS562940,SOC platform - new,New business,Closed won,2026-06-30,23900.0,12,2026-08-01,Sales FR
+D001262,HS562947,SOC platform - new,New business,Closed won,2026-08-22,9700.0,12,2026-09-01,Sales FR
+D001263,HS562954,SOC platform - new,New business,Closed won,2026-08-24,11400.0,12,2026-09-01,Sales FR
+D001264,HS562961,SOC platform - new,New business,Closed won,2026-08-08,11500.0,12,2026-09-01,Sales FR
+D001265,HS562968,SOC platform - new,New business,Closed won,2026-08-24,28900.0,12,2026-09-01,Sales FR
+D001266,HS562975,SOC platform - new,New business,Closed won,2026-08-20,121700.0,12,2026-09-01,Sales FR
+D001267,HS562982,SOC platform - new,New business,Closed won,2026-07-26,23700.0,12,2026-09-01,Partners
+D001268,HS562989,SOC platform - new,New business,Closed won,2026-09-01,20000.0,12,2026-10-01,Partners
+D001269,HS562996,SOC platform - new,New business,Closed won,2026-09-24,9000.0,12,2026-10-01,Sales FR
+D001270,HS563003,SOC platform - new,New business,Closed won,2026-09-10,69300.0,12,2026-10-01,Sales FR
+D001271,HS563010,SOC platform - new,New business,Closed won,2026-09-09,9400.0,12,2026-10-01,Sales FR
+D001272,HS563017,SOC platform - new,New business,Closed won,2026-09-17,69300.0,24,2026-10-01,Sales EU
+D001273,HS563024,SOC platform - new,New business,Closed won,2026-10-07,9400.0,12,2026-11-01,Sales FR
+D001274,HS563031,SOC platform - new,New business,Closed won,2026-10-13,38300.0,12,2026-11-01,Sales EU
+D001275,HS563038,SOC platform - new,New business,Closed won,2026-09-23,19000.0,12,2026-11-01,Sales FR
+D001276,HS563045,SOC platform - new,New business,Closed won,2026-10-29,9000.0,12,2026-11-01,Sales EU
+D001277,HS563052,SOC platform - new,New business,Closed won,2026-10-19,10100.0,12,2026-11-01,Sales EU
+D001278,HS563059,SOC platform - new,New business,Closed won,2026-10-03,13800.0,12,2026-11-01,Sales EU
+D001279,HS563066,SOC platform - new,New business,Closed won,2026-10-01,199000.0,12,2026-11-01,Sales FR
+D001280,HS563073,SOC platform - new,New business,Closed won,2026-10-10,82000.0,12,2026-11-01,Sales EU
+D001281,HS563080,SOC platform - new,New business,Closed won,2026-10-22,161500.0,12,2026-11-01,Sales EU
+D001282,HS563087,SOC platform - new,New business,Closed won,2026-09-27,99000.0,24,2026-11-01,Partners
+D001283,HS563094,SOC platform - new,New business,Closed won,2026-10-18,24500.0,12,2026-11-01,Partners
+D900000,HS562009,SOAR add-on - upsell,Upsell,Closed won,2026-10-20,24000.0,12,2026-11-01,Sales FR
+D900001,HS560084,SOAR add-on - upsell,Upsell,Closed won,2026-10-20,24000.0,12,2026-11-01,Sales FR
+D900002,HS560791,SOAR add-on - upsell,Upsell,Closed won,2026-10-20,24000.0,12,2026-11-01,Sales FR
+D900003,HS561561,SOAR add-on - upsell,Upsell,Closed won,2026-10-20,24000.0,12,2026-11-01,Sales FR
+D800000,HS562982,SOC platform - expansion,Upsell,Proposal,2027-02-19,41300.0,12,,Sales EU
+D800001,HS560903,SOC platform - expansion,Upsell,Proposal,2026-12-03,38300.0,12,,Sales EU
+D800002,HS561008,SOC platform - expansion,Upsell,Qualified,2027-01-02,81100.0,12,,Sales EU
+D800003,HS560490,SOC platform - expansion,Upsell,Proposal,2027-03-27,61000.0,12,,Sales EU
+D800004,HS562499,SOC platform - expansion,Upsell,Proposal,2026-12-16,21500.0,12,,Sales EU
+D800005,HS560385,SOC platform - expansion,Upsell,Negotiation,2027-01-21,12100.0,12,,Sales EU
+D800006,HS562730,SOC platform - expansion,Upsell,Qualified,2026-12-02,89900.0,12,,Sales EU
+D800007,HS562576,SOC platform - expansion,Upsell,Proposal,2027-01-01,78500.0,12,,Sales EU
+D800008,HS562247,SOC platform - expansion,Upsell,Qualified,2026-12-07,45700.0,12,,Sales EU
+D800009,HS561526,SOC platform - expansion,Upsell,Qualified,2027-02-07,24500.0,12,,Sales EU
+D800010,HS562723,SOC platform - expansion,Upsell,Proposal,2027-02-12,61400.0,12,,Sales EU
+D800011,HS561043,SOC platform - expansion,Upsell,Proposal,2027-02-12,77200.0,12,,Sales EU
+D800012,HS562884,SOC platform - expansion,Upsell,Proposal,2026-12-05,47500.0,12,,Sales EU
+D800013,HS562310,SOC platform - expansion,Upsell,Negotiation,2027-03-19,13900.0,12,,Sales EU
+D800014,HS561890,SOC platform - expansion,Upsell,Negotiation,2026-12-29,42200.0,12,,Sales EU
+D800015,HS560007,SOC platform - expansion,Upsell,Qualified,2027-01-08,52800.0,12,,Sales EU
+D800016,HS561078,SOC platform - expansion,Upsell,Proposal,2027-01-09,81500.0,12,,Sales EU
+D800017,HS561253,SOC platform - expansion,Upsell,Proposal,2027-03-24,75000.0,12,,Sales EU
+D800018,HS561645,SOC platform - expansion,Upsell,Qualified,2026-12-16,48200.0,12,,Sales EU
+D800019,HS561974,SOC platform - expansion,Upsell,Proposal,2026-12-06,32900.0,12,,Sales EU
+D800020,HS562520,SOC platform - expansion,Upsell,Qualified,2026-12-02,70600.0,12,,Sales EU
+D800021,HS560175,SOC platform - expansion,Upsell,Proposal,2026-12-17,20600.0,12,,Sales EU
+D800022,HS560532,SOC platform - expansion,Upsell,Proposal,2026-12-15,62400.0,12,,Sales EU
+D800023,HS560462,SOC platform - expansion,Upsell,Negotiation,2027-01-15,51400.0,12,,Sales EU
+D800024,HS560721,SOC platform - expansion,Upsell,Negotiation,2027-02-15,47300.0,12,,Sales EU
+D800025,HS560280,SOC platform - expansion,Upsell,Proposal,2027-01-08,43800.0,12,,Sales EU
+D800026,HS560497,SOC platform - expansion,Upsell,Negotiation,2027-02-24,88900.0,12,,Sales EU
+D800027,HS561505,SOC platform - expansion,Upsell,Qualified,2027-02-27,57900.0,12,,Sales EU
+D800028,HS560917,SOC platform - expansion,Upsell,Negotiation,2027-02-18,66300.0,12,,Sales EU
+D800029,HS562051,SOC platform - expansion,Upsell,Proposal,2027-02-01,34700.0,12,,Sales EU
+D800030,HS562737,SOC platform - expansion,Upsell,Qualified,2027-01-13,18300.0,12,,Sales EU
+D800031,HS560574,SOC platform - expansion,Upsell,Qualified,2026-12-12,70000.0,12,,Sales EU
+D800032,HS560504,SOC platform - expansion,Upsell,Qualified,2027-03-14,76200.0,12,,Sales EU
+D800033,HS560161,SOC platform - expansion,Upsell,Qualified,2027-02-23,21800.0,12,,Sales EU
+D800034,HS561645,SOC platform - expansion,Upsell,Negotiation,2026-12-18,45700.0,12,,Sales EU
+D800035,HS562380,SOC platform - expansion,Upsell,Negotiation,2027-01-12,47700.0,12,,Sales EU
+D800036,HS562366,SOC platform - expansion,Upsell,Negotiation,2027-02-08,32200.0,12,,Sales EU
+D800037,HS562492,SOC platform - expansion,Upsell,Proposal,2027-02-28,26500.0,12,,Sales EU
+D800038,HS562443,SOC platform - expansion,Upsell,Negotiation,2027-01-15,23900.0,12,,Sales EU
+D800039,HS560476,SOC platform - expansion,Upsell,Negotiation,2027-01-14,45000.0,12,,Sales EU
+D800040,HS561512,SOC platform - expansion,Upsell,Proposal,2026-12-09,18300.0,12,,Sales EU
+D800041,HS560469,SOC platform - expansion,Upsell,Qualified,2027-01-19,70900.0,12,,Sales EU
+D800042,HS561652,SOC platform - expansion,Upsell,Qualified,2027-01-27,24800.0,12,,Sales EU
+D800043,HS560973,SOC platform - expansion,Upsell,Negotiation,2027-03-24,16000.0,12,,Sales EU
+D800044,HS560070,SOC platform - expansion,Upsell,Proposal,2027-03-12,73100.0,12,,Sales EU
+D800045,HS562436,SOC platform - expansion,Upsell,Negotiation,2027-02-28,80600.0,12,,Sales EU
+D800046,HS561785,SOC platform - expansion,Upsell,Negotiation,2027-03-02,28900.0,12,,Sales EU
+D800047,HS560315,SOC platform - expansion,Upsell,Proposal,2027-01-27,20000.0,12,,Sales EU
+D800048,HS561456,SOC platform - expansion,Upsell,Negotiation,2026-12-16,33800.0,12,,Sales EU
+D800049,HS561806,SOC platform - expansion,Upsell,Qualified,2027-03-02,64900.0,12,,Sales EU
+D800050,HS562009,SOC platform - expansion,Upsell,Negotiation,2027-03-02,37500.0,12,,Sales EU
+D800051,HS562695,SOC platform - expansion,Upsell,Negotiation,2027-03-30,39000.0,12,,Sales EU
+D800052,HS562191,SOC platform - expansion,Upsell,Qualified,2027-03-23,25600.0,12,,Sales EU
+D800053,HS561211,SOC platform - expansion,Upsell,Negotiation,2026-12-23,50000.0,12,,Sales EU
+D800054,HS560119,SOC platform - expansion,Upsell,Negotiation,2027-03-16,75800.0,12,,Sales EU
+D800055,HS560210,SOC platform - expansion,Upsell,Negotiation,2027-03-06,68800.0,12,,Sales EU
+D800056,HS562849,SOC platform - expansion,Upsell,Proposal,2027-01-10,74500.0,12,,Sales EU
+D800057,HS562569,SOC platform - expansion,Upsell,Proposal,2026-12-11,54400.0,12,,Sales EU
+D800058,HS562828,SOC platform - expansion,Upsell,Negotiation,2027-03-15,87600.0,12,,Sales EU
+D800059,HS561421,SOC platform - expansion,Upsell,Qualified,2027-01-14,58800.0,12,,Sales EU

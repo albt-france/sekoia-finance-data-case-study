@@ -1,0 +1,20 @@
+provider,region,service,sku,unit,begin_range,end_range,price,currency,published
+AWS,eu-west-3 (Paris),Amazon S3,Standard - Infrequent Access,GB-Mo,0,Inf,0.0131,USD,2026-11-19T17:55:03Z
+AWS,eu-west-3 (Paris),Amazon S3,Standard,GB-Mo,0,51200,0.024,USD,2026-11-19T17:55:03Z
+AWS,eu-west-3 (Paris),Amazon S3,Standard,GB-Mo,51200,512000,0.023,USD,2026-11-19T17:55:03Z
+AWS,eu-west-3 (Paris),Amazon S3,Standard,GB-Mo,512000,Inf,0.022,USD,2026-11-19T17:55:03Z
+AWS,eu-west-3 (Paris),Amazon EC2,"c6i.2xlarge (8 vCPU, 16 GiB)",Hrs,0,Inf,0.404,USD,2026-11-19T22:09:53Z
+AWS,eu-west-3 (Paris),Amazon EC2,"r6i.2xlarge (8 vCPU, 64 GiB)",Hrs,0,Inf,0.592,USD,2026-11-19T22:09:53Z
+AWS,eu-west-3 (Paris),Amazon EC2,"g5.xlarge (4 vCPU, 16 GiB)",Hrs,0,Inf,1.277,USD,2026-11-19T22:09:53Z
+AWS,eu-west-3 (Paris),Amazon EC2,"m6i.xlarge (4 vCPU, 16 GiB)",Hrs,0,Inf,0.224,USD,2026-11-19T22:09:53Z
+Azure,francecentral,Blob Storage (General Block Blob v2),Archive LRS Data Stored,1 GB/Month,0,Inf,0.0016,EUR,2019-06-01
+Azure,francecentral,Blob Storage (General Block Blob v2),Cool LRS Data Stored,1 GB/Month,0,Inf,0.0094,EUR,2017-09-01
+Azure,francecentral,Blob Storage (General Block Blob v2),Hot LRS Data Stored,1 GB/Month,0,Inf,0.0172,EUR,2017-09-01
+OVHcloud,FR catalog,Public Cloud,Cold Archive,GB-month,0,Inf,0.0024,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,Public Cloud,Object Storage Standard (S3 API),GB-month,0,Inf,0.007,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,AI Endpoints (Llama 3.3 70B),input tokens,1M tokens,0,Inf,0.67,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,AI Endpoints (Llama 3.3 70B),output tokens,1M tokens,0,Inf,0.67,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,Public Cloud,"Instance c3-8 (4 vCPU, 8 GB)",hour,0,Inf,0.0913,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,Public Cloud,"Instance b3-16 (4 vCPU, 16 GB)",hour,0,Inf,0.1023,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,Public Cloud,"Instance r3-32 (2 vCPU, 32 GB)",hour,0,Inf,0.1324,EUR (excl. VAT),catalog read 2026-11-20
+OVHcloud,FR catalog,Public Cloud,"Instance b3-8 (2 vCPU, 8 GB)",hour,0,Inf,0.0512,EUR (excl. VAT),catalog read 2026-11-20

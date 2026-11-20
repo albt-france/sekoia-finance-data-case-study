@@ -1,0 +1,24 @@
+test,status,failing_rows
+unique contract_id in billing,OK,0
+unique invoice_id in billing,OK,0
+unique deal_id in CRM,OK,0
+unique employee_id in HRIS,OK,0
+"one payslip per person, month and type",OK,0
+"no null keys or amounts in billing, ledger and payroll",OK,0
+every ledger entry is balanced (debit = credit),OK,0
+every billing account maps to one canonical customer,OK,0
+merged duplicate accounts have the same normalised name,OK,0
+ARR bridge adds up (open + new + expansion + contraction + churn = close),OK,0
+reference ARR never falls by more than 3% in a month (catches data artefacts such as migration gaps),OK,0
+NRR and GRR within plausible bounds (GRR <= 100% <= ... and NRR >= GRR),OK,0
+"unit-economics allocation is complete (allocated COGS = COGS pools, per month)",OK,0
+reconciliation CRM vs billing ARR: residual below 1% after classified differences,OK,0
+reconciliation billing vs ledger revenue: residual below 0.5%,OK,0
+reconciliation payroll vs ledger: residual below 0.5%,OK,0
+reconciliation cloud bills vs ledger: residual below 0.5%,OK,0
+reconciliation bank vs ledger cash: difference below 0.01% of the balance,OK,0
+everyone in reported headcount has a regular payslip that month,OK,0
+confidentiality - no payroll figure for a group of fewer than 5 people,OK,0
+confidentiality - no person-level column in any exported mart,OK,0
+budget covers every month and line of 2026 to date,OK,0
+price + volume + FX effects add up to the AWS change,OK,0
